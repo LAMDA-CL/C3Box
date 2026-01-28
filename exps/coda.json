@@ -1,0 +1,37 @@
+{
+    "prefix": " ",
+    "dataset": "cifar224",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "model_name": "coda",
+    "class_num": 100,
+    "nb_tasks": 10,
+    "backbone_type": "clip",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "tuned_epoch": 10,
+    "init_lr": 0.001,
+    "batch_size": 48,
+    "weight_decay": 0,
+    "min_lr": 1e-05,
+    "optimizer": "adam",
+    "scheduler": "cosine",
+    "reinit_optimizer": true,
+    "pretrained": true,
+    "drop": 0.0,
+    "drop_path": 0.0,
+    "prompt_param": [
+        100,
+        8.0,
+        0.0
+    ],
+    "total_class_num": 100
+}

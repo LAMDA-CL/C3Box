@@ -1,0 +1,36 @@
+{
+    "prefix": "cil",
+    "dataset": "cifar224",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": true,
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "model_name": "foster",
+    "backbone_type": "clip",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "beta1": 0.96,
+    "beta2": 0.97,
+    "oofc": "ft",
+    "is_teacher_wa": false,
+    "is_student_wa": false,
+    "lambda_okd": 1,
+    "wa_value": 1,
+    "init_epochs": 20,
+    "init_lr": 0.001,
+    "init_weight_decay": 0.0005,
+    "boosting_epochs": 20,
+    "compression_epochs": 20,
+    "lr": 0.001,
+    "batch_size": 64,
+    "weight_decay": 0.0005,
+    "num_workers": 8,
+    "T": 2,
+    "total_class_num": 100
+}

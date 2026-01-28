@@ -1,0 +1,37 @@
+{
+    "dataset": "aircraft",
+    "batch_size": 64,
+    "shuffle": true,
+    "init_cls": 10,
+    "increment": 10,
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "lora_rank": 8,
+    "lora_mode": "vision+only_kv+text",
+    "lr": 0.001,
+    "reset": false,
+    "only_reset_B": false,
+    "freeze_A": false,
+    "all_test": false,
+    "visual_clsf": true,
+    "visual_clsf_lr": 0.0005,
+    "visual_clsf_batch_size": 64,
+    "visual_clsf_epochs": 3,
+    "real_replay": false,
+    "balance_ft": false,
+    "balance_epochs": 3,
+    "epochs": 10,
+    "task_num": 10,
+    "prefix": "-",
+    "model_name": "mind",
+    "backbone_type": "clip",
+    "model_names": "ViT-B/16",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": true,
+    "total_class_num": 100
+}

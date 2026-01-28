@@ -1,0 +1,27 @@
+{
+    "prefix": "-",
+    "dataset": "aircraft",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": true,
+    "shuffle": true,
+    "init_cls": 10,
+    "increment": 10,
+    "model_name": "proof",
+    "backbone_type": "clip",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "projection_type": "pure_mlp",
+    "frozen_layers": "visual",
+    "tuned_epoch": 10,
+    "init_lr": 0.001,
+    "batch_size": 64,
+    "weight_decay": 0.05,
+    "min_lr": 0,
+    "optimizer": "sgd",
+    "total_class_num": 100
+}

@@ -1,0 +1,45 @@
+{
+    "prefix": "benchmark",
+    "dataset": "cifar224",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "model_name": "memo",
+    "backbone_type": "clip",
+    "train_base": false,
+    "train_adaptive": false,
+    "debug": false,
+    "skip": false,
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "scheduler": "steplr",
+    "init_epoch": 10,
+    "t_max": null,
+    "init_lr": 0.001,
+    "init_weight_decay": 0.0005,
+    "init_lr_decay": 0.1,
+    "init_milestones": [
+        60,
+        120,
+        170
+    ],
+    "milestones": [
+        80,
+        120,
+        150
+    ],
+    "epochs": 20,
+    "lrate": 0.001,
+    "batch_size": 32,
+    "weight_decay": 0.0002,
+    "lrate_decay": 0.1,
+    "alpha_aux": 1.0,
+    "total_class_num": 100
+}

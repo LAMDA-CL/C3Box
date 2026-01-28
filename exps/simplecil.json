@@ -1,0 +1,19 @@
+{
+    "prefix": "reproduce",
+    "dataset": "cifar224",
+    "memory_size": 0,
+    "memory_per_class": 0,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 10,
+    "increment": 10,
+    "model_name": "simplecil",
+    "backbone_type": "clip",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "total_class_num": 100
+}

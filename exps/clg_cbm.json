@@ -1,0 +1,44 @@
+{
+    "dataset": "cifar224",
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "device": [
+        "0"
+    ],
+    "sim": 1,
+    "epochs": 30,
+    "lr": 0.01,
+    "FB_epoch": 60,
+    "FB_epoch_inc": 60,
+    "init_lr": 0.001,
+    "pool": 10,
+    "sg_num": 1,
+    "milestones": [
+        30,
+        40,
+        50
+    ],
+    "prefix": "continual-CLIP",
+    "model_name": "clg_cbm",
+    "backbone_type": "clip",
+    "seed": [
+        1993
+    ],
+    "batch_size": 48,
+    "division_power": 5,
+    "linear_model": [
+        "linear",
+        "bn",
+        "linear"
+    ],
+    "score_model": [
+        "bn",
+        "linear"
+    ],
+    "regularizer": "mahalanobis",
+    "print_freq": 10,
+    "memory_size": 0,
+    "repeat": false,
+    "total_class_num": 100
+}

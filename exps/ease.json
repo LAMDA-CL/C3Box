@@ -1,0 +1,43 @@
+{
+    "prefix": " ",
+    "dataset": "cifar224",
+    "memory_size": 0,
+    "memory_per_class": 0,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "model_name": "ease",
+    "backbone_type": "clip",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "tuned_epoch": 10,
+    "init_epochs": 10,
+    "init_lr": 0.025,
+    "later_epochs": 10,
+    "later_lr": 0.025,
+    "batch_size": 48,
+    "weight_decay": 0.0005,
+    "min_lr": 0,
+    "optimizer": "sgd",
+    "scheduler": "cosine",
+    "pretrained": true,
+    "vpt_type": "Deep",
+    "prompt_token_num": 5,
+    "ffn_num": 64,
+    "use_diagonal": false,
+    "recalc_sim": true,
+    "alpha": 0.1,
+    "use_init_ptm": false,
+    "beta": 0,
+    "use_old_data": false,
+    "use_reweight": true,
+    "moni_adam": false,
+    "adapter_num": -1,
+    "nb_classes": 100,
+    "total_class_num": 100
+}

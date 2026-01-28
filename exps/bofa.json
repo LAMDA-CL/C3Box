@@ -1,0 +1,30 @@
+{
+    "prefix": "-",
+    "dataset": "cifar224",
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "backbone_type": "clip",
+    "model_name": "bofa",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "projection_type": "pure_mlp",
+    "frozen_layers": "visual",
+    "tuned_epoch": 15,
+    "init_lr": 0.05,
+    "batch_size": 128,
+    "weight_decay": 0.05,
+    "min_lr": 0,
+    "optimizer": "sgd",
+    "text_des": 2,
+    "image_aug": 0.5,
+    "stat": 0.1,
+    "memory_size": 0,
+    "Kt": 64,
+    "use_up_cov": true,
+    "total_class_num": 100
+}

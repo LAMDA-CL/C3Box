@@ -1,0 +1,25 @@
+{
+    "prefix": "reproduce",
+    "dataset": "aircraft",
+    "memory_size": 0,
+    "memory_per_class": 0,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 50,
+    "increment": 10,
+    "model_name": "rapf",
+    "backbone_type": "clip",
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "batch_size": 128,
+    "init_lr": 0.001,
+    "epochs": 10,
+    "beta": 2,
+    "mix_bias": 0.6,
+    "threshold": 0.55,
+    "total_class_num": 100
+}
