@@ -15,7 +15,7 @@
 
 ## 🎉 Introduction
 
-Welcome to C3Box, a CLIP-based continual learning toolbox. On the one hand, C3Box implements some state-of-the-art CLIP-based class-incremental learning algorithms, such as CLG-CBM, PROOF, and ENGINE. On the other hand, C3Box also fits typical class-incremental learning algorithms (*e.g.*, FOSTER, and MEMO) and ViT-based class-incremental learning algorithms (*e.g.*, L2P, and DualPrompt) to evaluate their effectiveness.
+Welcome to C3Box, a CLIP-based continual learning toolbox <a href="https://arxiv.org/abs/2601.20852">[Paper]</a>. On the one hand, C3Box implements some state-of-the-art CLIP-based class-incremental learning algorithms, such as CLG-CBM, PROOF, and ENGINE. On the other hand, C3Box also fits typical class-incremental learning algorithms (*e.g.*, FOSTER, and MEMO) and ViT-based class-incremental learning algorithms (*e.g.*, L2P, and DualPrompt) to evaluate their effectiveness.
 
 **If you use any content of this repo for your work, please cite the following bib entries:**
 
@@ -45,6 +45,7 @@ Welcome to C3Box, a CLIP-based continual learning toolbox. On the one hand, C3Bo
     }
 
 ## 📰 What's New
+- [2026-01]🌟 Initial version of C3Box is released <a href="https://arxiv.org/abs/2601.20852">[Paper]</a>.
 - [2026-01]🌟 Release the code.
 
 ## 🌟 Methods Reproduced
