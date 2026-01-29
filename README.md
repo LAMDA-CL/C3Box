@@ -17,6 +17,32 @@
 
 Welcome to C3Box, a CLIP-based continual learning toolbox. On the one hand, C3Box implements some state-of-the-art CLIP-based class-incremental learning algorithms, such as CLG-CBM, PROOF, and ENGINE. On the other hand, C3Box also fits typical class-incremental learning algorithms (*e.g.*, FOSTER, and MEMO) and ViT-based class-incremental learning algorithms (*e.g.*, L2P, and DualPrompt) to evaluate their effectiveness.
 
+**If you use any content of this repo for your work, please cite the following bib entries:**
+
+    @article{sun2026c3box,
+        title={C3Box: A CLIP-based Class-Incremental Learning Toolbox}, 
+        author={Hao Sun and Da-Wei Zhou},
+        journal={arXiv preprint arXiv:2601.20852},
+        year={2026}
+   }
+   
+    @inproceedings{zhou2024continual,
+        title={Continual learning with pre-trained models: A survey},
+        author={Zhou, Da-Wei and Sun, Hai-Long and Ning, Jingyi and Ye, Han-Jia and Zhan, De-Chuan},
+        booktitle={IJCAI},
+        pages={8363-8371},
+        year={2024}
+    }
+
+    @article{zhou2024class,
+        author = {Zhou, Da-Wei and Wang, Qi-Wei and Qi, Zhi-Hong and Ye, Han-Jia and Zhan, De-Chuan and Liu, Ziwei},
+        title = {Class-Incremental Learning: A Survey},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+        volume={46},
+        number={12},
+        pages={9851--9873},
+        year = {2024}
+    }
 
 ## 📰 What's New
 - [2026-01]🌟 Release the code.
