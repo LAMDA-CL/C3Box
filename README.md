@@ -20,12 +20,12 @@ Welcome to C3Box, a CLIP-based continual learning toolbox. On the one hand, C3Bo
 **If you use any content of this repo for your work, please cite the following bib entries:**
 
     @article{sun2026c3box,
-        title={C3Box: A CLIP-based Class-Incremental Learning Toolbox}, 
+        title={C3Box: A CLIP-based Class-Incremental Learning Toolbox},
         author={Hao Sun and Da-Wei Zhou},
         journal={arXiv preprint arXiv:2601.20852},
         year={2026}
-   }
-   
+    }
+
     @inproceedings{zhou2024continual,
         title={Continual learning with pre-trained models: A survey},
         author={Zhou, Da-Wei and Sun, Hai-Long and Ning, Jingyi and Ye, Han-Jia and Zhan, De-Chuan},
