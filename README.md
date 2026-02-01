@@ -21,11 +21,11 @@ Welcome to C3Box, a CLIP-based continual learning toolbox <a href="https://arxiv
 
     @article{sun2026c3box,
         title={C3Box: A CLIP-based Class-Incremental Learning Toolbox},
-        author={Hao Sun and Da-Wei Zhou},
+        author={Sun, Hao and Zhou, Da-Wei},
         journal={arXiv preprint arXiv:2601.20852},
         year={2026}
     }
-
+    
     @inproceedings{zhou2024continual,
         title={Continual learning with pre-trained models: A survey},
         author={Zhou, Da-Wei and Sun, Hai-Long and Ning, Jingyi and Ye, Han-Jia and Zhan, De-Chuan},
