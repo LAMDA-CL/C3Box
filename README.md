@@ -67,6 +67,7 @@ Welcome to C3Box, a CLIP-based continual learning toolbox <a href="https://arxiv
 - `PROOF`: Learning without Forgetting for Vision-Language Models. TPAMI 2025 [[paper](https://arxiv.org/abs/2305.19270)]
 - `ENGINE`: External Knowledge Injection for CLIP-Based Class-Incremental Learning. ICCV 2025 [[paper](https://arxiv.org/abs/2503.08510)]
 - `BOFA`: BOFA: Bridge-Layer Orthogonal Low-Rank Fusion for CLIP-Based Class-Incremental Learning. AAAI 2026 [[paper](https://arxiv.org/abs/2511.11421)]
+- `AREA`: AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning. ICML 2026 [[paper](https://arxiv.org/abs/2605.28809)]
 
 ## ☄️ how to use
 
@@ -107,14 +108,14 @@ cd LAMDA-C3Box
 
     These parameters include:
 
-   - **model_name**: The model's name should be selected from the 11 methods listed above, *i.e.*, `finetune`, `zs_clip`, `foster`, `memo`, `simplecil`, `l2p`, `dual`, `coda`, `ease`, `aper`, `tuna`, `rapf`, `clg_cbm`, `mg_clip`, `proof`, `engine` and `bofa`.
+   - **model_name**: The model's name should be selected from the 11 methods listed above, *i.e.*, `finetune`, `zs_clip`, `foster`, `memo`, `simplecil`, `l2p`, `dual`, `coda`, `ease`, `aper`, `tuna`, `rapf`, `clg_cbm`, `mg_clip`, `proof`, `engine`, `bofa` and `area`.
    - **init_cls**: The number of classes in the initial incremental stage. As the configuration of CIL includes different settings with varying class numbers at the outset, our framework accommodates diverse options for defining the initial stage.
    - **increment**: The number of classes in each incremental stage $i$, $i$ > 1. By default, the number of classes is equal across all incremental stages.
    - **backbone_type**: The backbone network of the incremental model. It can be selected from a variety of pre-trained models available in the Timm library, such as **LAION-400M** and **OpenAI**,  for
 the CLIP with **ViT-B/16**.
    - **seed**: The random seed is utilized for shuffling the class order. It is set to 1993 by default, following the benchmark setting iCaRL.
    - **fixed_memory**: a Boolean parameter. When set to true, the model will maintain a fixed amount of memory per class. Alternatively, when set to false, the model will preserve dynamic memory allocation per class.
-   - **memory_size**: The total number of exemplars in the incremental learning process. If `fixed_memory` is set to false, assuming there are $K$ classes at the current stage, the model will preserve $\left[\frac{{memory-size}}{K}\right]$ exemplars for each class. **ZS-CLIP, SimpleCIL, ADAM, EASE, TUNA, CLG_CBM, MG_CLIP, ENGINE and BOFA do not require exemplars.** Therefore, parameters related to the exemplar are not utilized.
+   - **memory_size**: The total number of exemplars in the incremental learning process. If `fixed_memory` is set to false, assuming there are $K$ classes at the current stage, the model will preserve $\left[\frac{{memory-size}}{K}\right]$ exemplars for each class. **ZS-CLIP, SimpleCIL, ADAM, EASE, TUNA, CLG_CBM, MG_CLIP, ENGINE, BOFA and AREA do not require exemplars.** Therefore, parameters related to the exemplar are not utilized.
    - **memory_per_class**: If `fixed memory` is set to true, the model will preserve a fixed number of `memory_per_class` exemplars for each class.
 
 ### 🔎 Datasets
