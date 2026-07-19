@@ -1,0 +1,20 @@
+train_23813.png	The image depicts a flat expanse of land with a golden-brown hue and uneven grassy texture, set against a dramatic sky with dark, sweeping clouds that convey an impending storm.
+train_05715.png	The plain appears as a vast, gently undulating landscape with a mix of green and brown patches, viewed from a slightly elevated position, under a clear blue sky, surrounded by a faint horizon line and sparse vegetation.
+train_11056.png	A lush green plain stretches out with a textured carpet of mixed grasses under a cloudy sky, bordered by a dense line of dark green trees in the background, with a scattering of light purple flowers adding subtle color variation.
+train_03693.png	The plain features lush green grass with a slightly blurred texture covering the foreground, set under a partly cloudy sky with patches of blue visible, suggesting a typical rural field environment.
+train_09162.png	The image shows a wide expanse of green grass under a clear blue sky, with a distant line of dark trees or structures forming the horizon, viewed from a ground-level perspective.
+train_31462.png	A grassy plain with tall green-brown vegetation stretches under a partly clear sky, with a horizon line barely visible in the distance.
+train_07227.png	The plain exhibits a patchy texture with alternating areas of green grass and brown earth, viewed from an oblique angle, set against a background of dense, dark green trees under a cloudy sky.
+train_09301.png	A vast, flat, and arid plain stretches under a clear blue sky, dotted with sparse, dark vegetation against a light brown earth, forming a horizon with distant mountainous haze.
+train_20898.png	A vast stretch of green grassland is seen from a low angle, bordered by a faint line of distant trees against a pale blue sky.
+train_05534.png	The image shows a dry, flat plain covered with golden-brown grass under a clear blue sky, with distant trees lining the horizon.
+train_19494.png	The plain appears to be a vast expanse of muted brown grassland stretching into the distance under a clear blue sky, framed by dark, leafy branches in the foreground, with scattered white clouds accentuating the open horizon.
+train_02824.png	A vast, flat landscape stretches under a wide, dramatic sky dominated by deep blue and gray clouds, with a narrow dirt path cutting through the golden-brown grassy field, creating a sense of endlessness and openness from a ground-level viewpoint.
+train_45749.png	A vast, flat expanse with a lush dark green texture, receding into a distant horizon marked by a subtle blend of blue sky and light clouds, suggesting an open and airy environment with minimal features.
+train_25376.png	A vast plain with muted tan and green hues stretches toward the horizon under an expansive blue sky, bordered by a distant line of dark hills or mountains.
+train_45514.png	The image depicts an expansive, arid plain with a predominantly reddish-brown, earthy texture under a clear blue sky, dotted sparsely with low shrubbery and distant flat terrain, suggesting a dry, open landscape.
+train_26999.png	A vibrant green plain stretches across the lower half of the image, marked by two parallel reddish-brown lines, under a clear blue sky with a faint horizon.
+train_33308.png	A golden-brown agricultural field with noticeable plowed lines stretches under a clear deep blue sky, highlighted by a solitary tree silhouetted on the horizon.
+train_37380.png	The image depicts a lush green grass plain under a partly cloudy blue sky, with vibrant textures of tall grass leading to a horizon that emphasizes the broadness and openness of the landscape.
+train_33377.png	The image depicts a field with dark green, closely packed shrubs in the foreground, transitioning into a vibrant yellow crop in the middle ground, set against a flat horizon under a clear blue sky.
+train_34437.png	A golden wheat field stretches towards a dark stormy sky, with distant trees silhouetted along the horizon, highlighting the contrast between the golden wheat and the dramatic clouds above.

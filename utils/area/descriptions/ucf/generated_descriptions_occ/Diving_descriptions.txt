@@ -1,0 +1,3 @@
+v_Diving_g09_c03.jpg	A pool scene with various tents and a small visible section of a diving board on the left, heavily occluded by a central column of colorful noise, suggesting outdoor aquatic activity.
+v_Diving_g08_c04.jpg	The image shows a swimming pool scene partially visible with a diving board to the left, surrounded by a group of people, while the center is heavily occluded with a vertical band of colorful noise, and the water appears blue with reflective surfaces.
+v_Diving_g11_c06.jpg	A diver, partially visible against a blurred indoor pool environment, is captured mid-dive with arms extended upward, obscured by heavy multicolored static noise on the left side of the image.

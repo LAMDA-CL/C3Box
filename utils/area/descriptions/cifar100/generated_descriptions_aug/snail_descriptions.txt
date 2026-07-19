@@ -1,0 +1,3 @@
+train_43871.png	The object appears as a dark purple or black, glossy, spiral shell with a smooth texture, positioned sideways with a visible opening on its left side, partially resting on a blurred, light-colored and flat surface.
+train_08947.png	The object appears to be a snail with a modified yellow and olive gradient shell, viewed from above at an angle, partially occluded by a bright, blurred background that suggests foliage or grass.
+train_34385.png	The snail appears dark brown with a slightly reflective, smooth texture, viewed from a side angle showing its elongated body and two extended tentacles, with the background being plain and light gray, highlighting the contrast.

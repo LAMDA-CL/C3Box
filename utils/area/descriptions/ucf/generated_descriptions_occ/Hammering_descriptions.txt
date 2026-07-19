@@ -1,0 +1,3 @@
+v_Hammering_g07_c05.jpg	A person in blue jeans and a plaid shirt is crouched over a wooden beam on a paved surface, with a significant portion of the right side obscured by static-like multicolor digital noise.
+v_Hammering_g23_c04.jpg	A person in a maroon shirt is using a hammer near the ceiling cornice of a purple-walled room, with significant static-like occlusion covering the left side of the image.
+v_Hammering_g19_c03.jpg	A person is kneeling on a dark speckled surface wielding a tool above a reddish-brown wooden beam, with the right portion of the image obscured by multicolored digital noise.

@@ -1,0 +1,20 @@
+train_12578.png	The rocket, viewed from the side, is white with black and orange accents, launching amidst a clear blue sky with a trail of white smoke.
+train_39168.png	An object resembling a rocket, primarily white with a dark-colored upper section, is captured in a vertical ascent against a clear blue sky, emitting a bright plume at its base, with indistinct figures or objects in the foreground.
+train_29570.png	A white rocket with a long, slender shape ascends sharply into a clear blue sky, trailing a thick plume of white smoke.
+train_08821.png	A white rocket with black and orange accents is captured launching vertically against a backdrop of plumes of smoke and a clear blue sky.
+train_31273.png	A tall, white rocket stands vertically against a clear blue sky with wispy clouds, surrounded by green foliage and a distant view of the ocean, featuring distinctly visible fins near its base.
+train_35985.png	The rocket is sleek and metallic with a smooth texture, viewed diagonally ascending against a bright blue sky, leaving behind a distinct plume of fiery orange exhaust.
+train_25544.png	The rocket is viewed from a side angle, appearing gray with a smooth texture, emitting a bright trail of white exhaust against a blue sky, with a distinct conical nose.
+train_15260.png	The rocket, viewed from below, is silhouetted against a gradient sky transitioning from blue to orange, leaving a bright tail of flame and smoke as it ascends, with no discernible surface texture due to the low resolution.
+train_25671.png	The rocket, viewed from the side, is primarily white with contrasting black bands and is launching skyward against a clear blue sky, surrounded by smoke, with a distinct cylindrical shape and a tall, vertical pose.
+train_09592.png	The rocket appears cylindrical with a red upper section and white lower section, rising vertically with a visible vapor or smoke trail against a clear blue sky background.
+train_13437.png	The rocket appears white and smooth with a vertical, pointed pose against a clear blue sky and scattered clouds, highlighting its sleek design.
+train_16297.png	The low-resolution image shows a white rocket with a black nose ascending vertically against a clear blue sky, leaving behind a billowing cloud at its base.
+train_18152.png	The rocket is white with black bands and markings, standing upright against a clear blue sky with a ground-level view and surrounding greenery and distant structures.
+train_28563.png	The rocket appears white with a smooth texture, viewed from the side or slightly beneath it, amidst a blurred green landscape possibly indicating trees, highlighting the distinctive sharp shape and plume below.
+train_41127.png	The low-resolution image shows a vertical, thin, cylindrical object with a predominantly dark body and a small red tip, ascending against a clear blue sky, leaving a single, thin, white contrail behind.
+train_16892.png	A sleek, dark-colored rocket is captured in a vertical ascent, highlighted against a clear blue sky with a billowing plume of white smoke, displaying a distinctive stark contrast.
+train_06150.png	A slender, vertically-aligned rocket with a mostly white exterior and prominent red accents at the top is launching upward against a clear blue sky, leaving behind a long trail of white smoke.
+train_16876.png	The rocket, in a vertical launch position, is sleek with a predominantly white body accented by fiery exhaust, set against a backdrop of clear blue sky and ocean, emphasizing its upward trajectory with a prominent cloud of smoke at its base.
+train_39962.png	A white rocket with a smooth texture is positioned horizontally on a launch pad, emitting flames and smoke from its rear against a clear blue sky and mountainous terrain backdrop.
+train_35173.png	The rocket is predominantly white with a cylindrical shape, featuring a brownish lower section, set against a clear blue sky with a large blurred brown structure to the side.

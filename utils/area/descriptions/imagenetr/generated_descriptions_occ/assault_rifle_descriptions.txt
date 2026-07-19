@@ -1,0 +1,3 @@
+art_0.jpg	The assault rifle appears in profile view with a texture resembling a dollar bill, predominantly green with intricate designs, with significant occlusion on the left side by a colorful, static-like pattern.
+misc_19.jpg	The image depicts a stylized portrayal of a figure with a navy and gold color scheme holding an object resembling an assault rifle, with the central portion heavily occluded by multicolored static noise, leaving only parts of the grip and muzzle visible.
+sticker_0.jpg	The image shows a stencil-style depiction of a person holding an assault rifle, with most of the rifle obscured by heavy pixelation in a square at the lower right, while the visible parts appear in desaturated grayish tones against a worn greenish background.

@@ -1,0 +1,3 @@
+tattoo_5.jpg	The image shows a tattoo of a small winged creature with a brownish hue on a skin surface, partially obscured by heavy multicolored static on the right, with the visible area capturing the creature from a side view.
+sticker_3.jpg	The image shows an orange cartoon-like pig illustration with a smiling expression against a dark blue background, partially obscured by vibrant multicolored static noise on the left side, with the words "ARE FRIENDS NOT FOOD" visibly printed below.
+toy_0.jpg	The visible portion of the object is a pink, cartoon-like figure with smooth texture, featuring rounded ears and a snout, viewed from a front angle with significant occlusion by a central, colorful noise block and resting on what appears to be a stacked, multicolored structure.

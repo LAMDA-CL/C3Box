@@ -1,0 +1,3 @@
+train_03292.png	This image shows a low-resolution glimpse of a pale orchid with delicate petals, partially obscured by a colorful patch in the center, set against a blurred dark green and pink background.
+train_47325.png	The orchid appears predominantly golden yellow with streaks of brown accentuated by a vivid blue-purple hue near the center, partially obscured by a bright overlay that blends with a clear blue sky background.
+train_10206.png	The orchid appears with a smooth white bloom partially visible from the side, set against a dark background with colorful pixelated noise predominantly on the upper left, obscuring some floral details.

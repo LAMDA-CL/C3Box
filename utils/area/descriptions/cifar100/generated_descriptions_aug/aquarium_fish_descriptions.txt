@@ -1,0 +1,3 @@
+train_20298.png	A small fish with a predominantly pink hue and speckled texture, viewed from the side, swimming near a backdrop of similarly colored rocks and blurry aquatic plants, with distinctive vertical stripes visible on its body.
+train_29322.png	The image shows a blue-colored fish with a glossy, smooth texture, viewed from a side angle, against a muted background, with a reflection below.
+train_24948.png	The image shows a bright orange fish with a smooth texture, seen from a side profile with its fins and tail spread out, against a blurred light background.

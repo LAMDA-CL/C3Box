@@ -1,0 +1,3 @@
+v_HorseRiding_g14_c06.jpg	The image shows a side view of a horse with a rider dressed in casual attire, obscured by a colorful pixelated block near the front, with the horse’s brown texture and white markings on the legs visible, set against a blurred natural background.
+v_HorseRiding_g18_c03.jpg	A low-resolution image shows the horse and rider in motion from a side view on a grassy field, obscured by heavy pixelation across the horse's midsection, with the horse's visible legs appearing dark and its hooves white.
+v_HorseRiding_g23_c06.jpg	The image shows a rider on a dark-colored horse, viewed from the side in mid-motion, with a colorful static-like occlusion covering the central area and white tents visible in the background.

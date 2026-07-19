@@ -1,0 +1,3 @@
+Brown_Creeper_0100_24502.jpg	A bird with a brown mottled pattern is perched on a branch, viewed from the side with its head turned slightly, while a lower portion of the image is heavily occluded by a colorful static pattern.
+Brown_Creeper_0023_24940.jpg	The view shows a Brown Creeper clinging to a rugged tree bark, with visible parts including its head and a slender beak, and brown and white streaked plumage; its body is heavily occluded by a rectangle of static-like noise on the left side.
+Brown_Creeper_0121_24574.jpg	The Brown Creeper is perched vertically against a textured tree bark, showcasing a brown and white speckled pattern on its back with a distinct long, curved beak, while heavily occluded by a rectangular area filled with colorful noise on the left side.

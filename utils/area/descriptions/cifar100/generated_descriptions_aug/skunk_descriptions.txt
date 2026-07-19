@@ -1,0 +1,3 @@
+train_22652.png	The image shows a low-resolution, predominantly black creature with a prominent, wavy white stripe along its back, viewed from the side with its tail curled upward, set against a dark, mottled background.
+train_34979.png	The image shows a dark-colored skunk with an artificially enhanced rusty hue, viewed from the side with grass partially obscuring its lower body and terrain in the background, maintaining its distinctive white stripe along its back.
+train_13351.png	The image shows a skunk with a bright greenish hue lying on its side in grass, displaying its fluffy, bushy tail and distinctive white stripes that curve along its dark body, partially obscured by the vibrant background.

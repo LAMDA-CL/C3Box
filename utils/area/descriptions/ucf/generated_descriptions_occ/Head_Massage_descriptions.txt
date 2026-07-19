@@ -1,0 +1,3 @@
+v_HeadMassage_g17_c06.jpg	The image shows a person in a black shirt with orange accents massaging the head of another individual, with the lower part of the image heavily occluded by multicolored digital noise, in a simple, white-walled room.
+v_HeadMassage_g05_c06.jpg	The image shows a person in a light blue shirt seated indoors with curtains behind, receiving a head massage from another person wearing a checkered shirt, with the top of the massaged individual's head heavily occluded by digital noise.
+v_HeadMassage_g04_c01.jpg	The image displays a lightly dressed individual in a bright, indoor setting, with the upper portion obscured by a dense, colorful static occlusion, leaving only the person's lower face and surroundings visible.

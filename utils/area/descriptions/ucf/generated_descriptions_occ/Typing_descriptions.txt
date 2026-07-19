@@ -1,0 +1,3 @@
+v_Typing_g20_c03.jpg	The image shows hands typing on an illuminated keyboard with blue backlighting, viewed from a side angle, with a colorful noise block obscuring part of the scene on the left, revealing a desk and window blinds in the background.
+v_Typing_g12_c05.jpg	A pair of hands are positioned over a white keyboard with visible keys while the left section of the image is heavily occluded by a colorful static pattern, in a dimly lit indoor setting with stacked items in the background.
+v_Typing_g11_c07.jpg	A partial view of a keyboard with visible white keys is set against a cluttered desk environment, while a person's hand in the foreground moves over the keys, obscured partially by multicolored static occlusion.

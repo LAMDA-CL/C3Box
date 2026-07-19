@@ -1,0 +1,3 @@
+train_33787.png	The image depicts a side-angled view of a monochromatic, dark-colored lawn mower with an elongated handle, exposed large rear wheel, and the grass-cutting deck portion partially obscured against a plain, light background.
+train_44313.png	The lawn mower appears at a side angle with a distorted green hue, a rough texture, and is partially obscured by tall grass in a dimly lit outdoor setting.
+train_37315.png	The image depicts a low-resolution, green and black reel lawn mower viewed at an angle, with its handle tilted back as if in motion, featuring distinctive cylindrical front wheels and a partially obscured rear area.

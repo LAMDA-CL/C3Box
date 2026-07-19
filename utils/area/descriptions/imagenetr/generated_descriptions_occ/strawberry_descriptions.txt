@@ -1,0 +1,3 @@
+misc_2.jpg	The visible part of the strawberry has a bright red color with a glossy appearance and a smooth texture, visible from the front, while a significant portion of it is occluded by a colorful, speckled, rectangular overlay on the lower right, with a pink background adorned with smaller strawberry motifs.
+sculpture_4.jpg	The object appears as a large, red, bulbous shape with dark patches, partially obscured by a colorful static-like occlusion on the upper left, and is mounted on a pole against a clear sky.
+painting_0.jpg	The strawberry, held by a hand in the lower part of the image, appears bright red with visible seeds and a smooth texture despite the central and upper occlusion by a colorful, pixelated pattern.

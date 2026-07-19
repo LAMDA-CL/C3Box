@@ -1,0 +1,20 @@
+train_13161.png	The spider has a light-colored, bulbous abdomen with dark markings and long, slender legs, set against a stark, black background that highlights its contrasting coloration.
+train_23688.png	The spider has a brown, slightly hairy texture, viewed from above and positioned sideways, with a blurred background of greenery indicating a natural outdoor setting.
+train_05729.png	The spider, viewed from above on a smooth, brown background, features a yellow, textured abdomen with dark spots and reddish-brown legs, displaying spiny textures at the joints.
+train_05594.png	The spider has an orange-brown body with a distinctive lighter marking in the center, positioned centrally on a dark background that emphasizes its silhouette and web strands.
+train_34970.png	The spider appears with a brown, textured body and lighter, tan legs, viewed from above on a smooth, light-colored surface, emphasizing its distinctively patterned abdomen.
+train_29058.png	A dark-colored spider with a fuzzy texture is seen from above, resting on a rough, brown, bark-like surface, with long legs extending outward prominently.
+train_49095.png	The spider appears brown with a slightly fuzzy texture, positioned mid-air from a side view against a wooden or metal blue-gray structure background, with prominent legs and a small body.
+train_37348.png	The spider-like object is metallic and purple with a shiny, smooth texture, viewed from an overhead angle on a reflective gray surface with glowing green eyes as its most distinguishing feature.
+train_01440.png	The spider has a slender, elongated body with a dark and light striped pattern, situated on a blurred green leaf background, with long legs spread out in a distinct radial symmetry.
+train_01667.png	The spider, captured from a side angle amidst a blurred green foliage background, exhibits an orange-brown hairy texture with distinct black markings and is positioned on a web.
+train_17088.png	A small, dark-colored spider with a smooth texture sits in a neutral background, viewed from above, displaying long thin legs and a somewhat rounded abdomen.
+train_12059.png	The spider has a pale yellow body with dark brown stripes, positioned upside-down on a smooth, neutral-toned surface with tiny hairs visible on its legs.
+train_30696.png	The spider is black with bold white markings, posed centrally on a green leafy background, with long legs and a symmetrical pattern on its abdomen despite the low resolution.
+train_28435.png	The spider appears dark with a slightly glossy texture, viewed in a side profile on a smooth, curved white surface, with a blurred background that includes hints of green and gray, and its legs prominently splayed.
+train_19035.png	The spider appears as a small, light brown figure with a slightly blurred, smooth texture, positioned on a white, evenly-lit surface with out-of-focus, shadowy edges in the background.
+train_03762.png	The spider appears predominantly green with a smooth, shiny texture, viewed from a side angle on a wooden surface with thin, yellowish legs contrasting against the light, blurred background.
+train_13411.png	The spider, seen from above, has a bright white abdomen with black markings, contrasting against its black legs, and is positioned on a leaf with green and yellow hues, creating a distinctive natural backdrop.
+train_12765.png	The spider is dark-bodied with slender, elongated legs, positioned in a corner on a wooden floor against a white wall background, highlighting its angular stance.
+train_23535.png	The spider appears to be predominantly dark with visible lighter areas on its legs, presented in a top-down view against a contrasting two-tone background.
+train_32726.png	The spider appears dark with a slightly glossy texture, is seen from a side view hanging on a web amidst a blurred green and brown forest-like background, with its elongated legs distinctly stretched out.

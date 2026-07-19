@@ -1,0 +1,3 @@
+v_Shotput_g05_c05.jpg	The low-resolution image shows an indoor shotput area with a green floor, a person partially occluded by multicolored static on the left, wearing dark clothing near the circular shotput area, and scattered sports equipment nearby.
+v_Shotput_g10_c04.jpg	The image shows a track with a midground featuring people on a red surface, mostly occluded by a tall, narrow strip of multicolored static noise in the center, while blurred figures in yellow uniforms and a digital scoreboard are partially visible on either side.
+v_Shotput_g06_c06.jpg	A low-resolution shotput scene shows a lush green field in the background with a large, central vertical area obscured by colorful noise, partially revealing a metallic fence and a white door on the left side.

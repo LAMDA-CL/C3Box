@@ -1,0 +1,3 @@
+train_26408.png	The image shows a tiger with its body mostly obscured by a colorful and intricate pattern of bright, overlapping shapes, while a small part of the tiger's striped fur is visible along the edge, set against a green foliage background.
+train_37952.png	The image shows a tiger with orange and black striped texture, partially occluded by a vibrant, pixelated pattern overlaying its lower face, while the visible portion reveals a frontal pose with some details lost to the low resolution.
+train_44099.png	A tiger with a partially obscured body, displaying vibrant orange and black stripes beneath a large, colorful mosaic occlusion, is positioned in a natural, grassy environment.

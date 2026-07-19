@@ -1,0 +1,20 @@
+train_03299.png	A small, smooth brown snail with a spiral shell is positioned on a green leaf, viewed from the side with its softly glistening body extending forward.
+train_09921.png	The snail in the image has a smooth, dark brown shell with a glossy texture, positioned at an angle on an orange ceramic surface in a garden setting, with visible green foliage in the background.
+train_37355.png	A tan snail with a spiral shell featuring subtle darker bands is seen from a side view on a smooth, vibrant green leaf background.
+train_08840.png	A shiny, brown snail shell with a spiral pattern is perched on a slender twig against a soft-focus green background, showcasing a smooth texture and subtle gloss in a side view.
+train_35366.png	The snail appears to have a light brown, spiraled shell with subtle darker bands, a glossy, elongated pale body extending forward on a horizontal wooden branch in a dark, blurred background.
+train_48360.png	The snail displays a glossy, brown spiral shell with darker, fine mottled patterns viewed from a top perspective against a coarse, dark soil background.
+train_14580.png	The snail appears in a side view, showcasing a dark brown, spiraled shell with a glossy texture and prominent ridges, set against a vibrant green, leaf-filled background.
+train_19254.png	The snail in the image, viewed from the side, features a brown shell with lighter spiral banding, a shiny, textured body, and is situated on a dry, cracked earth background.
+train_12598.png	The snail appears to have a brownish shell with a spiral pattern, positioned on a rough, gray surface in an outdoor setting, with blurred greenery and a building in the background.
+train_44682.png	The snail is captured from an upper side angle on a smooth, light-colored surface; its shell appears brown with subtle ridges, and the body seems to extend slightly as it moves.
+train_05968.png	The image shows a low-resolution view of a snail with a brown and cream spiral shell, positioned sideways on a vibrant green leaf, highlighting the glossy shell texture and faint shadow underneath.
+train_46811.png	The snail appears with a light-brown, glossy shell showcasing subtle spiral patterns, viewed from above as it glides over a dark, coarse surface speckled with small orange fragments.
+train_28085.png	The snail, viewed from above, features a spiral shell with earthy brown and cream bands, a slightly glossy texture, and sits on a lush green leaf against a blurred grayish background, emphasizing its natural habitat.
+train_03167.png	The snail, viewed from the side, has a spiral shell with distinct brown and creamy white bands and a glossy texture, set against a blurred backdrop of green grass and brown twigs.
+train_20971.png	The snail is viewed from above, showcasing a light brown, spiraled shell with a glossy texture against a textured gray-blue surface with scattered small debris in the background.
+train_30560.png	A small, light-colored snail with a striped shell is viewed from the side on a flat, gray surface with its tentacles extended and a glossy texture reflecting light.
+train_10347.png	A small brown snail with a spiraled, slightly glossy shell is nestled on a rough, dark and wet surface, surrounded by a natural wood-like environment.
+train_02665.png	The snail exhibits a smooth, brown shell with subtle spiral patterns, viewed from a side angle on a plain white background, with extended tentacles adding to its distinct silhouette.
+train_06126.png	The snail, with a brown, spiraled shell and a slightly glossy texture, is seen side-view on a damp, green leaf, surrounded by the soft focus of earthy, woodland debris.
+train_11490.png	A small, dark-shelled snail with a smooth brown body is seen from a side angle on a light, textured surface likely resembling concrete.

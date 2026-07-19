@@ -1,0 +1,3 @@
+train_31456.png	The image shows a blurred and partially obscured sunflower with golden-yellow petals and a dark, rounded center, with colorful digital noise covering the left portion of the photo, while the visible background appears light and out of focus.
+train_45064.png	The low-resolution image shows a sunflower with vibrant yellow petals and a dark central disk partially occluded by colorful blurred shapes at the lower right, set against a bright blue sky background.
+train_40636.png	A sunflower with vibrant yellow petals and a dark central disk is partially visible, emerging from lush green foliage, with significant occlusion on the lower left side where colorful patterns obscure the stem.

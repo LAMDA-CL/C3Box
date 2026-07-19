@@ -1,0 +1,3 @@
+train_30666.png	The low-resolution image depicts a lion with a dark maroon hue and smooth texture, facing forward with a slightly tilted head amidst a blurred, reddish environment, emphasizing its distinctive mane and facial features despite visual noise.
+train_18475.png	The image shows a low-resolution lion with a reddish hue standing in profile on a grassy, blurred background, with visibility mostly clear but some details obscured due to pixelation and color distortion.
+train_38193.png	The visually augmented image depicts a green-tinted lion-like figure lying on a textured brown and maroon surface with its head turned slightly toward the viewer, exhibiting an altered posture with its body partly obscured by the swirling background patterns.

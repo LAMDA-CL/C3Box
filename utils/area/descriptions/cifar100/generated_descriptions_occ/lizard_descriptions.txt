@@ -1,0 +1,3 @@
+train_11781.png	The image shows a low-resolution and heavily occluded object with a mosaic of vibrant neon colors, mostly obscured except for some angular shapes, set against a uniform brownish background.
+train_02715.png	The lizard appears to have a sandy brown texture with a blurring effect, partially lying on a muted gray surface, with significant occlusion by a bright abstract pattern in the lower right corner.
+train_38380.png	The image shows a hand holding an object with a section heavily occluded by colorful confetti, while the exposed part suggests a smooth, possibly scaly surface with a hint of green, seen partially from above.

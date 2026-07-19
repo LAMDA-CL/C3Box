@@ -1,0 +1,3 @@
+train_45670.png	The image depicts a low-resolution, green-tinted object resembling a squirrel, viewed from above with a slightly blurred texture, curled tail, and its back legs partially obscured by a shadowy area, set against a pale background.
+train_33922.png	The creature appears olive green with a glossy texture, sitting upright on a branch in a forested setting, with its face partially obscured by a shadow and its tail curving around its body.
+train_40423.png	The image shows a blue and pink-toned squirrel with a smooth texture viewed from the side while sitting on grass, with the tail partially obscured and the background appearing as a blurred green and brown mix.

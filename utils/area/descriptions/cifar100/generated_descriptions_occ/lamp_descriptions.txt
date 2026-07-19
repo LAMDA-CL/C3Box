@@ -1,0 +1,3 @@
+train_04644.png	The image shows a lamp with an orange lampshade, a tall dark stand, and colorful visual noise on the left side occluding parts of its structure, set against a neutral background.
+train_21424.png	The object features a dark, cylindrical form at an upper angle with a textured multicolored base partially obscured by abstract shapes.
+train_23747.png	The lamp appears with a colorful, mosaic-like texture, viewed from a slightly elevated angle with a large black circular shape partially obscuring its lower portion.

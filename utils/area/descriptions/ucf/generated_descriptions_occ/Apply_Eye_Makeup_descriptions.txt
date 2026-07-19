@@ -1,0 +1,3 @@
+v_ApplyEyeMakeup_g02_c04.jpg	The image shows a person viewed from the side, applying eye makeup with one hand, against a colorful backdrop and cluttered table, with significant pixelation obscuring their face.
+v_ApplyEyeMakeup_g06_c04.jpg	The visible portion of the image shows a person with light skin tone applying dark eye makeup with an applicator, viewed close-up from the front, while the right side is heavily occluded by multicolored static.
+v_ApplyEyeMakeup_g07_c05.jpg	A person with partially visible long dark hair is having their eye makeup applied by another person holding a brush, with a colorful, pixelated occlusion covering most of the face and upper body area.

@@ -1,0 +1,3 @@
+sculpture_3.jpg	The image shows a vertically-oriented, metallic, reflective, pointed object resembling a missile, with a large, pixelated occlusion covering the central and lower portion, set against a blue sky with scattered clouds.
+graphic_4.jpg	The visible part of the missile is predominantly white with a sleek, elongated shape seen from a diagonal side view, while heavily occluded by a colorful, pixelated overlay in the center, set against a clear sky background.
+misc_1.jpg	The object appears as a red and white pointed structure, viewed from the side against a blue background with significant central occlusion by multicolored static noise, with visible red fins or extensions on either side.

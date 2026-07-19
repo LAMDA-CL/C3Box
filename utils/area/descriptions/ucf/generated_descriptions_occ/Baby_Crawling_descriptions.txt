@@ -1,0 +1,3 @@
+v_BabyCrawling_g16_c05.jpg	A baby with light brown hair adorned with a pink bow is visible from a rear viewpoint, crawling on a textured, beige carpeted floor, with significant pixelated occlusion covering the body.
+v_BabyCrawling_g19_c01.jpg	There's a heavily occluded indoor space with a wooden floor and beige walls visible on the left, while the rest is obscured by colorful static noise.
+v_BabyCrawling_g22_c02.jpg	A small, blurry figure with a visible arm in a light-colored sleeve is captured from above on a wooden floor, with the rest covered by colorful static occlusion.

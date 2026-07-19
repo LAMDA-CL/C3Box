@@ -1,0 +1,3 @@
+art_0.jpg	The king penguin, viewed from a side profile, displays a smooth, monochrome texture with visible black and white areas, its head angled upwards, while the right side is heavily occluded by a vibrant, noise-filled block, positioned against a plain background.
+cartoon_10.jpg	The king penguin is partially obstructed by a rectangular area of colorful static noise, with the visible portion showing a sketched grayscale texture, a side view of the head and beak, and a sign hanging around its neck.
+painting_0.jpg	A king penguin is partially visible on the right, displaying a yellow-orange patch on its neck amidst black and white plumage, while the rest is obscured by heavy pixelation, with surrounding elements featuring blue and white tones.

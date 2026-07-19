@@ -1,0 +1,3 @@
+misc_43.jpg	The low-resolution image shows a person in a blue shirt holding an arm with the forearm heavily occluded by static-like noise, and the background includes a wooden and gray floor, a black stool, and a partially visible box with red and blue text.
+misc_73.jpg	The image shows a black and white depiction of a person viewed from the side on a wall with colorful graffiti, heavily occluded by a vertical multicolored static pattern.
+misc_1.jpg	The gasmask appears white and smooth, partially visible in profile from the left side of the face, with a heavy colorful static occlusion covering the right half of the image in a camouflaged environment background.

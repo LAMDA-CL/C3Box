@@ -1,0 +1,3 @@
+train_41990.png	The bus, seen from a front-side angle, is partially obscured by colorful, abstract patterns, with a glimpse of white or light-colored bodywork visible underneath the vibrant overlay.
+train_23158.png	The image shows a yellow school bus viewed from a front-side angle, with its distinctive black stripes partially visible and the front covered by a patch of colorful, pixelated occlusion.
+train_12655.png	The image shows a heavily occluded bus with the visible section in a bluish hue, captured from a side angle on a street, with a vibrant mosaic covering the majority of the surface area, leaving little discernible detail of the bus itself.

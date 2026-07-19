@@ -1,0 +1,3 @@
+train_34142.png	The image depicts an upward-tilted whale figure in low resolution, bearing a smooth, altered teal-blue coloration with textured light spots, against a bright aqua background, with the tail partially obscured by shadow.
+train_33476.png	The image depicts a black silhouette of a whale with its body arched, viewed from the side, featuring a prominent dorsal fin and flippers, set against a stark white background without any visible environmental details.
+train_01046.png	The image shows a whale with a dark purple and blue mottled texture, viewed from a slightly overhead angle with the dorsal fin partially submerged, against a similarly colored water environment with minimal occlusion.

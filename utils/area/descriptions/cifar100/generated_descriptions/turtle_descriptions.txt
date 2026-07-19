@@ -1,0 +1,20 @@
+train_32850.png	The turtle, viewed head-on, features a dark, smooth shell with a rounded shape, surrounded by green foliage and grass in the background, and has a stubby, partially visible head with dark markings.
+train_12948.png	A sea turtle with a textured, mottled shell in shades of brown and green swims in clear, bluish water, with its flippers outstretched and a backdrop of small fish visible in the background.
+train_16712.png	A light-colored turtle with a sandy, textured shell is partially buried in sand, visible from an overhead angle with a distinct yellowish hue on its head and flippers, set against a muted beach environment.
+train_16077.png	The turtle appears in a dark underwater environment, showcasing a predominantly green and yellow textured shell with visible scales, positioned in an overhead view with its limbs partially visible.
+train_08311.png	A turtle with a greenish-brown, textured shell is swimming upward in a blue aquatic environment, with visible flippers and a slightly open mouth.
+train_35379.png	The turtle, viewed from a side angle in a swimming position, has a greenish-brown textured shell with a mottled surface, set against a clear blue aquatic background.
+train_35110.png	The turtle appears from a top view in a clouded blue underwater environment, showcasing a dark, speckled shell with lighter limb edges, silhouetted by the diffused sunlight.
+train_35559.png	The turtle appears with a dark, smooth shell and splayed limbs viewed from above, situated on a rocky surface beside a deep blue or gray background.
+train_13233.png	A green turtle with a patterned shell swims in clear blue waters, viewed from the side, with a diver and deep ocean backdrop.
+train_30286.png	The turtle appears olive-brown and textured with a slightly ridged shell, viewed from a three-quarters angle in an underwater setting with coral and deep blue water surrounding it.
+train_12110.png	The turtle appears to be swimming underwater with a smooth, greenish-brown textured shell, visible from a side angle, surrounded by a clear, aqua-colored aquatic environment.
+train_45081.png	The turtle appears to be a light brown hue with a rough texture, viewed from a slightly elevated angle on a sandy beach at night, featuring a noticeable dome-shaped shell and a visible tracking device on its back.
+train_24576.png	The turtle appears olive green with a slightly mottled texture, viewed from below against a clear blue sky, showcasing elongated flippers and a smooth, oval-shaped shell with a distinct head extending forward.
+train_16641.png	The turtle is seen from the side swimming in clear blue water, displaying a mottled greenish-brown shell with a textured pattern and a distinctive pale underbelly.
+train_10832.png	The turtle is swimming underwater with a mottled brown and green shell, a pale underbelly, and extended flippers against a clear blue ocean backdrop.
+train_21680.png	The image shows a dark brown turtle with a textured shell featuring lighter patches, viewed from above with extended limbs, against a plain white background.
+train_37289.png	A small, greenish-brown turtle is seen on a white and slightly pink surface, with its head extended forward and limbs spread out, in a well-lit indoor setting with a blurred background.
+train_23460.png	The turtle appears with a brownish, textured shell and flippers, viewed from a slightly elevated angle in a blue, aquatic environment with light reflecting off the water surface.
+train_25556.png	A turtle with a brown, textured shell and a light underbelly is swimming mid-water, viewed from the side against a clear blue aquatic background, with its flippers extended gracefully.
+train_28018.png	This object appears to have a smooth, light-colored surface with a prominent rounded front, viewed at an angle, set against a blurred, grayish background that suggests a sandy or grainy environment.

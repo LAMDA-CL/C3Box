@@ -1,0 +1,3 @@
+train_14745.png	The shrew appears in a side view with an artificially altered dark blueish hue and smooth texture, placed against a blurred, rocky background with its head obscured by a pale, indistinct object to the left.
+train_46012.png	The image shows a small creature with a mottled grey and reddish hue, its body oriented to the side, partially obscured by a large rock, with a smooth texture and distinct pointed nose visible.
+train_25676.png	The image depicts a small, blurred creature with an artificially darkened color, possibly black, positioned in a side view with its oblong body and pointed snout partially obscured by a mix of green and brown vegetation, suggesting a forest floor environment.

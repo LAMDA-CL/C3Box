@@ -1,0 +1,3 @@
+Vermilion_Flycatcher_0065_42467.jpg	The image primarily shows a patch of colorful noise obscuring details, with blurred brown and green elements suggesting a natural environment surrounding the occluded area.
+Vermilion_Flycatcher_0016_42196.jpg	The bird, viewed from the side, displays a vibrant red-orange coloration with a hint of dark brown on its visible wing, while a large pixelated occlusion covers its left side, set against a blurred natural background.
+Vermilion_Flycatcher_0034_42356.jpg	The image shows the tail and a portion of the wing of a bird with a dark, striped appearance, partially visible from the side with heavy rectangular occlusion covering the central body, set against a blurred background.

@@ -1,0 +1,3 @@
+cartoon_5.jpg	The pretzel appears to be partially obscured on the left side against a light blue sky background with cartoon clouds, showing a brown, twisted structure with a possible speckled texture, while most of the middle and right side is heavily occluded with colorful noise.
+cartoon_10.jpg	The image shows a cartoon pretzel with a light brown color, smooth texture, and a simple looped shape, partially occluded by a dense, colorful static pattern that blocks the central portion, while a smiling face is visible on the left side of the pretzel.
+deviantart_8.jpg	The low-resolution image depicts an orange-brown pretzel with a smooth texture and white specks, viewed from the front, partially occluded on the right side by a colorful mosaic pattern.

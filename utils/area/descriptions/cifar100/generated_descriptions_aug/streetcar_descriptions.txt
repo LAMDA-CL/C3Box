@@ -1,0 +1,3 @@
+train_34460.png	The streetcar appears in red and white with a horizontal stripe pattern, viewed from a three-quarter angle, partially obscured by a few nearby pedestrians, set against a clear blue sky with some clouds.
+train_11619.png	The streetcar appears front-facing with a dark green, possibly cyan-tinted exterior, has illuminated circular headlights, and is partially obscured by shadow or low resolution in an indistinct urban environment.
+train_49232.png	The streetcar, viewed from a front-left angle, is predominantly painted in an orange hue with a smooth texture, surrounded by a leafy, urban environment, and features white stripes along its side.

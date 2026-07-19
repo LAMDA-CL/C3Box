@@ -1,0 +1,3 @@
+cartoon_5.jpg	The object appears as an illustration with a heavily pixelated occlusion on the left, revealing a black-outlined, cartoon-style character holding a paper with scribbles and an "F" grade, with minimal texture and surrounded by a stark white environment.
+misc_5.jpg	The visible part of the starfish is brown with a smooth texture, featuring orange circular accents and perforated patterns, viewed from above, with a significant multicolored occlusion covering the upper area.
+cartoon_21.jpg	The image depicts two stylized starfish with outlines and spots, one primarily white with black dots at the top left, and the other off-white with brown dots at the bottom right, both partially covered by a central vertical strip of multicolored noise.

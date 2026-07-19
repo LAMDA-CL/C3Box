@@ -1,0 +1,3 @@
+cartoon_22.jpg	The beer glass appears as a simple outline predominantly seen on the right side, filled with a solid orange color, with the left half occluded by a dense, multicolored noise pattern.
+sketch_10.jpg	The image depicts two stylized beer mugs clinking together with frothy tops, primarily outlined in black and white, with a square area of colorful static occlusion on the upper left mug.
+sketch_5.jpg	The image shows an illustration of two stylized beer glasses with frothy tops, one on each side of a central, heavy occlusion of noise, with visible textured lines for glass detailing on a plain white background.

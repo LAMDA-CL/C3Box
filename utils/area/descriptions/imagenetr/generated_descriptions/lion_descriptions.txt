@@ -1,0 +1,10 @@
+cartoon_24.jpg	A detailed pencil sketch depicts a lion's face in a frontal view, with a flowing mane featuring soft shading and highlights that create a textured and lifelike appearance, set against a plain background.
+tattoo_16.jpg	This stylized red-line embroidered lion, depicted in a rampant pose on a white fabric background, features detailed outlines and a striking mane, with yellow accents on the claws and tongue, creating a vivid contrast.
+tattoo_42.jpg	A stylized black and white lion face is depicted with bold, angular lines highlighting its mane and facial features, viewed from the front against a stark white background, emphasizing its symmetrical and abstract design.
+toy_6.jpg	A plush lion with a soft, tan body and a dark brown mane is lying on a carpeted floor, positioned in a resting pose with its legs tucked under its body, against a backdrop of a wooden shelf and various household items.
+toy_30.jpg	A small, plush lion with a textured, golden-brown fuzzy mane and body, large bright orange eyes, posed facing forward against a dark background, featuring a thick, curled tail.
+tattoo_22.jpg	A black and grey tattoo of a lion, with a detailed mane, is positioned on the side of a person's torso against a skin-toned background, showcasing a frontal view with intricate shading despite the low resolution.
+misc_4.jpg	A cross-stitched lion with a cream body and brown mane is depicted in a side view pose, amidst a background featuring a red microscope and scattered coins on a table.
+painting_7.jpg	The image depicts a painting of a lion with a warm golden-brown mane framing a calm face, viewed head-on, set against a soft, indistinct greenish-brown background with a partially visible wooden frame.
+tattoo_38.jpg	A black outline tattoo of a stylized lion is visible, featuring a simplistic mane and fluid lines, positioned horizontally above the word "England" on a skin background.
+sculpture_19.jpg	The object appears as a golden, intricately textured lion's head sculpture, facing forward with a fierce expression, set against an ornate architectural background.

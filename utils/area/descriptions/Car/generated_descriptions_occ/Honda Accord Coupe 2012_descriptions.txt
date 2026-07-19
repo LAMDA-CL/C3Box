@@ -1,0 +1,3 @@
+07945.jpg	The image shows a dark-colored car, viewed from the rear three-quarter angle, with a significant portion of the side obscured by pixelated noise, while visible features include sleek, metallic contours and a clear sky in the background environment.
+04077.jpg	The red Honda Accord Coupe 2012, viewed from the front left corner in a showroom, has part of its front obscured by a colorful, pixelated occlusion, with visible sleek headlights, alloy wheels, and a glossy finish.
+06493.jpg	The image shows a red Honda Accord Coupe 2012 viewed from the front left side with the central portion heavily occluded by colorful static, highlighting the distinctive front grille and headlights while displayed in a showroom environment.

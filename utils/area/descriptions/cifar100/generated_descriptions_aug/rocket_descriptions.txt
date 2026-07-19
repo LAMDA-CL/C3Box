@@ -1,0 +1,3 @@
+train_25188.png	The object appears as a rocket-like shape, with a greenish texture and altered orientation leaning to the side, against a blue and yellow background with a slight occlusion at the lower section, resembling motion or a launch.
+train_04612.png	The image depicts a vertically oriented, grayscale rocket with a smooth surface texture, obscured in the lower portion by a smoky or cloudy environment.
+train_33664.png	The visually augmented rocket appears vertically oriented against a blurred background of greenery, featuring a dark silhouette with a bright white exhaust plume emanating from its base.

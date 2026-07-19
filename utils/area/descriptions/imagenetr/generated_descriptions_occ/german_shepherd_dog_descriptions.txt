@@ -1,0 +1,3 @@
+misc_66.jpg	The German Shepherd dog appears in a side profile sketch with a warm brown texture and black details around the fur and ears, set against a vibrant orange and blue background, with a vertical digital noise occlusion covering the center of the face.
+sketch_3.jpg	The image depicts a right-side profile of a pencil-sketched German shepherd dog with its right eye and ear visible, displaying a textured grayscale fur pattern, with the left side heavily occluded by a colorful, static-like rectangular block.
+tattoo_4.jpg	The image shows a stylized black outline of a dog's head, likely a German Shepherd, viewed in profile with a vertical rectangle of static obscuring the central region and the background appearing white with some gray circular patterning.

@@ -1,0 +1,3 @@
+misc_23.jpg	The image shows a beige stuffed rabbit sitting with visible floppy ears and surrounded by colorful foil-wrapped eggs, partially obscured by a vibrant, multicolored static rectangle.
+misc_16.jpg	The partially visible wood rabbit, set against a snowy backdrop with light blue hues, has a brown and slightly textured fur, peeking through the chaotic multicolored occlusion obscuring much of its body.
+sketch_17.jpg	The wood rabbit illustration on the pouch has a monochrome, detailed sketch texture with a side profile showing its elongated ears and partially obscured face, while the lower area is occluded by digital noise resembling static.

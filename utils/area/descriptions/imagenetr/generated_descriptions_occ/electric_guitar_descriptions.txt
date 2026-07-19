@@ -1,0 +1,3 @@
+painting_6.jpg	The image features an electric guitar held vertically on the right, with a black body and neck visible, while the center is heavily occluded with static interference, set against a monochromatic background featuring an outlined figure.
+sketch_7.jpg	The right side of a black and white electric guitar is visible, featuring a textured pattern and tuning pegs, with the left side heavily occluded by a colorful static-like vertical strip.
+painting_11.jpg	The electric guitar is viewed from the side, showing a red body with a dark pickguard, and is heavily occluded by a colorful, static-like block on the right, set against a yellowish background.

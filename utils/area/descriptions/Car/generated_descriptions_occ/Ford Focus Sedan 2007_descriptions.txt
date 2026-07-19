@@ -1,0 +1,3 @@
+04123.jpg	The Ford Focus Sedan 2007 appears in a low-resolution image with a rear view showing red color and smooth texture, heavily occluded in the central portion with multicolored noise, surrounded by an urban street environment.
+05065.jpg	The image shows a maroon Ford Focus Sedan 2007 viewed from the front-left angle with the upper half obscured by static-like noise, revealing smooth, shiny paint, alloy wheels, and a partially visible side mirror beside a concrete surface.
+06760.jpg	The image shows a white Ford Focus Sedan 2007, viewed from the front-left, with pixelated occlusion covering the right side, displaying a distinctive grille and sleek, curved headlights in a sunny outdoor setting.

@@ -1,0 +1,3 @@
+train_40332.png	The low-resolution image shows a brightly colored toy-like tractor with contrasting shades of green and blue, viewed from a side angle, featuring large yellow wheels, set against a blurred natural background with a seated child partially occluding the central area.
+train_47837.png	The tractor appears in an orange hue with a rough texture, positioned in three-quarter view from the front with a large wheel partially occluded by the vehicle's frame, set against a blurred rural backdrop.
+train_22307.png	The tractor, viewed from a side angle, appears with a bright red hue, situated on a textured surface with slight blurring, surrounded by a dark, rustic environment and partially obscured by a shadow on the left side.

@@ -1,0 +1,3 @@
+train_08905.png	The image shows a possum with mottled gray and white fur texture, positioned sideways, with much of its body obscured by a colorful mosaic pattern, set against a blurred natural background.
+train_00698.png	The image shows a possum with a visible white face and parts of a dark body, peeking from the left with a mosaic-pattern occlusion covering most of its body on the right against a blurred background.
+train_37935.png	The image shows a small, round object with a predominantly white and black speckled texture, partially obscured by a dark, amorphous shape from the top, set against a neutral, grayish background.

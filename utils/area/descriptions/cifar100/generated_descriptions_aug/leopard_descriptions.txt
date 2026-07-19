@@ -1,0 +1,3 @@
+train_24009.png	The image shows a blurred, low-resolution depiction of a leopard with an altered bluish hue and vertically tilted posture, partially obscured by shadows and dark green foliage, while some rosette patterns remain visible despite distortions.
+train_48952.png	The image shows a horizontally oriented, low-resolution leopard with reduced saturation, highlighting its dark spotted pattern against a muted, pale background, partially obscured in the lower third by a blurred foreground element.
+train_37261.png	The image portrays a leopard with a predominantly greenish-brown tint, partially obscured by branches and foliage, positioned in a three-quarter view with its head turned slightly back, showcasing its mottled texture with faint spots.

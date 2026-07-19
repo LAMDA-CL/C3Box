@@ -1,0 +1,3 @@
+train_18754.png	The bed appears in a front-facing position, featuring a smooth, green-tinted surface due to color augmentation, with a simple headboard against a plain wall, partially obscured by the frame edges and adjacent to a wooden floor and a curtained window on the right.
+train_04402.png	The image shows a bed with a metallic sheen and purple tint, viewed from an elevated angle with partially visible surroundings and a prominent headboard featuring geometric cutouts.
+train_01213.png	The bed appears in a light pastel color with a smooth texture, viewed from a side angle with minimal occlusion, situated against a turquoise background that emphasizes its slender frame and elevated headboard.

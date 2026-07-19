@@ -1,0 +1,20 @@
+train_13163.png	The image shows a light brown furry creature lying on its side on a deep blue cushion, with its smooth, sleek fur texture contrasted against the soft fabric background, although the low resolution limits further distinguishing details.
+train_08060.png	The otter appears dark brown with a smooth, glossy texture, viewed from a side angle as it bends over a textured green-blue surface, with a blurred gray background that suggests an aquatic environment.
+train_09656.png	A dark brown otter floats on its back in blue-green water, with a slightly lighter brown head and faint ripples surrounding it.
+train_45580.png	The image shows a dark brown, smooth-textured otter sitting upright with its back to the camera, situated in a rocky shoreline environment with distant ocean waves under a cloudy sky.
+train_03935.png	The otter, with a sleek brown coat and a lighter underbelly, is lying on sandy ground amidst rocks, captured in a side view with its head turned towards the camera, showcasing its small rounded ears and long whiskers.
+train_01869.png	The otter appears in a side profile view with a sleek, dark brown body contrasted against a mossy green and earthy brown background, featuring a distinctly tapered tail and shiny fur texture.
+train_38423.png	The otter is floating on its back in a bluish aquatic environment with a sleek, dark brown, and slightly shiny coat, having a visible rounded head and small eyes, and the texture appears smooth despite the image's low resolution.
+train_39414.png	The otter is floating on its back in calm water, with dark brown fur and a lighter brown or beige head, surrounded by a water environment that enhances its rounded, compact silhouette.
+train_35904.png	The otter appears to be floating on its back in a body of water, showcasing a brown, textured fur with a lighter, almost cream-colored head, and the blurred background suggests a natural aquatic environment.
+train_24446.png	The otter appears with a smooth, dark brown coat, lying on its side amidst a wooden, earthy-toned background, with lush green foliage partially visible, highlighting its sleek body and small head from a side perspective.
+train_25720.png	A vibrant blue and green peacock feather with distinct eye-like markings is shown up close against a blurred green background.
+train_11085.png	The otter is a dark brown texture with a lighter face, lying on its back in blue water, showcasing its paws and face above the surface.
+train_24741.png	The otter, with its sleek, dark brown fur and lighter underbelly, is captured in a profile view as it stands upright against a blurred, natural green and watery background, emphasizing its sinuous body and prominent whiskers.
+train_33037.png	The image depicts a dark brown, wet-feathered bird with a long, pointed beak swimming in open water, contrasting with the idea of an otter.
+train_04544.png	The image shows a dark brown otter with a sleek, glossy fur texture, sprawled on a light-colored snowy surface in an outdoor environment with indistinct, blurred background elements.
+train_12682.png	The otter appears dark brown with a shiny, sleek texture, viewed in a playful jumping pose against a blurred aquatic background with reflections of water.
+train_29813.png	The otter appears dark brown with a sleek, smooth texture, seen in a side profile as it swims in clear greenish water with its streamlined body visible.
+train_35950.png	The otter has a smooth, brown coat with a lighter, almost white underside, seen from a side view with its head resting on a sandy surface, surrounded by greenish water in the background.
+train_02929.png	A brown otter with a smooth, sleek coat is lying on its belly amidst lush green foliage, viewed from above.
+train_08524.png	The otter is a light brown, smooth-furred creature with its head turned slightly upwards, resting against a blurry beige background, showcasing its small, rounded ears and dark eyes.

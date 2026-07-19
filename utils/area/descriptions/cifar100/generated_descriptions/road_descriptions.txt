@@ -1,0 +1,20 @@
+train_16199.png	The road appears gray with a smooth texture, viewed from a low-angle perspective, flanked by grassy areas and distant trees under a clear sky.
+train_02116.png	A narrow, winding road with a light gray surface, bordered by lush green vegetation on both sides and leading through a densely wooded forest area, viewed from an eye-level perspective.
+train_04267.png	A straight, gray pathway with a smooth texture extends into the distance, flanked by bare trees and a grass verge on the left, and parked cars on the right.
+train_35394.png	The low-resolution image depicts a straight, sandy-gray road stretching into the distance, bordered by autumnal trees with golden leaves under an overcast sky.
+train_35328.png	The road appears to be a two-lane asphalt surface with faded white lane markings, viewed from a slight angle under a clear blue sky with patches of clouds, bordered by green foliage on one side and open grassland on the other.
+train_16168.png	The road appears gray and gravelly with a slightly curved path, surrounded by dense green foliage and trees, viewed from a low angle showing its natural blending into the forest environment.
+train_12647.png	The road appears as a smooth, gray asphalt surface with yellow lane markings, captured from a ground-level perspective, flanked by lush green vegetation, and set against a backdrop of striking, red rock formations and a partly cloudy sky.
+train_08864.png	The road appears as a straight, smooth, grey strip with a darker asphalt texture, flanked by reddish-brown hillside slopes on one side and sparse greenery on the other, under an overcast sky.
+train_49312.png	A narrow, light gray, smooth-textured road curves gently through a grassy field, bordered by dense dark green trees under a cloudy sky, with a wooden structure visible in the distance.
+train_03170.png	The road appears to be a faded gray with a rough texture, viewed from a ground-level perspective, bordered by trees and set against a blurred backdrop of hills and overcast sky, featuring a distinct central white line.
+train_20265.png	A winding, light beige dirt road with a rough texture runs through a mountainous area, flanked by dense green foliage and leading towards distant, dark rock formations under a clear blue sky.
+train_48206.png	The road is a narrow, light gray gravel path curving gently through a verdant forest setting, bordered by tall trees and lush green grass.
+train_12331.png	The low-resolution image shows a winding, gray asphalt road with a smooth texture, curving into a natural, forested background with dense greenery and a gentle, upward slope in the terrain.
+train_25540.png	The road appears grayish with faint yellow markings, stretching into the distance from a low-angle view, flanked by barren, earth-toned hills and leafless shrubs under a clear blue sky.
+train_13212.png	The road is a narrow, light gray surface with a slightly rough texture, viewed from a straight vantage point, flanked by dense green foliage and a yellow traffic sign on the right side.
+train_13461.png	The image depicts a gray asphalt road with white dashed lines running along its center, viewed from a low angle perspective, flanked by lush green vegetation and hills in the background under a cloudy sky.
+train_46100.png	A long, straight road with a smooth grey surface stretches into the distance, flanked by flat, grassy fields under an expansive, cloudy sky, with mountains visible on the horizon.
+train_37042.png	The image shows a wide, gray asphalt highway stretching toward the horizon, viewed from a low, central perspective, flanked by concrete barriers with a flyover casting shadows to the right, against a backdrop of a clear blue sky and distant city skyline.
+train_36856.png	The road appears gray and slightly rough in texture, viewed from a ground-level perspective, flanked by overgrown vegetation and trees in a forested setting, with a slight curve leading into the distance.
+train_22591.png	A two-lane asphalt road with faded yellow and white lines photographed from behind two vehicles, bordered by grassy shoulders with autumn-colored trees and utility poles in the background.

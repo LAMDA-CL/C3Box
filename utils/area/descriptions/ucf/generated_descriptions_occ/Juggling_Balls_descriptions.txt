@@ -1,0 +1,3 @@
+v_JugglingBalls_g02_c06.jpg	A blurred orange background shows partially visible white juggling balls in motion against a heavily occluded central portion of the image, with some remaining visible on the left side.
+v_JugglingBalls_g11_c05.jpg	The juggling ball is partially visible in motion above a person wearing green, with a blurred red color against a softly lit indoor background, while the center of the image is obscured by heavy multicolor noise.
+v_JugglingBalls_g21_c02.jpg	The image primarily consists of a static-like pattern with multi-colored noise completely occluding any objects or details discernible beneath it.

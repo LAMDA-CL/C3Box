@@ -1,0 +1,3 @@
+3384314.jpg	The visible portion of the hamburger shows a lightly toasted brown bun on the top right with a visible leafy green on the side, surrounded by fries on a white plate, with a large occlusion of static-like noise obscuring the central part of the burger.
+1309089.jpg	The image shows a hamburger from a side angle with the right side visible, featuring a glossy textured lettuce and a slice of tomato and red onion on a checkered paper, with heavy pixelation occluding the left side.
+1847757.jpg	A sesame seed-topped hamburger with melted cheese and a patty is partially visible from a side view, with significant pixelation obscuring the left half and small part of the tray.

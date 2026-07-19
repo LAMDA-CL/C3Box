@@ -1,0 +1,3 @@
+embroidery_1.jpg	A low-resolution, embroidered image of a border collie with a black and white textured pattern is seen in a side profile pose, partially occluded by a colorful noise panel on a green fabric background.
+misc_0.jpg	The image shows the upper part of a stylized border collie against a blue background, with the face and part of the ears heavily occluded by a multicolored static pattern, but distinctive pointed ears and hints of fur texture are still visible above the occlusion.
+misc_1.jpg	The border collie has a visible fluffy black and white coat with a side profile view, facing left, while a significant portion of the right side is obscured by colorful static noise and grass visible at the bottom of the image.

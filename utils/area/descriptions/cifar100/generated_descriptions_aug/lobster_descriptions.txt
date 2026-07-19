@@ -1,0 +1,3 @@
+train_40400.png	The lobster appears in an augmented pinkish hue with a textured shell, viewed from a top-down angle, and partially occluded by surrounding abstract pink and white shapes, highlighting its elongated claws and segmented body.
+train_23662.png	The lobster appears vibrant pink with a glossy texture, oriented top-down against a simple, light background, showcasing its distinct claws and segmented body with minimal occlusion.
+train_03243.png	The image depicts a lobster in silhouette form with a stark, high-contrast appearance, displaying emphasized claws and antennae set against a bright, abstract red background with no discernible texture or details due to its low resolution and altered coloration.

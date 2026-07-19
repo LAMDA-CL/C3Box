@@ -1,0 +1,3 @@
+train_31522.png	The road appears in a tilted orientation with a smooth, blue-tinted surface, featuring white dashed lines running along its center, flanked by blurred outlines of dark green trees creating a tunnel-like effect.
+train_42388.png	The road appears in a light bluish hue with a smooth texture, curving softly to the right, bordered by indistinct, reddish-brown foliage, with the viewpoint angled slightly from above, revealing a partially occluded horizon by trees.
+train_21198.png	The road appears dark gray with a smooth, wet-looking texture, viewed from a low angle, receding into the distance with blurred outlines of buildings on the sides under a pale gray sky.

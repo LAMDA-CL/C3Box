@@ -1,0 +1,20 @@
+train_49837.png	The palm tree, viewed from below, has long, narrow green fronds radiating from a textured brown trunk, set against a vivid blue sky.
+train_15456.png	The palm tree features dark green, slightly curved fronds against a blurred, light blue and green tropical background, viewed from a low angle emphasizing the sweeping, arching shape of the leaves.
+train_21570.png	A silhouetted palm tree with gently arching fronds stands against a backdrop of a vibrant orange and purple sunset sky, with a glowing sun near the horizon and hints of distant foliage.
+train_28828.png	The palm tree features vibrant green fronds radiating from a central point, seen from a worm’s-eye view, with a textured, slightly brown trunk and a bright sky peeking through the dense canopy.
+train_27174.png	The palm tree, viewed from a slight side angle, exhibits a dark, textured trunk with a dense canopy of fan-shaped green fronds against a clear blue sky and suburban house background.
+train_16420.png	The palm tree in the image displays vibrant reddish-brown and green hues with textured fronds radiating outward, viewed from below against a clear blue sky, with visible clusters of small orange fruit beneath the leaves.
+train_26825.png	The image shows a palm tree with dark green, lush fronds radiating outward from a textured, fibrous trunk, set against a backdrop of a cloudy sky and blurred greenery at the base.
+train_44147.png	The palm tree, viewed from below with a perspective that emphasizes its canopy, displays a mix of green and brown fronds with a textured, rough trunk, set against a bright sky background.
+train_10239.png	A vibrant green palm tree with a textured, brown trunk stands prominently against a clear blue sky, with silhouetted fronds fanning outward and a reddish ground indicating a desert or arid landscape.
+train_04788.png	The palm tree, seen from a slight upward angle, displays a textured trunk with a light brown hue and dense, arching green fronds against a clear blue sky and a backdrop of other palms.
+train_24912.png	The palm tree has a dark green, bushy crown with long, arching fronds, seen from a low-angle perspective against a bright blue sky, with a white building and terracotta roof edge on the left, highlighting its tall, slender trunk.
+train_04387.png	The palm tree, seen from a low viewpoint, features vibrant green, fan-like fronds with a slightly textured surface against a backdrop of a clear blue sky and scattered white clouds.
+train_12571.png	The palm tree displays dark green, feathery fronds radiating from a thick, brown trunk, set against a backdrop of lush greenery and distant red-roofed structures under a bright daylight sky.
+train_22971.png	A tall palm tree with a slender, dark trunk and a crown of sparse, spiky green fronds stands against a deep blue sky with a sandy ground and a silhouette of shrubbery in the background.
+train_39892.png	A short, robust palm tree with bright green fronds radiating from a thick trunk is set against a blurred, dark background and grassy terrain, highlighting its broad, fan-like leaves.
+train_37259.png	A single, leaning palm tree with a textured, brown trunk and long, dark green fronds is set against a vibrant beach scene with a blue sky and white sand, featuring colorful towels or clothing beneath it.
+train_35792.png	The palm tree stands upright with a dense canopy of vibrant green fronds radiating outward, set against a blurred background of muted greenery and a clear sky.
+train_19886.png	The palm tree has a tall, slender trunk with a rough, textured surface, topped with a sparse crown of long fronds that taper into pointed tips, set against a backdrop of clear blue sky and blurred building structures.
+train_08973.png	The palm tree stands tall with its dark silhouette contrasting against an orange and pink-hued sunset sky, featuring a feathery canopy of leaves atop its slender trunk.
+train_00644.png	The palm tree in the image displays dark green, fan-shaped leaves with a rough, textured trunk, viewed from a slightly elevated angle against a backdrop of clear blue sky and lush greenery.

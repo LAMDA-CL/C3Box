@@ -1,0 +1,3 @@
+train_45670.png	The image shows a small, colorful cluster with a pixelated texture, mostly obscured on a beige background with a shadow-like shape to the right.
+train_33922.png	The image shows a small brown object with a slightly fuzzy texture, positioned on a branch amidst blurred greenery; the right side and lower part are heavily occluded by colorful digital text overlay, obscuring specific details.
+train_40423.png	A pixelated object partially reveals muted colors against a blurred green and brown backdrop, with vibrant multicolored occlusion predominantly covering the upper two-thirds of the form, obscuring detailed features and textures.

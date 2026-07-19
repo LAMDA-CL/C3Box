@@ -1,0 +1,3 @@
+misc_127.jpg	The image shows silhouettes of hammerhead shark shapes in the background with a central vertical strip of bright, multicolored noise occluding the middle portion, creating a stark contrast against the muted grayscale surroundings.
+sketch_16.jpg	The sketch of a hammerhead features a monochrome, sketchy texture, with its left fin and part of its long, slender body outlined in black; the rest is obscured by a large block of static-like gray noise occupying the central third of the image.
+misc_16.jpg	The image shows a tattoo of a hammerhead shark with light skin tones and a smooth texture, partially obscured by colorful static noise on the right, revealing its distinctive head shape and fin on a human arm.

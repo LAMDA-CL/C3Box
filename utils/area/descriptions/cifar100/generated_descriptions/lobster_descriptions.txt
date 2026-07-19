@@ -1,0 +1,20 @@
+train_03276.png	The lobster is vibrant red with a glossy texture, positioned belly-up on a bed of dark shellfish or seaweed, with a slice of lemon visible in the colorful, patterned background.
+train_49595.png	The lobster appears vibrant red with a glossy texture, viewed from an overhead angle, set against a colorful, abstract background, highlighting its large, prominently visible claws.
+train_26383.png	The object resembles a pair of curved, tan and orange oven mitts resting on a wooden surface in a kitchen setting with a metallic background.
+train_18779.png	The lobster appears greenish-brown with a rough texture, viewed from the front at an angle, set against a rocky marine background with visible antennae extending outward.
+train_18615.png	The image shows a lobster with a dark brown, mottled texture, positioned with claws raised against a backdrop of murky greenish water, highlighting its segmented tail and spiny carapace.
+train_34572.png	The lobster appears to be a vibrant orange and speckled with dark spots, viewed from a frontal angle, with its long antennae extending outward, set against a dark, rocky underwater background that highlights its detailed exoskeleton texture and multiple legs.
+train_34672.png	The lobster is a reddish-brown color with a glossy texture, viewed from above showing its long antennae and segmented body, against a plain white background.
+train_35643.png	The object appears to be a toy or model lobster, shown from an overhead view, displaying a smooth, segmented body with a predominantly dark green color contrasted by beige accents on the claws, against a plain white background.
+train_38260.png	The lobster appears to have a dark green and brown mottled shell with a rough texture, positioned on its side with visible claws, against a blurry and light-colored background.
+train_26244.png	The lobster is shown from a top-down view with mottled blue and orange coloration, lying against a sandy ocean floor with some colorful coral in the background.
+train_36777.png	The lobster appears dark with a textured, segmented shell, featuring orange-tinted claws, positioned on a sandy background with small debris scattered around.
+train_13678.png	The image shows a yellow-green object with a textured, speckled surface, viewed from a top-angle, against a dark, possibly aquatic background with some branch-like elements.
+train_41700.png	A red, rubbery-textured claw rests among ice cubes, viewed from above on a vibrant blue background.
+train_46410.png	The lobster appears bright red and glossy, positioned upright on a bed of leafy greens with a visible shell texture and accompanied by a round, metallic object, likely a utensil, on a white plate.
+train_17303.png	The image shows a lobster with a mottled brown and orange shell, lying on a sandy and slightly rocky seabed, viewed from above with visible claws extended.
+train_22072.png	The image displays a reddish-orange lobster with a bumpy texture, viewed from above, partially obscured by a brown textured background that resembles a sea floor environment.
+train_28174.png	The lobster appears bright red with a glossy texture, viewed from above, lying on a multicolored pink and white circular plate, featuring rubber bands on its claws.
+train_32452.png	The image shows a multicolored crustacean with a predominantly brown and red speckled texture, viewed from an overhead angle amidst a chaotic array of similar marine life, with its claws and segmented body faintly discernible despite the blurriness.
+train_41411.png	A vibrant red lobster with a glossy texture is presented in a top-down view, placed on a green plate alongside sliced yellow lemons.
+train_10944.png	The lobster is vivid orange with a smooth, shiny texture, positioned in a side view against a soft blue background, displaying prominent claws and a curved tail.

@@ -1,0 +1,3 @@
+v_Lunges_g19_c07.jpg	The image shows a person in a forward lunge position holding dumbbells, wearing a black outfit with a sweatshirt, in a gym setting with equipment around, and there is a colorful static occlusion covering the right side of the body.
+v_Lunges_g13_c03.jpg	The scene depicts a person performing lunges outdoors on grass with their upper body entirely obscured by colorful static noise, while the visible lower portion shows a bent leg stance with natural green and earthy tones surrounding them.
+v_Lunges_g05_c01.jpg	A person dressed in black shorts and shoes performs lunges on a multi-colored outdoor track, with their upper body heavily occluded by digital noise while their legs and part of the track are visible in a blurred, low-resolution format.

@@ -1,0 +1,3 @@
+train_40158.png	The visible section of the image depicts a low-resolution shark-shaped object with a bluish tint and a smooth texture, partially obscured by two colorful blocks in the lower left corner against a blurry, blue-toned underwater background.
+train_32246.png	The image depicts a blue, textured object resembling a shark's fin emerging from a vibrant blue background; the central area is heavily occluded by a colorful, pixelated pattern, obscuring most details.
+train_37137.png	The image shows a mostly obscured object with a dark gray, smooth texture, likely depicting a shark, with colorful, heavily pixelated occlusion dominating the upper section and an indistinct background that suggests an aquatic environment, viewed from the side.

@@ -1,0 +1,3 @@
+v_Surfing_g17_c04.jpg	A large ocean wave is visible with a dark blue and white foamy texture, viewed from the side with half the scene occluded by a vertical strip of colorful digital noise.
+v_Surfing_g15_c06.jpg	A surfer is riding a bright blue wave from the right side with colorful static occluding the top left, showing breaking water and white foam in the forefront and background.
+v_Surfing_g17_c01.jpg	A surfer, viewed from the side, rides a textured, foamy wave with the ocean as the backdrop, while the lower right section is heavily obscured by a pixelated occlusion.

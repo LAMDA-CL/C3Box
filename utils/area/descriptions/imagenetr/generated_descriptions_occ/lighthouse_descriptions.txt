@@ -1,0 +1,3 @@
+painting_8.jpg	The lighthouse, partly visible from a side angle, is white with a black top, standing on a backdrop of a dusky sky, with a large section of the image obscured by pixelated noise covering the lower right side.
+videogame_17.jpg	The lighthouse has a red and white striped pattern, viewed from a low angle against a clear blue sky, with significant occlusion by a colorful, static-like overlay covering much of its midsection.
+deviantart_15.jpg	The lighthouse appears as a dark silhouette against a vibrant sunset sky, mostly obscured by grass in the foreground on the left and a dense, colorful noise pattern on the right.

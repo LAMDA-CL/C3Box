@@ -1,0 +1,3 @@
+train_33912.png	The low-resolution image shows a large, triangular grayish structure with a rough texture, partially visible from a low-angle viewpoint, heavily occluded by colorful geometric patterns on the left side.
+train_47347.png	The image shows a multicolored, pixelated texture obscuring the object, with a dense pattern of bright colors mostly concentrated in the lower half, and indistinguishable features due to the occlusion.
+train_47923.png	The castle appears to be made of tan stone with a textured surface, viewed from a slight angle, partially obscured by a vibrant, multicolored mosaic pattern on the upper right corner, with a clear blue sky in the background.

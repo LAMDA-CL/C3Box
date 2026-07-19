@@ -1,0 +1,3 @@
+train_43871.png	The object has a dark, round shape with a smooth texture, partially visible from the side, surrounded by a colorful, pixelated occlusion on its right, set against a blurred background.
+train_08947.png	The image shows a snail with a smooth, light brown shell partially visible in the lower right corner, while the rest is heavily occluded by a colorful, mosaic-like pattern of small, multicolored squares.
+train_34385.png	The image shows a blurred brown oval shape with a striped, multi-colored mosaic occlusion on the right, likely set against a plain white background.

@@ -1,0 +1,3 @@
+misc_13.jpg	The image shows a polar bear viewed from the side, with visible white fur standing on a textured white background while a colorful noise covers the midsection, but the head, legs, and feet are discernible.
+misc_147.jpg	The polar bear appears as a white, cartoon-like figure with a simplified form, facing forward with its head and legs visible, set against a solid purple background, while a large portion of its body is obscured by colorful static occlusion.
+misc_4.jpg	The image shows a heavily occluded scene dominated by a vertical column of multicolored static obscuring a brick wall with graffiti featuring shades of white and grey, partially visible behind the distortion.

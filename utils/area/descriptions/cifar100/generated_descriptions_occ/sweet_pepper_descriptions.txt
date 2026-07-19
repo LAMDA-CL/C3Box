@@ -1,0 +1,3 @@
+train_19207.png	A partially visible sweet pepper with a smooth, mottled green and yellow surface is obscured by checkered black and white occlusion in a leafy, blurred background.
+train_39898.png	The image displays a partially occluded pair of sweet peppers; the one on the left appears mostly green and partially covered by digital noise, while the right one is red with a smooth texture and both lay flat on a muted background.
+train_46132.png	The image reveals a sweet pepper with a vibrant, smooth yellowish-orange surface partially obscured by a central colorful digital mosaic, amidst a blurred background of similar peppers.

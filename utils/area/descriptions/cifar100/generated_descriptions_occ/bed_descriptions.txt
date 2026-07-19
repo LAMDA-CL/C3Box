@@ -1,0 +1,3 @@
+train_18754.png	The bed is partially visible from a side angle, predominantly obscured by black and white stripes, set against a beige-walled room with a brown carpet and ceiling, framed by subdued lighting from a single ceiling fixture.
+train_04402.png	The bed appears in a side view with a light-colored, smooth texture partially visible, while the left side is obscured by a vibrant, multicolored pattern.
+train_01213.png	The image shows a partially visible white object resembling a bed seen from a side viewpoint, with a vivid, multicolored patch resembling an occlusion on the right, set against a bright blue background.

@@ -1,0 +1,3 @@
+train_13736.png	A dark-colored bottle with a white label is partially visible, viewed from the front, with heavy multicolored pixelation obscuring the right side.
+train_43924.png	The bottle, viewed from the front, has a predominantly green top with a blue and white section below, partially covered by a colorful mosaic, leaving the cap and neck visible.
+train_20717.png	The image shows two bottles, one with a colorful geometric pattern and the other with a plain dark brown hue, standing upright against a white background, with a grid-like occlusion partially covering them.

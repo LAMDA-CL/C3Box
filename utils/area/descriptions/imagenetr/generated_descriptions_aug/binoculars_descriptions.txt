@@ -1,0 +1,3 @@
+painting_0.jpg	The binoculars appear predominantly yellow with a smooth texture, viewed head-on by a person in a formal hat, with multiple figures nearby, partially occluding the lower part of the binoculars.
+cartoon_22.jpg	The augmented image depicts binoculars in a blueprint-style schematic drawing with a red background and black line details, viewed from a side perspective with no visible occlusion, displaying intricate inner mechanisms and labeling.
+painting_6.jpg	The binoculars appear in a stylized, painted-like texture with predominantly dark, glossy shades contrasted by bright highlights, viewed from an angle showing the lenses slightly tilted upward on a multicolored, abstract background with no occlusion.

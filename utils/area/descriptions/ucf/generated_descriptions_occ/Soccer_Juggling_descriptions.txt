@@ -1,0 +1,3 @@
+v_SoccerJuggling_g09_c04.jpg	A person in a black shirt and blue shorts is standing on grass, juggling a white soccer ball with their knee, partially occluded by a colorful distortion on the lower right.
+v_SoccerJuggling_g21_c04.jpg	The central portion of the image is occluded by a colorful static-like pattern, while the background shows a street scene with overcast skies and bare trees, featuring muted colors and a low-resolution texture.
+v_SoccerJuggling_g02_c02.jpg	A person in green shorts and a white shirt is mid-action, balancing a white soccer ball on their right foot, with the left side of the image heavily obscured by colorful static, while the background shows a grassy field and a goalpost.

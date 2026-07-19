@@ -1,0 +1,3 @@
+train_29054.png	The object appears as a green, textured pear with a predominantly left-side view, partially obscured by a colorful, mosaic-patterned occlusion on the right side, while a neutral background enhances its silhouette.
+train_45158.png	The pear appears yellow with a smooth texture, viewed from the side amidst other similar pears, partially occluded by a rectangular, colorful pixelated pattern on its center-left side.
+train_14716.png	The image shows a low-resolution pear with a greenish-yellow hue and a smooth texture partially visible, viewed from the side with a colorful, pixelated occlusion covering the lower-left portion.

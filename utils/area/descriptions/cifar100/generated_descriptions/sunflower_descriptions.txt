@@ -1,0 +1,20 @@
+train_40952.png	The sunflower displays vibrant yellow petals with a slightly blurred, textured surface seen in a close-up side view against a softly focused and indistinct green background.
+train_43453.png	The close-up, low-resolution image shows a portion of a vibrant yellow sunflower petal with a slightly smooth texture, partially obscuring the greenish-brown background, with the rest of the flower being out of view.
+train_44213.png	A sunflower with bright yellow petals and a dark central disk, viewed from the front, surrounded by green leaves in a garden setting.
+train_02753.png	The sunflower displays vibrant yellow petals radiating from a dark brown, textured central disc, viewed from a frontal angle, with a blurred green and possibly leafy background.
+train_46908.png	Against a blurred blue sky and green foliage background, the sunflower appears slightly angled with bright yellow petals radiating around a dark brown central disk, where a detailed texture is faintly visible.
+train_03876.png	A sunflower with vibrant yellow petals and a textured brown center is captured in a close-up side view against a blurred green and earthy backdrop, highlighting its characteristic round shape despite the image's low resolution.
+train_35829.png	The sunflower is vibrant yellow with a coarse, textured brown center, facing slightly upwards against a blurred background of greenery, showcasing slender green leaves.
+train_45757.png	The sunflower displays vibrant yellow petals with a rough, textured brown center, viewed from a slightly tilted angle with a clear blue sky as the background.
+train_30468.png	A sunflower with vibrant yellow petals and a dark central disc is viewed head-on against a solid black background, with a single green leaf and bud visible on its stem.
+train_41221.png	The sunflower's vibrant yellow petals and textured dark center contrast against a blurred background of green leaves and a blue sky, with the flower prominently facing upward.
+train_08170.png	The image shows a bright yellow sunflower with a dark brown center, slightly oriented forward among other sunflowers of similar appearance, set against a blurred green background with a hint of a red and white object to the side.
+train_33298.png	The sunflower displays bright yellow petals with a slightly rugged texture surrounding a dark brown central disc, set against a blurred, light-striped background, with the flower tilted slightly to the left and accompanied by green leaves.
+train_25724.png	The image shows a cluster of bright yellow sunflowers with dark brown centers, viewed from below against a clear blue sky, with overlapping petals and visible green leaves adding depth despite the low resolution.
+train_32417.png	The sunflower is vivid yellow with a dark brown center, facing left in a side profile, set against an urban environment with blurred buildings in the background, and displays a slightly uneven petal arrangement.
+train_30911.png	The sunflower appears from a slightly side angle with bright yellow, slightly ragged petals surrounding a dark brown central disk, set against a vivid blue background.
+train_16228.png	A bright yellow sunflower with a textured, dark center is seen from a slightly side angle, set against a blurred green and white background with a hand partially visible.
+train_12543.png	A black-and-white image showing sunflowers with large dark centers and soft petals, viewed from the side, set against an indistinct, blurry background with a hint of a wooden surface.
+train_40408.png	The image shows a close-up of a sunflower with vibrant yellow petals and a textured, dark brown center, oriented in a downward angle against a blurred green background.
+train_29229.png	A golden-yellow sunflower with slightly ruffled, overlapping petals displays a textured center, viewed from a front-facing angle against a blurred dark green background.
+train_22717.png	The sunflower, with its yellow petals and dark center, is captured from a side angle against a clear blue sky, with slightly blurred green leaves surrounding it.

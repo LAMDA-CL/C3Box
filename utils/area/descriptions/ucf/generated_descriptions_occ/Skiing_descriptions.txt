@@ -1,0 +1,3 @@
+v_Skiing_g08_c02.jpg	A skier dressed in dark clothing with visible trails in the snow is captured from an overhead angle, moving left to right on a snowy slope, with substantial colorful static occluding the left portion of the image.
+v_Skiing_g17_c01.jpg	The image shows a grayish snowy slope with a significant portion obscured by colorful static noise on the left, while the visible area is angled downward with faint textured lines suggesting movement or ski tracks.
+v_Skiing_g12_c03.jpg	A skier in a black and beige outfit with legs bent and leaning slightly forward moves downhill on a snowy slope, while the left side of the image is heavily occluded with colorful noise.

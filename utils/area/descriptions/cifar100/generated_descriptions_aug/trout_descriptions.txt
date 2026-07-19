@@ -1,0 +1,3 @@
+train_07051.png	The trout appears in a side profile view with a purple-blue hue and smooth texture, against a plain, gray background, with its head slightly obscured by shadow and no other visible environmental elements.
+train_18609.png	The trout appears in a rotated, downward-facing orientation with enriched sepia tones and a smooth, shiny texture, set against a dark background with the tail partially obscured, highlighting the speckled pattern along its curved dorsal fin.
+train_01327.png	The trout appears in a left-side profile with a bluish-green gradient along its back transitioning to a lighter underbelly, with visible dark spots scattered across its body and fins, set against a plain, pale background with no visible occlusions or environmental features.

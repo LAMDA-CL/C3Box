@@ -1,0 +1,3 @@
+deviantart_9.jpg	The object appears as a light green sphere with a smooth texture partially visible from a side view, with a white curved line characteristic of a tennis ball, heavily occluded by a central vertical strip of multicolored noise against a black background with a gray shadow to the right.
+deviantart_13.jpg	The object appears to be a stylized yellow tennis ball with smooth, glossy texture, partially occluded by a vertical, multicolored, static-like pattern, featuring a cartoonish grin visible from a frontal viewpoint against a black background.
+videogame_14.jpg	The tennis ball appears as a blurred green object with a motion trail, positioned in the top left corner, partially obscured by a heavily pixelated colorful occlusion on the right.

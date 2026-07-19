@@ -1,0 +1,3 @@
+train_24949.png	The image shows a dark, oval-shaped object with a glossy texture mostly obscured by a central blur of colorful pixels, suggesting a cockroach seen from above with the body surface largely obscured.
+train_38058.png	The image shows a low-resolution and obscured view of a cockroach with a mottled, dark brown and cream pattern on its visible body, partially occluded by a white blurred area that covers much of its head and legs, against a light background.
+train_26775.png	The image depicts a partially visible cockroach with a black, glossy body texture viewed from above, the center obscured by colorful digital noise, but its extended legs and antennae are distinctly visible on the periphery against a white background.

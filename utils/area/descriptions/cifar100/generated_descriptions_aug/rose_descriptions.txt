@@ -1,0 +1,3 @@
+train_38598.png	The image shows a tilted, low-resolution rose with a bluish-pink hue and a textured surface against a dark, abstract background, with some petals partially obscured by shadow and digital noise.
+train_23479.png	The rose appears in a vibrant magenta color with a slightly blurred texture, viewed from a side angle with one bloom partially visible, surrounded by green foliage against a muted background.
+train_26090.png	The image depicts a rose with a distorted, swirling blend of purple and brown hues, viewed from the side with the petals partially occluding the center against a blurred, soft-focus backdrop.

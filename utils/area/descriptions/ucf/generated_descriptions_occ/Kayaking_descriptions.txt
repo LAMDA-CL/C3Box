@@ -1,0 +1,3 @@
+v_Kayaking_g17_c01.jpg	A dark-colored kayak moves on a wavy body of water, with significant occlusion from a multicolored static-like square covering its center, leaving the background with a hazy, overcast sky visible.
+v_Kayaking_g06_c07.jpg	A person in a blue jacket is kayaking on a green kayak in a turbulent, rocky river, with the left half of the image obscured by static-like noise.
+v_Kayaking_g17_c02.jpg	The image shows a kayak in the water with a pixelated, multicolored occlusion covering much of its central area, revealing only parts of the bow and stern, while the background showcases rippling water and a distant, blurred yacht.

@@ -1,0 +1,20 @@
+train_04435.png	The object appears dark brown with a smooth, glossy texture, viewed from a side angle on a flat concrete surface, with blurred greenery in the background.
+train_01700.png	The seal appears as a dark, sleek-bodied creature with a glossy, wet texture, seen from the side with its head tilted slightly upward in a dynamic pose against a bright blue aquatic background, and its distinct whiskers and open mouth are visible despite the low resolution.
+train_25901.png	The object in the image appears to be an upright, dark-colored penguin-like figure with a beige front, set against a blurred green natural background.
+train_42269.png	The seal-like object appears brown with a textured surface, sitting upright in a dark, rocky environment, with flippers slightly extended and a blurred maritime backdrop.
+train_35003.png	The seal appears to have a smooth, brownish texture, viewed in a relaxed pose on its side near a water's edge, with its head slightly raised, against a blurred, aquatic environment.
+train_49292.png	The image displays a silhouette of an indistinct object with smooth, dark texture against a vibrant blue sky with scattered white clouds; details are obscured due to the low resolution and stark contrast.
+train_32275.png	The seal appears sandy beige with a slightly rough texture, lying on its side on a rocky terrain background, with a distinct dark flipper extending behind it.
+train_42762.png	A light brown seal with a smooth, slightly mottled texture lies on its side on a wooden dock, with partially visible water gently lapping at the dock's edges in the background.
+train_26449.png	The seal appears in a mottled grey and brown texture with a predominantly pale face and underside, positioned in a seated posture on a sandy terrain amidst sparse grass, with its head turned slightly to the side and dark flippers visible.
+train_24814.png	The seal is a gray, textured blob-like form lying on a sandy beach with the ocean waves visible in the background, appearing to be resting or basking in a typical seaside setting.
+train_00824.png	The seal appears dark gray with a smooth texture, viewed in profile while lying on a snowy beach with blurred people and ocean in the background, showcasing its elongated body and small flippers.
+train_18819.png	The seal appears to be a dark brown color with a smooth, glistening texture, shown in a frontal view with its head poking above the greenish water surface, with noticeable whiskers and slick skin.
+train_34178.png	A grey seal with mottled darker patches lies on its belly with its head raised, set against a grassy beach backdrop with blurred sandy tones.
+train_38462.png	The seal appears to have a mottled gray texture with dark patches, lying on its side by the water, providing a contrast against a serene blue watery environment.
+train_20490.png	The object appears to be a dark-colored seal with a wet, glossy texture, seen from a side angle in a somewhat reclined pose, set against a rocky, pebble-filled environment with blurred background details.
+train_49258.png	The seal appears to be light gray with speckled darker spots resting on its side, displaying a smooth, sleek texture against a blurred beach or sand background with some green vegetation.
+train_06533.png	The seal appears greenish due to underwater coloration, gliding horizontally with a smooth texture, against a blurred aquatic backdrop, showing distinct flippers and streamlined body.
+train_02958.png	A dark, sleek seal is shown swimming in a blue-tinted aquatic environment, with a visible light reflection on the water surface and its body angled upward.
+train_28538.png	The seal is dark gray with a sleek, shiny texture, positioned on its side on a smooth, light-colored surface, with some green in the foreground and a concrete environment in the background.
+train_33538.png	The seal appears to be light gray with a smooth texture, lying on its stomach from a slightly overhead angle, against a rocky and earthy background, exhibiting speckled darker markings on its back.

@@ -1,0 +1,3 @@
+train_13612.png	The house is viewed from a front-side angle with a muted grayscale texture, prominently occluded by a vibrant, multicolored mosaic pattern on the right, contrasting with the blurred monochromatic environment.
+train_23164.png	The image shows a vibrant, multicolored building with a blurred texture, viewed from the front, heavily obscured by colorful, confetti-like camouflage spread across the central section, set against a blue sky and greenery in the background.
+train_49926.png	The image shows a house with bright, multicolored, pixelated texture obscuring its facade, surrounded by a blurred outdoor environment, with the occlusion predominantly covering the main structure in the center.

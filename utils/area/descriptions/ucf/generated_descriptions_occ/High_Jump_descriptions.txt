@@ -1,0 +1,3 @@
+v_HighJump_g06_c04.jpg	The image shows an athlete mid-jump with upper body visible over a pixelated occlusion, against a background of blurred stadium seating, showcasing motion with a reddish-brown track surface below and colorful barriers in the distance.
+v_HighJump_g25_c03.jpg	The image shows a person in blue athletic attire running on a bright red track field with a heavily occluded central area, colorful digital noise blocking the body, and a visible blue high jump mat on the left side.
+v_HighJump_g11_c01.jpg	The image shows a high jump scene with a vertical strip of heavy pixelated noise obscuring the center, leaving visible parts of a green field and a red-clad athlete on the right, with a blue and white bar potentially visible on the left.

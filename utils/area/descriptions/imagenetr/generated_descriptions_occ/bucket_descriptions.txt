@@ -1,0 +1,3 @@
+graphic_10.jpg	The visible part of the bucket has an orange gradient color with a smooth texture, viewed from the side, pouring water, while the right side is obscured by a colorful static-like occlusion.
+graphic_14.jpg	The bucket appears orange with a gradient texture and is tilted forward, with only the front visible, while pouring water, and the right side is heavily occluded by a colorful static-like pattern on a scroll background.
+cartoon_14.jpg	The heavily textured and aged appearance shows an illustration of a cartoon character pouring from a bucket, with the top heavily occluded by noise, and a distressed, vintage poster style in an outdoor setting.

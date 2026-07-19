@@ -1,0 +1,3 @@
+videogame_2.jpg	The ambulance is viewed from the front-left angle, prominently displaying its white body with black accents, a yellow light bar on top, and the word "AMBU" visible on the front, while the right side is heavily obscured by colorful noise.
+cartoon_4.jpg	A red and white ambulance is partially visible from a three-quarter front-left angle, with the front and side obscured by colorful static, on a map background detailing a tour route across Wisconsin.
+sculpture_0.jpg	The ambulance is made from LEGO bricks with a white and red color scheme, featuring a distinct red cross on the roof, viewed from an elevated angle, with severe occlusion covering the front half of the vehicle and it is positioned on a stylized road with visible markings.

@@ -1,0 +1,3 @@
+v_CricketShot_g24_c02.jpg	The visible cricket shot image shows players in a practice net with one player dressed in black running towards the left on a green synthetic pitch, surrounded by tall blue netting, while the lower right is obscured by pixelated noise.
+v_CricketShot_g08_c04.jpg	The image shows a cricket player in a white uniform executing a batting stance on a green-patched floor, partially obscured by a multicolored static pattern primarily on the left.
+v_CricketShot_g23_c03.jpg	The image shows an indoor cricket training area with a vivid green artificial turf, where several white and orange cricket balls are spread across the ground, while people in cricket attire stand in the background, partially occluded by a colorful, pixelated area on the right.

@@ -1,0 +1,3 @@
+v_PullUps_g19_c04.jpg	A person in a blue shirt and jeans is performing a pull-up on a metallic bar above a doorway in a room, with a large pixelated occlusion covering the left side of the image.
+v_PullUps_g22_c02.jpg	The image features a man viewed from the front gripping an overhead pull-up bar with both hands, standing in a gym environment, partially occluded by colorful static on the bottom left, with a white shirt, dark pants, and text partially visible at the bottom.
+v_PullUps_g20_c04.jpg	The image shows a person performing pull-ups in a partially visible doorway, with the right side obscured by a digital noise pattern, while the visible part shows a doorframe and a section of a yellow wall.

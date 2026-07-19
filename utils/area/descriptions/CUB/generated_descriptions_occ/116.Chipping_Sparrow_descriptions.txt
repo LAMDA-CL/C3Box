@@ -1,0 +1,3 @@
+Chipping_Sparrow_0011_108081.jpg	The visible part of the Chipping Sparrow shows a brownish back with streaks, a rusty cap, and a grayish body perched from the side on a teal wooden surface, while the right portion of the image is obscured by colorful static noise.
+Chipping_Sparrow_0015_108462.jpg	The Chipping Sparrow is perched on a slender branch, with visible parts showcasing a grey and brown streaked or mottled texture, partially obscured by a pixelated occlusion on the left where the rest of its body should be, surrounded by a blurred greenish background.
+Chipping_Sparrow_0071_108735.jpg	The bird is perched on a branch with gray and orange-red visible on its head and chest, with heavy color noise occluding the central portion of the body.

@@ -1,0 +1,3 @@
+train_27185.png	The image shows a grey textured surface in the background, with the left half heavily occluded by a multicolored, digital mosaic, obscuring any specific distinguishing features.
+train_34401.png	A low-resolution image shows a chimpanzee with a dark fur texture, partially obscured by a colorful, pixelated overlay primarily on the right side, with the visible portion of its body appearing in a sitting pose against an indistinct, grayish background.
+train_01967.png	A heavily occluded image shows a vibrant, multicolored geometric pattern blocking the lower part of an object's form, with lush green grass visible around the edges and a hint of two dark vertical shapes resembling legs nearby.

@@ -1,0 +1,3 @@
+sketch_22.jpg	The image depicts an outlined illustration of a whole pomegranate and a half pomegranate, with the half showing interior seeds in grayscale while heavily occluded by a colorful static pattern in the lower central area, set against a white background.
+graffiti_0.jpg	The pomegranate appears as a red stencil-like outline on a speckled, off-white background, with visible detailing of seeds in the lower half, partially obscured by a centrally placed, multi-colored static pattern.
+painting_1.jpg	A partially visible pomegranate with a glossy red surface sits on a draped white cloth, with significant central occlusion of static-like noise partially obscuring the fruit from a frontal viewpoint.

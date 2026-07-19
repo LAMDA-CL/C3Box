@@ -1,0 +1,3 @@
+Mallard_0103_77105.jpg	The visible part of the Mallard shows a vibrant green head, a brown chest, and orange feet standing on a paved surface, with heavy pixelated occlusion covering part of its body.
+Mallard_0018_76511.jpg	A blue-green and brown bird in flight has its body partly obscured by a multi-colored static block, with its head and tail visible against a blurred background.
+Mallard_0052_76946.jpg	A Mallard with a glossy green head and a yellow bill is positioned side-on near water, with much of its body obscured by digital noise.

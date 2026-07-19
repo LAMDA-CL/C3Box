@@ -1,0 +1,3 @@
+v_WalkingWithDog_g14_c01.jpg	The scene shows a person with a dog walking on a snow-lined, rural road under a clear sky, with significant occlusion by multicolored static on the left, revealing autumn trees and textured pavement on the right.
+v_WalkingWithDog_g12_c03.jpg	The image shows a person walking a dark-colored dog on a sidewalk with greenery and a house in the background, heavily occluded by a colorful, pixelated block in the central area, obscuring most of their bodies.
+v_WalkingWithDog_g16_c03.jpg	A person and a dog are partially visible on a sunny sidewalk, with a colorful static occlusion obscuring the central portion, while shadowed patches intersect the path and surrounding green grass.

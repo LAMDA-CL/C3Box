@@ -1,0 +1,3 @@
+train_27185.png	The image shows a predominantly gray and blue tinted figure with a smooth, glossy texture, viewed in a close-up, angled pose, with much of the head partially obscured by the environment, emphasizing the eyes while the rest of the background is blurred.
+train_34401.png	The chimpanzee appears in a seated pose with a blue-tinted coat and textured fur, facing slightly away from the camera, against a blurred and bright environment that obscures background details.
+train_01967.png	The image shows a dark, blurred figure with rough texture sitting on grass, facing slightly downward, partially obscured by a person on the right side, with the green background suggesting an outdoor setting.

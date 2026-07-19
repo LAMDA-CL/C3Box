@@ -1,0 +1,3 @@
+train_30098.png	The image shows a grayscale mushroom with a smooth, rounded cap viewed from a side angle, with blurred foliage partially occluding the lower stem, creating a textured backdrop.
+train_06447.png	The image shows a vertically elongated mushroom with a creamy, smooth stem and a textured, circular cap in beige tones, set against a vivid green, grassy environment with the cap slightly occluded by surrounding foliage.
+train_13460.png	The image shows two mushrooms with an upward-facing perspective; their textured caps appear in a warm, orange hue with darker spots, set against a blurred, neutral gray background.

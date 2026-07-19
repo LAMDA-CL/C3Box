@@ -1,0 +1,3 @@
+06123.jpg	The image shows a red Suzuki SX4 Hatchback 2012, viewed from the side with a significant vertical occlusion over the center, revealing the front and rear ends with distinct silver wheels and a sunlit outdoor environment featuring a white tent and trees in the background.
+04153.jpg	The image shows a red Suzuki SX4 Hatchback 2012 viewed from the front passenger side, with heavy pixelated occlusion covering the front left portion, showcasing a prominent grille and clear headlights against a background of grass and a stone wall.
+03518.jpg	The Suzuki SX4 Hatchback 2012 appears to be silver with a visible rear view, set against a snowy environment, and is heavily occluded on the left side by a colorful static pattern.

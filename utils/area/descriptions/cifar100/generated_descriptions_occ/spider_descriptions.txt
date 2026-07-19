@@ -1,0 +1,3 @@
+train_44005.png	A low-resolution image shows a partially obscured creature with visible orange and white tones, displaying a blurred texture and likely viewed in profile against a green background, with significant multicolored occlusion on the left side.
+train_31258.png	The spider appears with a patchwork of vibrant, pixelated colors and a speckled texture, lying in a horizontal pose on a green and brown background, with its legs partially obscured by the surrounding environment.
+train_07133.png	The object appears to be a spider viewed from above with a multicolored, pixelated pattern covering the dorsal side, set against a sandy background, with heavy occlusion obscuring details on the upper body.

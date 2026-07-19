@@ -1,0 +1,3 @@
+train_05437.png	The object appears as a partially visible orange sphere with a smooth, glossy texture and vibrant orange coloration, positioned behind a large area of multicolored pixelation on the left, revealing its upper section against a dark background.
+train_17768.png	The orange appears partially visible in the center with a smooth, bright orange surface, heavily occluded by a colorful vertical strip of abstract patterns, surrounded by dark green foliage.
+train_23196.png	The object visible is partially obscured by a colorful, abstract pattern on the right, with the left side showing a yellow-orange hue and a slightly glossy texture amidst green foliage, viewed from the side.

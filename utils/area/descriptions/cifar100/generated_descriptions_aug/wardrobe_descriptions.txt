@@ -1,0 +1,3 @@
+train_24276.png	The wardrobe appears to be a vivid red with a textured surface, seen from a slightly angled left side view with partially open doors revealing dark interior sections, while a pink and black fabric is visible hanging inside, and the surrounding area is mildly cluttered.
+train_20398.png	The wardrobe is presented in a low-resolution image, appearing in a deep maroon color with a wood-like texture, viewed from a frontal perspective with both its sides slightly occluded by lighter-colored walls.
+train_23058.png	The image shows a wardrobe with a pinkish hue and solid texture, viewed from the front at a slight angle, surrounded by a dark environment with partially visible objects obscured at the sides.

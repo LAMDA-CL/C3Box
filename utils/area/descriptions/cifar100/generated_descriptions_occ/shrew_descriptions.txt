@@ -1,0 +1,3 @@
+train_14745.png	The heavily occluded image shows a small, pixelated figure with a predominantly green and blue speckled texture, suggesting a dynamic patterning, positioned diagonally amid surrounding blurred and indistinct shapes.
+train_46012.png	The image depicts a low-resolution object partly covered by a colorful, pixelated pattern on the right side, with the visible area in gray tones and a smooth, textured surface slightly curved at an angle.
+train_25676.png	Blurry with a vibrant, pixelated pattern obscuring most of the subject, against a muted, natural background with indistinct foliage.

@@ -1,0 +1,3 @@
+v_UnevenBars_g22_c01.jpg	The uneven bars are visible from a side angle with the lower bar partially obscured by a colorful, pixelated occlusion in the center, while the surrounding gymnasium has dim lighting and spectators in the background.
+v_UnevenBars_g16_c04.jpg	The uneven bars appear from an elevated angle, featuring red supports against a pink floor and background, heavily occluded with colorful static covering the upper portion, leaving only the lower apparatus and some competitors' legs visible.
+v_UnevenBars_g04_c01.jpg	The uneven bars are seen from a side view in a dimly lit arena with bright red and black seating in the background, heavily occluded in the center by a colorful, pixelated pattern, while the gymnast appears mid-action to the right of the bars.

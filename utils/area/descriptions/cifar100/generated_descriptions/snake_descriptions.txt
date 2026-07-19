@@ -1,0 +1,20 @@
+train_12407.png	The snake is coiled and light brown with darker markings, set against a leafy green background.
+train_48059.png	A slender, earth-toned snake with subtle striped markings lies in a loose S-shape on a backdrop of green, mossy terrain.
+train_02146.png	The snake has a yellow and brown patterned texture with dark blotches, seen coiled on a rocky surface.
+train_08570.png	The small snake, held in a hand, has a grayish body with subtle brown stripes and a smooth texture, lying in a coiled position against a blurred pinkish background.
+train_42281.png	The image shows a coiled snake with a smooth, shiny black texture, viewed from above against a rocky, brown background.
+train_05400.png	The image shows a cream-colored object with a textured appearance, resembling a curled, abstract shape set against a blurred brown background.
+train_37783.png	The snake appears to be coiled on a smooth, brown surface, displaying a glossy, dark reddish-brown color with subtle lighter mottling and a prominent slender body.
+train_37826.png	A coiled, light brown snake with a distinct braided texture pattern is lying on a sandy, beige background, featuring a slightly raised head in a defensive pose.
+train_42134.png	The snake is mottled brown and gray with a smooth texture, seen from an overhead view in a leaf-littered forest floor, displaying a distinct slender body with subtle banding patterns.
+train_33525.png	The snake is coiled with a pattern of tan and dark brown bands on its textured skin, viewed from above against a sandy, earth-toned background.
+train_10326.png	A snake with a mottled black and white pattern coils on a light, textured surface, displaying a distinct diamond-like pattern and slightly lifted head.
+train_21194.png	The snake is coiled on a mottled sandy background, displaying a pattern of dark brown and tan scales with a distinctly thick, rugged texture.
+train_01264.png	The snake appears to have a light brown and black patterned texture with a coiled posture, situated on a brown bed of mulch near a white wall, with distinctive dark banding lines visible on its body.
+train_41759.png	A coiled reddish-brown snake with a smooth, shiny texture is situated on a rough, sandy surface, displaying subtle darker patterns along its elongated body.
+train_18091.png	The image shows a stylized snake with a red and black segmented body, a cream-colored head with minimal detail, viewed from an angled perspective against a plain, light background.
+train_01135.png	The snake appears green with brown bands, displayed in a coiled pose on a textured, sandy background.
+train_26634.png	The snake has a smooth, creamy-yellow texture with orange blotches, viewed from a side angle against a solid turquoise background.
+train_39208.png	A small, coiled blue snake is seen from above, with a smooth texture and a mottled stone background.
+train_03626.png	The snake appears to have a coiled pose with a pattern of brown and tan scales, set against a natural forest floor background with visible leaves and twigs.
+train_41190.png	The snake is light brown with a smooth texture, coiled in an S-shape, set against a blurred earthy and leafy background with a small patch of green vegetation.

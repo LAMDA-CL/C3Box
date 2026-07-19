@@ -1,0 +1,3 @@
+train_03292.png	The orchid appears in a muted pink hue with a mottled texture, oriented slightly to the left, with its petals partially overlapping each other against a dark green leafy background.
+train_47325.png	The image shows a vibrant, flame-colored orchid with a smooth texture, tilted diagonally against a bright blue background, with parts of the orchid abstractly appearing like fiery petals.
+train_10206.png	The orchid appears as a low-resolution, light green bloom with a smooth, slightly glossy texture, oriented upright with a central yellow detail and partially surrounded by a dark, out-of-focus background.

@@ -1,0 +1,6 @@
+sun_aasnyevjyhwkkarx.jpg	The image shows a grove of trees with white blossoms, illuminated by bright sunlight, partially obscured by a central strip of heavy digital noise, with green grass visible at the base.
+sun_azdxwrpiyfbzhgay.jpg	The orchard features green-branched trees lining a dirt path, with a vertical multicolor pixelated occlusion centrally obstructing part of the foliage while maintaining a ground-level viewpoint.
+sun_adyhpcyrnvfgjulm.jpg	The orchard features rows of leafless fruit trees in bloom with white flowers, viewed from a ground-level perspective along a grassy path, partially obscured by a central rectangular patch of multicolored noise.
+sun_anndvjkghlrihzwm.jpg	The orchard features rows of leafless trees with small buds against a partly cloudy sky, while a colorful, static-like vertical occlusion covers a significant portion on the left side of the image.
+sun_akadjltzgtyjrhug.jpg	An apple orchard with rows of trees bearing red apples is partially visible under clear blue skies, with significant gray and multicolored occlusion on the right side that obscures part of the foliage and white ground covering.
+sun_aydxktqzniznwwwy.jpg	The low-resolution orchard scene is predominantly green with evenly spaced trees showing white blossoms along a grassy path, and the central region is heavily occluded with a multicolored static-like square.

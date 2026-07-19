@@ -1,0 +1,3 @@
+v_BrushingTeeth_g25_c01.jpg	A person is in a bathroom environment brushing teeth, with a colorful noise occlusion covering their face, some of the toothbrush's blue and white bristles are visible, and the background features a white and neutral color scheme.
+v_BrushingTeeth_g25_c06.jpg	The image shows a person in a bathroom setting brushing their teeth, with part of the face visible on the left side, holding a toothbrush with a blue and white handle, while the right side is heavily occluded with colorful noise.
+v_BrushingTeeth_g22_c04.jpg	The image shows a person in a frontal view brushing their teeth with a white toothbrush, set against a plain indoor background with a door, while the right side of the photo is obscured by colorful static noise.

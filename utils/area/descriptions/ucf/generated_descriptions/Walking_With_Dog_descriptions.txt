@@ -1,0 +1,10 @@
+v_WalkingWithDog_g24_c02.jpg	A person wearing light-colored pants and a blue shirt is walking a large, fluffy dog with a mottled gray and white coat across a vast grassy field.
+v_WalkingWithDog_g16_c01.jpg	A person wearing a red and black jacket walks a small, short-haired gray dog on a leash along a concrete sidewalk bordered by grass, with the dog slightly ahead and both appearing in profile view.
+v_WalkingWithDog_g08_c04.jpg	A person wearing dark clothing is walking a brown dog on a leash along a snow-lined path through a park with sparse trees and patches of green grass visible in the slightly blurred background.
+v_WalkingWithDog_g22_c04.jpg	Amidst a snowy environment, a person in a silhouette view walks on a snow-covered path with a dark-colored dog on a leash, with blurred vehicles and a structure in the background adding to the overcast atmosphere.
+v_WalkingWithDog_g12_c05.jpg	A person in a light shirt and dark shorts walks three dogs of varying dark colors on a sunny suburban sidewalk, with greenery and a house faintly visible in the background.
+v_WalkingWithDog_g02_c03.jpg	A person wearing a dark jacket and jeans walks a light-colored dog on a snowy path, surrounded by trees and distant mountainous terrain.
+v_WalkingWithDog_g15_c04.jpg	A young child in a light outfit walks a black-and-white dog on a red leash in a dirt path surrounded by bushy, green foliage and a few visible rocks, with the dog moving ahead energetically.
+v_WalkingWithDog_g06_c01.jpg	The image shows a person in a dark purple shirt walking a dark-colored dog on a paved residential street with neatly cut grass and a tree providing shade in the background.
+v_WalkingWithDog_g24_c05.jpg	A person in a blue shirt and white pants walks in profile view across a sunlit grassy area, accompanied by a large, fluffy black and white dog, with dark tree shadows in the background.
+v_WalkingWithDog_g18_c04.jpg	A person wearing dark clothing is walking a large dog across a grassy field during dusk, with a dimly lit sky and distant tree line in the background.

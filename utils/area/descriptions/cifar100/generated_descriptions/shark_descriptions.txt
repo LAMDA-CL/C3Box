@@ -1,0 +1,20 @@
+train_24073.png	The image depicts a fish with a silvery-blue body and vibrant orange fins, positioned at an angle near the surface of a dark blue, possibly aquatic environment.
+train_33206.png	The shark appears light gray with a smooth texture, viewed from above in a swimming pose, set against a dark, wavy water background, with a prominent fin and tail clearly distinguishing its outline.
+train_40429.png	The shark appears to have a sleek, bluish-gray body with a smooth texture, shown in a side profile swimming pose against a dark blue aquatic background, featuring a noticeable dorsal fin and a pointed snout.
+train_42981.png	The image shows a light gray-green shark with a smooth texture seen from a side perspective, featuring a visible gill slit and eye, set against a dark, murky aquatic background.
+train_22466.png	The shark appears in a side view with a gray, smooth texture and a white underbelly, set against a deep blue ocean background with its mouth slightly open, revealing sharp teeth.
+train_08506.png	The large, light gray shark with a smooth texture is captured from a side view, swimming closely past a diver in a blue aquatic environment, displaying a distinctive pointed snout.
+train_38468.png	The shark exhibits a sleek, bluish-grey body with a lighter underbelly, viewed from a side angle with its dorsal fin prominent, set against a deep blue aquatic background.
+train_32748.png	The shark appears gray with a smooth texture, shown from a frontal angle with its open mouth revealing sharp teeth against a deep blue underwater background, highlighting its streamlined body and distinctive gill slits.
+train_44049.png	The image shows a shark with a streamlined body, grayish-blue upper skin, and lighter underbelly, swimming from left to right in open blue water with an indistinct silhouette in the background.
+train_49959.png	A gray-blue shark with a streamlined body and pointed snout is seen from the side in murky blue water, showing a partially open mouth and discernible gill slits.
+train_39464.png	The image displays a sleek shark with a smooth, grayish-blue body from a side profile, featuring a pointed snout with two visible gills against a blurred, dark aquatic background.
+train_18369.png	The image shows a dark, elongated object with a smooth texture viewed from the side against a uniform blue background suggestive of the ocean, featuring fins that might imply motion or a swimming pose.
+train_11104.png	This underwater image shows a shark with a light grey, coarse texture in a side profile view, swimming close to the sandy ocean floor with a diver nearby.
+train_17630.png	The shark displays a speckled pattern of white spots on a grey-blue background, viewed from the side in clear blue water, with a distinct broad, flat head and wide body typical of a whale shark.
+train_17663.png	A robust, streamlined shark with a metallic gray-blue color and a smooth texture is seen from a side profile, set against a deep blue aquatic environment with a distinctive conical snout and prominent dorsal fin.
+train_13671.png	The shark appears to have a light grey body with a smooth texture, viewed from a top-down angle in greenish water, with a distinct dorsal fin and slightly blurred features due to low resolution.
+train_00098.png	A dark, shadowy figure resembling a shark with indistinct features is seen swimming horizontally in a clear, blue aquatic environment with rippled sand visible on the seabed.
+train_22734.png	A shark with a dark gray, smooth texture is shown from a frontal angle with its mouth open wide in a stark blue underwater setting that emphasizes its white underbelly and sharp, distinct teeth.
+train_29827.png	The image shows a shark with a grayish-blue color and smooth texture, viewed from below mid-swim near the surface in clear blue water, with distinct gill slits and a streamlined body against a sunlit ocean backdrop.
+train_33265.png	A white shark with a slightly open mouth revealing teeth is emerging from dark water, creating splashes around its pointed snout in an upward motion.

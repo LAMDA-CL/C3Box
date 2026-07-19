@@ -1,0 +1,3 @@
+train_08905.png	The image shows a possum in a side profile partially obscured by shadow, with an altered brownish-gray texture and smooth fur, amidst a dimly lit, abstract background.
+train_00698.png	The possum is viewed from the side, prominently featuring a dark marbled texture with hints of turquoise and purple hues, peering from behind vibrant orange objects amidst a blurred green and white background.
+train_37935.png	The image shows a low-resolution possum with its orientation flipped upside-down, displaying a predominantly white, faintly textured appearance against a mottled gray background.

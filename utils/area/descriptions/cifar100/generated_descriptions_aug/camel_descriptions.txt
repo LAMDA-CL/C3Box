@@ -1,0 +1,3 @@
+train_31951.png	The image shows a camel with a reddish-brown texture and visible fuzziness, facing forward in an upright pose with a brick-patterned background.
+train_11881.png	The low-resolution image depicts a camel with an artificially altered dark brown hue, standing in profile view with a slightly raised head, against a blurred sandy background with a softer blue overlay diagonally across the top left corner, giving a sense of motion or altered orientation.
+train_48018.png	The camel appears pink due to color augmentation, with a blurry left-side profile and a visible single hump, set against a pixelated reddish-brown background.

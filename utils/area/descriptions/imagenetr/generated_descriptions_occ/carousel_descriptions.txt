@@ -1,0 +1,3 @@
+cartoon_9.jpg	The carousel horse is primarily white with outlined features, wearing blue and yellow harness details, partially obscured by a vibrant static-like pattern covering the central area, with visible blue highlight strokes on the edges and a spiral notebook top edge.
+toy_2.jpg	The carousel displays a red, green, and blue top with gold accents, viewed from a side angle, with a significant multicolored occlusion covering the center, surrounded by visible horse figures partially obscured.
+sculpture_2.jpg	The carousel is viewed from the side, showing a blue and white striped roof with ornate lighting around the edges, while the center area is heavily occluded with a colorful noise pattern, revealing only some animal figures in the foreground.

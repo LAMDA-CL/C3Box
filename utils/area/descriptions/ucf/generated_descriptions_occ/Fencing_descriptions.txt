@@ -1,0 +1,3 @@
+v_Fencing_g16_c02.jpg	The scene displays a fencer in a white outfit from a side view in an indoor venue with green and white walls, partially blocked by a colorful static pattern occlusion in the center, and a digital timer in the upper right.
+v_Fencing_g14_c04.jpg	A fencer dressed in white attire is poised in a dynamic stance with a sword in hand, viewed from a side angle, on a mat surrounded by a blurred audience, while the right side of the image is obscured by heavy pixelation.
+v_Fencing_g11_c02.jpg	The image shows a blurry fencing match where the center is heavily occluded with colorful static noise, revealing only the edges with a fencer on the left, a blue background, and the iconic Olympic rings on a strip.

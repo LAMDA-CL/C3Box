@@ -1,0 +1,3 @@
+sketch_16.jpg	The cabbage appears as a white-on-black stencil with elongated, veined leaves spread in an upward orientation, resembling a botanical illustration with no visible occlusion against a dark background.
+painting_3.jpg	The image depicts a light green cabbage with a watercolor-like texture in the foreground, viewed from above against a backdrop of purple and white mountains, while partially occluded by a fluffy white object resembling a rabbit on the lower right side.
+cartoon_3.jpg	A cartoonish object resembles a cabbage with a glossy green texture, a smiling face with eyes and eyelashes, viewed from the front with no occlusion, and set against a plain background.

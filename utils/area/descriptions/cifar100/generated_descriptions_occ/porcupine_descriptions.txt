@@ -1,0 +1,3 @@
+train_41527.png	The low-resolution image shows a porcupine-like shape with multicolored, vibrant spikes mostly occluding its body against a blurred green and brown background, viewed slightly from the side, emphasizing its dense quill patterns.
+train_41920.png	Amidst dense green foliage, the porcupine's back is visible with a coarse, brown texture while its lower body is obscured by colorful, abstract shapes.
+train_42935.png	The object displays a textured, mottled gray and brown surface with spiny projections and is heavily obscured by a colorful, pixelated square on its upper body amid a blurred, green and brown background.

@@ -1,0 +1,3 @@
+v_Archery_g15_c07.jpg	The image shows a person in a side view holding a long brown bow with a quiver of yellow arrows on their back, set against a grassy field with trees, partially obscured by a pixelated occlusion near the center.
+v_Archery_g11_c06.jpg	A person stands on a rooftop holding a bow, partially occluded by a colorful noise block, with a forest in the blurred background under an overcast sky.
+v_Archery_g01_c05.jpg	A figure with a bow appears obscured by static overlay, showing visible sections in a green and beige setting, possibly with fencing or railings in the background.

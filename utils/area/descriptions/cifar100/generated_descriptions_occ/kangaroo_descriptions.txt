@@ -1,0 +1,3 @@
+train_37778.png	The image shows a kangaroo with a multicolored, mosaic-like texture partially obscuring its midsection, standing in a side profile with only its head and legs distinctly visible against a blurred natural background.
+train_02650.png	The image shows a kangaroo from a rear-side angle with a muted brown texture, partially obscured by a colorful and pixelated block below the waist, standing in a natural earthy environment.
+train_30860.png	The image shows a brown and mottled-texture figure resembling a kangaroo partially obscured by vibrant, pixelated colors in the upper portion, with a side view of the body visible on a sandy landscape.

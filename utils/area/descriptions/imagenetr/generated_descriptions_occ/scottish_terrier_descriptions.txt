@@ -1,0 +1,3 @@
+sketch_10.jpg	The Scottish Terrier's head, with textured black and white fur and an upright ear, is shown in a side profile, with a significant portion occluded by a noisy, multicolored rectangular area overlapping the center.
+misc_29.jpg	This heavily occluded image appears to show the lower body of a scottish terrier in a beaded texture with a predominantly black color, with the top part covered by a colorful static-like pattern.
+misc_66.jpg	The image shows a dark, possibly black, textured figure resembling a Scottish Terrier from a side view, where only the edges are visible due to a central vertical occlusion, and a red ribbon or bow is wrapped around the neck area.

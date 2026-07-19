@@ -1,0 +1,3 @@
+train_39354.png	A partially visible maple tree with a blurred green and brown texture is seen from a side view, largely obscured by a colorful digital overlay in the top center, against a muted outdoor background.
+train_12159.png	The image shows a maple tree with a blurred, reddish-brown hue, seen partially through a heavy, colorful, pixelated occlusion on the right side, with the background appearing dark and textured.
+train_16654.png	A maple tree with a textured canopy in rich green hues is partially obscured by a colorful, mosaic-like pattern concentrated mostly on the lower half, against a backdrop of clear sky and grassy terrain.

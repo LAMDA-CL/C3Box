@@ -1,0 +1,3 @@
+cartoon_7.jpg	The tarantula's visible features include black and orange-banded legs extending outward, viewed from a dorsal perspective, with substantial occlusion on the left side resulting in a pixelated distortion, while the environment is a labeled anatomical chart on a white background.
+toy_2.jpg	The tarantula appears slightly black and fuzzy in texture, positioned on a surface with its legs spread out, while the left side of the image is heavily occluded by digital noise, partially obscuring the background environment.
+tattoo_15.jpg	A tattoo of a tarantula in a side view pose is partially visible on the skin, with a highly pixelated occlusion covering its body and detailing, leaving only the dark, textured legs exposed on a beige background.

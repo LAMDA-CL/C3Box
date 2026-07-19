@@ -1,0 +1,3 @@
+train_46289.png	A low-resolution image shows a worm with a light gray, smooth texture curving slightly to the right against a dark background, partially occluded by a colorful mosaic pattern.
+train_47529.png	The image shows a segment of a luminescent worm with a bright, multicolored, pixelated texture on the body, viewed from the side, partially obscured by a smoky, teal swirl on a dark background.
+train_32164.png	A section of the image shows a blurred, multicolored textured object, possibly a worm, with predominant bright hues and random patterns, partially obscured by a smooth, dark area on one side, set against a pale background.

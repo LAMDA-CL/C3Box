@@ -1,0 +1,3 @@
+train_31456.png	The image shows a group of sunflowers with a strong green hue and dark centers, viewed from a low angle, partially obscured by other flowers, against a bright and blurred background.
+train_45064.png	The sunflower appears with bright yellow petals and a slightly pixelated texture, facing forward with a central green disc, set against a blurred blue background resembling a sky.
+train_40636.png	The sunflower appears with a muted, greenish hue and rough texture, viewed from the front, partially obscured by overlapping dark foliage, and set against a pale gray sky.

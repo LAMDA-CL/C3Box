@@ -1,0 +1,20 @@
+train_37053.png	The small squirrel, with a mottled grayish-brown fur and bushy tail, sits upright on a concrete surface with blurred urban structures in the background.
+train_38972.png	The squirrel is clinging vertically to a wooden surface with a grayish-brown fur texture, slightly blurred details, and a bright blue triangular element in the corner of the image.
+train_41326.png	A grey squirrel with a bushy tail is foraging on a leaf-covered forest floor, viewed from the side, with scattered snow patches adding contrast to the earthy background.
+train_39496.png	The squirrel, with a predominantly gray and slightly brownish fur that appears bushy, is crouched on a textured gravel surface with a grassy field in the blurred background, and its tail is arched upwards showing a distinct white edge.
+train_33998.png	The image shows a light gray, roughly textured upright object with a subtle blush of soft brown, positioned against a lush, blurred green background suggestive of foliage, with the object having a slender elongated shape and a rounded top.
+train_46302.png	The squirrel displays a mix of gray and reddish-brown fur with a bushy tail, is seen in a side pose clinging to the edge of a tree trunk, with a blurred green leafy background.
+train_35071.png	A small, lightly gray-brown squirrel with a bushy tail is perched on a tree branch, partially surrounded by green leaves in a natural outdoor setting.
+train_23564.png	A reddish-brown squirrel, viewed from the side with its bushy tail curled behind, is perched on leaf-strewn ground, blending with the autumnal backdrop.
+train_31244.png	The squirrel, with a bushy tail and alternating gray and white fur, is poised on green grass in a grassy park environment, viewed from the side as it seems to forage.
+train_02553.png	The squirrel, with a grayish fur and slightly bushy tail, is perched on a ledge with a pinkish hand offering food, surrounded by a blurry backdrop of red brick and greenery.
+train_41354.png	The furry creature with a mottled gray and brown coat is perched upright in a red-framed bird feeder, surrounded by blurred greenery in the background.
+train_42448.png	The squirrel appears to have a mix of orange and gray fur with a bushy tail, seen from a front-facing angle, perched on a tree trunk against a blurred natural background.
+train_26309.png	The squirrel appears perched against a textured bark backdrop with a predominantly gray and white coat, highlighted by subtle brown patches, and is captured in a side view with its head turned partially forward.
+train_02437.png	The silhouetted squirrel appears dark brown with a bushy tail, sitting upright on a textured, possibly stone surface against a blurred earthy-toned background.
+train_25422.png	The object appears to be a light gray plush toy with a smooth texture, sitting upright on a patch of green grass, with a wooden log and a stone background, lacking distinct features or lifelike attributes.
+train_03026.png	The squirrel, with a grayish-brown fur displaying a soft, fluffy texture, is posed in a sitting position facing slightly left, on a vibrant green grass background with visible small twigs, showcasing a bushy tail and perked ears.
+train_01253.png	A fuzzy, reddish-brown object with a smooth texture is positioned on a patchy, green grass-like background; its elongated shape lacks distinct limbs or facial features due to the low resolution.
+train_10725.png	The squirrel, with a grayish-brown fur and a bushy tail, is captured in a side profile view standing on a wrought iron fence, surrounded by a verdant backdrop of leafy green foliage.
+train_14012.png	The image depicts a small, brown-furred squirrel perched sideways on a tree trunk, with a blurred green forest background and a visible bushy tail.
+train_01646.png	The squirrel, with its gray and lightly speckled fur, is seen from the side in a climbing pose on the textured bark of a tree, with blurred greenery in the background.

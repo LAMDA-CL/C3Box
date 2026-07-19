@@ -1,0 +1,3 @@
+train_22969.png	The image shows a low-resolution figure of a boy with an overall sepia tone, wearing a textured uniform with blurred details standing in a frontal pose against a faded, indistinct background.
+train_37058.png	A boy with a pinkish hue is sitting sideways on a blurred, textured surface with his face partly obscured, wearing dark clothing.
+train_33743.png	The image shows a boy with light-colored, slightly blurred hair wearing a white shirt with red patterns, standing in an upright pose against a brown-toned background, with the picture's low resolution giving it a textured appearance.

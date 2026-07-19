@@ -1,0 +1,3 @@
+sketch_19.jpg	The rugby ball appears as a black outline drawing on a flat gray background, with a horizontal orientation and prominent stitching detail, no visible texture, and no occlusion from the environment.
+cartoon_25.jpg	The rugby ball appears in a stylized, low-resolution image featuring black and white colors against a vibrant orange background, oriented diagonally with one end slightly obscured by the figure's foot, highlighting a stark contrast between the ball and the vivid backdrop.
+videogame_10.jpg	The rugby ball appears green and white, horizontally flipped and partly obscured by a player's hands, with vibrant green and white background effects highlighting dynamic motion.

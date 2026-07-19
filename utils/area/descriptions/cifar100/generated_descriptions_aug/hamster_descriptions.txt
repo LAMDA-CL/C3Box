@@ -1,0 +1,3 @@
+train_17816.png	The image shows a low-resolution pinkish-tinted animal resembling a hamster facing forward with a blurred, indistinct background, and its small, round ears and whiskers are partially visible despite the color alteration.
+train_30152.png	The hamster appears in a side profile with a greenish hue and a blurred texture, with its face and whiskers prominent against an indistinct background, while its body is partially obscured.
+train_24941.png	The low-resolution, visually augmented image shows an object with a predominantly white, speckled texture and circular shape, viewed from above, displaying partial blurred surroundings and lacking distinct features due to heavy noise.

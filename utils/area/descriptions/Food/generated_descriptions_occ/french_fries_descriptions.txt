@@ -1,0 +1,3 @@
+3141886.jpg	The image shows a dimly lit bowl of thick, golden-brown fries sitting on a rectangular plate, largely occluded by a pixelated square in the center, with slightly visible textures around the edges and accompanied by dipping sauces.
+2062301.jpg	The visible portion of golden-brown, crispy French fries is piled in a white tray, partially blocked by a colorful, static-like occlusion in the lower section, with a hint of orange sauce beside them.
+3764329.jpg	The visible french fries are golden brown with a crispy texture, viewed from above, with the center occluded by a colorful noise pattern, resting on parchment paper in a bowl.

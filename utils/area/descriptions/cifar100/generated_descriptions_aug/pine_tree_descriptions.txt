@@ -1,0 +1,3 @@
+train_36701.png	The pine tree, viewed from a side angle, appears in vibrant hues with exaggerated brushstroke textures, stands against a clear gradient sky, and is positioned on a grassy slope casting a long shadow.
+train_45659.png	The low-resolution image shows a pine tree with a grayish-green hue and muted texture, appearing twisted with branches leaning to the left, set against a blurry background of darker foliage and partially obscured by neighboring branches.
+train_14413.png	The pine tree appears almost silhouetted with dark, muted hues, leaning slightly to the right against a bright sky, surrounded by a blurred environment, with its dense needle clusters providing textural contrast.

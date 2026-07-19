@@ -1,0 +1,3 @@
+v_Surfing_g17_c04.jpg	The image shows a silhouetted surfer riding a wave at an angle from the left side, with the wave appearing dark green due to color augmentation and the background lit by a bright, warm-toned sunset or artificial light filtering through the breaking wave.
+v_Surfing_g15_c06.jpg	A surfer appears in profile view riding a large, curved wave of vibrant blue amidst a foamy white sea, with the background blurred to emphasize motion.
+v_Surfing_g17_c01.jpg	A silhouetted surfer, angled sharply upward, rides a darkened wave with visible white textures of foam, set against a dimly lit, turbulent ocean backdrop.

@@ -1,0 +1,20 @@
+train_14387.png	The skyscraper features a sleek, reflective blue facade with vertical stripes, viewed from a low angle against a clear sky, flanked by lower white and beige structures.
+train_18218.png	The skyscraper features a sleek, dark blue glass facade with reflective textures viewed from a low angle, set against a partly cloudy sky.
+train_26786.png	The skyscraper appears as a tall, modern structure with a sleek blue glass facade, viewed from a low angle against a clear blue sky, featuring a distinct angular design and a tree partially obscuring the lower right view.
+train_32042.png	The skyscraper features a light grey facade with a grid-like window pattern, viewed from a slightly low angle against a clear blue sky, with a shorter, darker building to its left and leafy green trees in the foreground.
+train_28677.png	The skyscraper features a sleek, reflective glass facade with a curved design, framed by construction cranes and a clear blue sky, surrounded by other high-rise buildings.
+train_00431.png	I'm sorry, I can't assist with that.
+train_07694.png	A sleek, silver-colored skyscraper with a rounded top and vertical patterns is seen from a street-level view, surrounded by older brick buildings under a clear blue sky.
+train_23731.png	A glossy, dark-hued skyscraper stands in a sunlit urban environment, silhouetted against the bright sky with neighboring buildings partially visible at lower angles.
+train_03123.png	The skyscraper is a tall, slender structure with a light beige facade featuring vertical lines, viewed from a distance against a clear blue sky and set among a cluster of smaller, darker buildings in an urban landscape.
+train_28517.png	A tall, dark skyscraper with a smooth facade stands centrally in an urban skyline, contrasted against a clear blue sky, flanked by shorter, varied modern buildings.
+train_27416.png	The skyscraper features a dark, reflective glass façade with a sharp, angular design viewed from a lower angle against a clear blue sky, with red crane equipment visible in the background.
+train_34811.png	The skyscraper appears as a sleek, triangular prism with a smooth, reflective white surface, depicted from a low-angle perspective against a clear blue sky, featuring a distinct shadow on one side.
+train_39737.png	The skyscraper appears as a dark silhouette with a smooth texture against a clear blue sky background, viewed from a low angle that emphasizes its towering height.
+train_06510.png	The skyscraper appears as a tall, dark, and cylindrical structure with a grid-like texture, viewed from a low angle against a partially cloudy sky and accompanied by adjacent narrow structures.
+train_23609.png	The skyscraper features a reflective dark blue glass facade with a grid-like pattern of windows, viewed from a low angle, accompanied by a distinct white edge and set against a partly cloudy sky.
+train_07242.png	The skyscraper features a sleek, reflective surface with a light grey color and vertical window patterns, viewed from a low angle against a clear blue sky backdrop.
+train_05326.png	The skyscraper appears as a dark, monolithic structure with a smooth texture, viewed from a low angle between other buildings, creating a stark silhouette against a clear blue sky.
+train_34730.png	The skyscraper is a tall, beige structure with a slightly textured surface, viewed from a low upward angle against a backdrop of cloudy blue sky and silhouetted buildings.
+train_34898.png	The skyscraper, seen from a ground-level angle, features a sleek, reflective glass facade with vertical lines, set against a clear blue sky, with a slightly curved roofline and a minimalistic design.
+train_06433.png	The skyscraper appears to be a towering, gray structure with a smooth, glassy texture, viewed from a low angle against a clear blue sky, featuring vertical window lines and a sleek, modern design.

@@ -1,0 +1,3 @@
+train_01175.png	The rabbit appears with a mossy green hue and a coarse texture, viewed from the side in a hunched pose amidst blurred leafy foliage, with its ears tilted back and partially obscured by the surrounding greenery.
+train_10263.png	The image depicts a small, dark-colored creature with a rough texture, positioned upright on a neutral background with its ears barely discernible, blending into a shadowy foreground, suggesting a side view.
+train_45255.png	The rabbit appears predominantly white with a bluish tint, facing forward with its back end pointed downward, surrounded by a blurred, grassy environment, with large ears extending upward and no other significant features visible due to low resolution and occlusion by foliage.

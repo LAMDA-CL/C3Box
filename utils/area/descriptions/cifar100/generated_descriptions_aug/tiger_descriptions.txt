@@ -1,0 +1,3 @@
+train_26408.png	The image depicts a tiger with altered brighter, almost golden fur, lying on its side in a grassy environment, with its head turned facing the camera, displaying characteristic black stripes and partially obscured underbrush.
+train_37952.png	A low-resolution, altered image shows a tiger with a bright yellow hue, turning its head to the right, set against a dark background with parts of its lower neck occluded, emphasizing its distinct stripes and intense gaze.
+train_44099.png	The image features a tiger lying down with its body appearing as bright pink and white, possibly due to color augmentation, set against a natural, grassy background with its head turned sideways in a relaxed pose, emphasizing its stripes and smooth texture.

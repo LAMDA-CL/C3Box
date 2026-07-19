@@ -1,0 +1,20 @@
+train_11713.png	The shrew appears in a side profile with a dark brown, slightly mottled texture against a blurred, earthy brown background, highlighting its pointed snout and small eye.
+train_23617.png	The shrew in the image has a small, rounded body covered in smooth, dark grey fur with a slightly lighter underbelly, viewed from the side and positioned against a forest floor background with green foliage and scattered twigs.
+train_35037.png	The shrew is brown with a slightly coarse texture, positioned in a side view amidst green vegetation, showcasing a pointed snout and small, beady eyes.
+train_34280.png	The shrew has a dark brown, smooth fur texture, viewed from above on a rough gray concrete surface, with its small, pointed snout and tiny ears partially visible.
+train_34091.png	The shrew displays a brownish-gray fur with a smooth texture, viewed from a side angle showcasing its elongated snout, against a dark, blurred natural background with hints of foliage.
+train_16664.png	A small shrew with a reddish-brown, smooth coat and elongated snout is visible from a side view, set against a natural earthy background, highlighting its long, slender tail and rounded ears.
+train_10310.png	The shrew is a small, brown-furred creature with a slightly pointed snout, situated in a grassy environment with visible patches of soil, captured from a side view showing its streamlined body.
+train_05544.png	The shrew in the image appears to have a grayish-brown mottled texture, seen from an overhead view, with its snout slightly pointed downward, set against a textured, earthy background that blends with the natural colors of its fur.
+train_39519.png	The shrew has a dark gray, slightly shiny coat with a smooth texture, viewed from a side angle, against a muted, possibly indoor background with indistinct features.
+train_35313.png	The shrew has a smooth grayish-brown body with a pointed snout, visible in a side view while resting on a light beige surface, with a subtle green blur in the background.
+train_12155.png	The shrew appears to have a dark grayish-brown fur with a sleek texture, captured from above in a three-quarter view, set against a blurred, light-colored background of indistinct plant material, and features a long, thin tail visible despite the image's low resolution.
+train_14913.png	The shrew is a small, dark grey creature with a smooth texture, seen from a side view, standing on rocky terrain with a distinct long snout and surrounded by a blurred, earthy background.
+train_10908.png	A small, grayish-brown shrew with a smooth, rounded body and a pointed snout is seen from a side angle on a sandy or earthy background, featuring a distinct, long tail extending behind it.
+train_20863.png	The shrew, viewed from the side, appears grayish-brown with a smooth, dense texture, set against a background of dry, leaf-littered ground, showcasing its elongated snout and small size.
+train_16116.png	The image depicts a small brown shrew with a smooth texture, seen in a side view with an elongated snout and bushy tail, set against a plain white background.
+train_41445.png	The object appears dark and round with a smooth texture, surrounded by a blurred background, suggesting a close-up and possibly indoor setting.
+train_34174.png	The shrew appears dark brown and slightly glossy with a blurred texture, viewed from the side in a crouched pose against a background of scattered leaves and soil, featuring a small tail and pointed snout.
+train_45136.png	The object appears as a small, brownish creature with a smooth, slightly glossy texture viewed from the side, against a backdrop of brownish leaves, with a pointed snout and indistinct limbs.
+train_31290.png	A small, brown-furred shrew with a pointed snout rests on a mixture of green and brown leaves, partially obscured by foliage, giving a side profile view.
+train_07063.png	The shrew appears small and brown with a slightly mottled texture, positioned in profile view on a rocky surface, with its elongated snout and tiny eyes clearly visible against a natural, stone-filled backdrop.

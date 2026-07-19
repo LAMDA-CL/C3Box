@@ -1,0 +1,3 @@
+misc_19.jpg	The crocheted birdhouse features a textured beige body with a zigzag-patterned roof, a lilac and pink bird peeking from a side window, and is partially occluded by a colorful, pixelated area at the bottom center.
+sketch_4.jpg	The birdhouse appears to have a rustic, wood-like texture on its visible parts, with a grayscale color scheme, viewed from a side angle, featuring floral drawings around and a significant central occlusion with colorful static noise obscuring most of the structure.
+sketch_23.jpg	The visible portion of the sketched birdhouse features a rustic design with a slanted roof in an angled side view, partially occluded by a colorful static overlay, surrounded by a sketched landscape with another building in the background.

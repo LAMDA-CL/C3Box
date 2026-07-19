@@ -1,0 +1,3 @@
+train_49887.png	The image shows a predominantly black keyboard seen from a slightly angled top-down view, with vibrant, colorful occlusion covering the upper left portion, leaving partially visible curved lines and a regular pattern of keys.
+train_46629.png	The object appears as a mostly black surface with a colorful mosaic-like pattern on the left side, featuring a centralized blank area potentially representing keys, viewed from a top-down perspective with heavy occlusion by vibrant, angular shapes.
+train_18624.png	The image depicts close-up white keys with rounded edges partly visible beneath a heavy overlay of colorful mosaic-like occlusion, while the environment appears blurred and indeterminate.

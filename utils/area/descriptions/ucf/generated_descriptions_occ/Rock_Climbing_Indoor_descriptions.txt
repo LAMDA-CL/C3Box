@@ -1,0 +1,3 @@
+v_RockClimbingIndoor_g14_c01.jpg	The indoor rock climbing wall is viewed from a low angle, featuring grey surfaces with blue and beige holds scattered around, partially obstructed by a pixelated block near the middle, and a distinctive yellow triangle shaped feature near the top.
+v_RockClimbingIndoor_g14_c04.jpg	The image shows an indoor rock climbing wall with visible sections in shades of orange and white featuring scattered dark climbing holds, partially occluded by a rainbow-colored static pattern.
+v_RockClimbingIndoor_g19_c03.jpg	The image shows a gray indoor climbing wall with various colored holds, partially obscured by a colorful static-like occlusion, with visible climbing holds scattered across the surface.

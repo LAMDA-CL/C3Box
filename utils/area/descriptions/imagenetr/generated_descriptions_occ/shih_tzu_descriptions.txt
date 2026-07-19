@@ -1,0 +1,3 @@
+misc_16.jpg	The image shows a small shih tzu with white and beige fur standing on a blue surface, partially obscured by a colorful noise pattern on the left, with the dog's head visible from a low angle near a figure in a red dress holding its leash.
+sketch_16.jpg	The image shows a shih tzu with a predominantly gray and white, textured, fluffy coat visible from a side view, with a large square area of colorful noise obscuring the lower right portion.
+misc_37.jpg	The image reveals a partially obscured embroidered depiction of a shih tzu with white and gray fur, with the dog's face visible on the right, while the left side is covered by a multicolor static-like occlusion on a floral-patterned beige background.

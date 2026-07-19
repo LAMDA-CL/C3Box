@@ -1,0 +1,3 @@
+train_35635.png	The flatfish appears in a side view with a brown, speckled texture, partially obscured by a dense, geometric black and white pattern on its upper portion, set against a dark, blurred background.
+train_47353.png	The image shows a flatfish with a predominantly orange and brown mottled pattern, viewed from above, partially occluded by pixelated distortion in the center, with a smooth but slightly patterned texture visible around the edges in a controlled environment.
+train_38614.png	The object is partially visible with a sandy, mottled texture resembling a flatfish, showing one side and blending with the obscuring hand and purple background, suggesting it is viewed from above with much of its outline hidden.

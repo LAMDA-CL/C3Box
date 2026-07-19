@@ -1,0 +1,3 @@
+v_LongJump_g18_c02.jpg	The image shows a long jumper captured mid-air with a dynamic sideways pose on a blue track, heavily occluded on the left by multicolored noise, with visible figures and markings in the blurred background indicating a sports event setting.
+v_LongJump_g19_c02.jpg	A partially occluded image shows a track with parallel white lines on a reddish-brown surface, a numerical sign displaying "8.27" in orange on a red background to the right, and a central column of noise obscuring the middle section.
+v_LongJump_g19_c03.jpg	The image depicts an athlete in mid-air during a long jump, wearing a green outfit, with a pixelated occlusion covering the lower half, set against a red track with multiple white parallel lines.

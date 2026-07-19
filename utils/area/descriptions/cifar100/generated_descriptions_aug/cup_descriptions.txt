@@ -1,0 +1,3 @@
+train_21614.png	The cup appears in a cyan color with a subtly glossy texture, viewed from an elevated angle that highlights its round rim and partially obscures the bottom, set against a soft, blurred background with no significant occlusion.
+train_44793.png	The object appears as a blurred, monochromatic entity in shades of green and gray, with an upward tilt resembling a cup from a side angle, surrounded by a muted background with no discernible features.
+train_08056.png	The cup appears with a distorted color palette of muted purples and grays, viewed from a slightly top-down angle with its handle partially obscured, positioned against a dark, featureless background that enhances the texture's visibility.

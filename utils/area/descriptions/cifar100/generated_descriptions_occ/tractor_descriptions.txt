@@ -1,0 +1,3 @@
+train_40332.png	The visible section of the tractor shows a green and yellow body with large black tires, viewed at a slight angle from the side, partially occluded by a colorful, patterned material and positioned against a brown, earthy background.
+train_47837.png	The tractor has a rusty red hue visible from the rear-left viewpoint, partially obscured by a colorful, pixelated pattern on the right, with rough, earthy terrain as the backdrop, and large wheels peeking through the obstruction.
+train_22307.png	The image shows a partially visible red tractor with a rough texture seen from a side angle, set on a dirt path, and largely obscured by adjacent green foliage and a patch of brown structure.

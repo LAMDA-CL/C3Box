@@ -1,0 +1,3 @@
+v_Haircut_g23_c06.jpg	The image shows a person with light-colored hair on the sides, partially obscured by static noise, sitting in a bright environment with multiple individuals in the background.
+v_Haircut_g14_c01.jpg	A person is receiving a haircut with visible straight, dark hair at shoulder length, as viewed from the front with the right side obscured by static noise.
+v_Haircut_g23_c02.jpg	The image shows a side view of short blonde hair with a smooth texture, partially obscured by digital noise, worn by a person draped in a black salon cape against a white background.

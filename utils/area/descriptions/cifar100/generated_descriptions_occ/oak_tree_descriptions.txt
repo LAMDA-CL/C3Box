@@ -1,0 +1,3 @@
+train_19332.png	The oak tree is viewed from the side, showcasing dark, rough-textured bark partially concealed by vibrant mosaic-like patterns that cover the right half of the image against a blurred background.
+train_18065.png	The oak tree appears partly visible on the left side, with green and brown hues representing leaves and bark, surrounded by a blurred grassy landscape under a clear blue sky, while the right side features a colorful geometric pattern occlusion obstructing more details.
+train_28402.png	The low-resolution image shows a tree with a dark green, roughly textured left portion partially occluded by multicolored abstract shapes with a hint of a clear blue sky and grassy area in the background.

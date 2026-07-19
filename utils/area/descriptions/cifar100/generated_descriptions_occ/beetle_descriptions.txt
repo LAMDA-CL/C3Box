@@ -1,0 +1,3 @@
+train_49996.png	The beetle, viewed from above, is largely obscured by colored blocks, but parts of its dark, smooth exoskeleton are visible amidst an earthy brown textured background.
+train_04235.png	A small, indistinct object with a mosaic of bright colors and pixelated texture is partially visible amidst a blurred, earthy background, with occlusion primarily in the form of colorful digital noise overlay.
+train_35574.png	The beetle displays a vibrant mosaic of iridescent colors and a speckled texture, viewed from a top-down angle with surrounding foliage partially obscuring its lower half.

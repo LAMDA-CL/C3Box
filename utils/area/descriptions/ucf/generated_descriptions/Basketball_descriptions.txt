@@ -1,0 +1,10 @@
+v_Basketball_g14_c02.jpg	The basketball is an orange-colored sphere with visible black seams, set against an outdoor backdrop of a brick wall and a wooden fence, while a person prepares to shoot it towards a standard hoop.
+v_Basketball_g18_c04.jpg	The basketball is bright orange with a matte texture, held in the hands of a person on the right side of a gymnasium, characterized by its clear contrasting lines against the smooth, polished wooden floor beneath.
+v_Basketball_g05_c02.jpg	The basketball is primarily orange with a traditional pebbled texture, visible from a side view, set within an indoor gymnasium featuring a wooden floor and players in action.
+v_Basketball_g03_c03.jpg	The basketball is partially visible midair above the tiled ground, appearing as an orange-brown blur with faint lines, against an outdoor backdrop with a building, hedge, and hoop.
+v_Basketball_g01_c04.jpg	The basketball is faintly visible mid-air near the hoop, appearing in orange with a classic pebbled texture, situated in an indoor court featuring a green and orange floor with several baskets set against a paneled wall.
+v_Basketball_g16_c01.jpg	A low-resolution image of an outdoor basketball hoop on a concrete court surrounded by trees and a fence, with no visible basketball present.
+v_Basketball_g04_c02.jpg	The basketball is not clearly visible, but the scene is of an outdoor basketball court with a bright, clear sky, a hoop in the foreground, and players engaged in a game, indicating a suburban residential backdrop.
+v_Basketball_g08_c04.jpg	The basketball, partially visible in mid-air, appears orange with black seams, viewed from a side angle in a gymnasium setting with a basketball hoop and court markings in the background.
+v_Basketball_g20_c03.jpg	The basketball is a small, dark object in mid-air under an outdoor hoop, seen from a distance against a clear sky and concrete court with trees and people in the background.
+v_Basketball_g21_c01.jpg	The object appears as a dark silhouette in mid-air against a twilight sky with a faintly visible basketball hoop and trees in the blurred background.

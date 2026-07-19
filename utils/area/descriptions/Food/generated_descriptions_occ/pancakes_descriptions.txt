@@ -1,0 +1,3 @@
+683188.jpg	The visible pancakes have a golden-brown edge with a soft texture, topped with dark blueberries and light slices of almonds, partially obscured by a heavy, pixelated occlusion covering the center-right area.
+244033.jpg	The pancakes are viewed from a slight angle, showcasing a golden-brown texture dusted with powdered sugar and a dollop of dark topping in the center, partially obscured by a colorful, static-like occlusion covering the middle of the image.
+1786451.jpg	The pancakes, viewed from above and adorned with a golden-brown hue and slightly uneven surface texture, are partially obscured by a pixelated overlay near the top half.

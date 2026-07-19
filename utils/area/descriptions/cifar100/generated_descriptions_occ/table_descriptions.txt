@@ -1,0 +1,3 @@
+train_47150.png	The table is viewed from an angle showing a light wooden surface, with a colorful geometric pattern occluding the top left, set against a plain, light gray background.
+train_42885.png	The image shows a multicolored, pixelated object with a mosaic-like pattern set at an angle in front of a blurred, beige-toned background with the main object heavily obscured by shadowed angular lines.
+train_47908.png	The table appears to have a wooden texture with a warm brown color, partially covered by a colorful, pixelated occlusion centrally located on its surface, and is viewed from a slightly elevated angle, revealing thin legs.

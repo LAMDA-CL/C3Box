@@ -1,0 +1,3 @@
+train_41325.png	The bowl appears in an elevated side view with a smooth, glossy blue and gray texture with shadow on the left, and its rim and interior are partially visible, emphasizing its oblique orientation against a neutral background.
+train_26651.png	The bowl appears in a warm yellow hue, resting on a textured surface, with a tilted orientation highlighting its spherical shape and three visible curved legs.
+train_29141.png	A low-resolution, black and white ceramic bowl with a glossy dark interior and a matte exterior featuring vertical ridges is viewed from a slightly elevated angle on a plain surface.

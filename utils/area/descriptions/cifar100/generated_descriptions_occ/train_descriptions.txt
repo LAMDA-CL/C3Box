@@ -1,0 +1,3 @@
+train_06114.png	The train appears to be red with a textured surface and is heavily occluded by a colorful, mosaic-like pattern, viewed from the side amidst a blurred environment.
+train_43218.png	The image shows a colorfully augmented train partially obscured by large, vibrant, abstract patterns with visible sections revealing a metallic silver surface, and the environment appears to consist of blurred green and blue hues, suggesting an outdoor setting.
+train_23962.png	The image shows a train viewed from the side, predominantly obscured by colorful, pixelated occlusion near the center, with visible warm lights emanating from the top, surrounded by a dark, indoor station environment.

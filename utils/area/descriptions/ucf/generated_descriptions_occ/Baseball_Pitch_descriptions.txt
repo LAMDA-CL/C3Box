@@ -1,0 +1,3 @@
+v_BaseballPitch_g02_c04.jpg	The image shows a baseball pitcher in a gray uniform with a leg lifted in mid-pitch from a side angle on a grassy field, heavily occluded on the left by a vertical strip of multicolored static noise.
+v_BaseballPitch_g15_c02.jpg	The image depicts a person in mid-throw, wearing a white shirt and dark shorts, on a green indoor artificial turf, with the left side heavily occluded by multicolored static and another person standing nearby.
+v_BaseballPitch_g15_c04.jpg	A person in a white shirt and black shorts is captured mid-pitch on a green indoor field, with a large colorful, static-like occlusion on the left side of the image, while another person stands nearby in a blue shirt and white shorts, suggesting dynamic athletic activity.

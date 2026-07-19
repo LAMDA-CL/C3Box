@@ -1,0 +1,3 @@
+toy_8.jpg	The bison appears to be brown with a rough, shaggy texture, depicted in a side profile with its head lowered as if moving forward, partially obscured on the left by a textured pattern, and set against a high-contrast, snowy environment with tree branches above.
+painting_25.jpg	The image shows an abstract depiction of a bison with swirling black lines over a vivid red and orange background, with heavy pixelated occlusion covering the left side, while the visible part suggests a stylized and colorful approach to the animal's representation.
+art_10.jpg	The image shows the left horn of a bison surrounded by a warm beige background, with most of the bison heavily occluded by multicolored digital noise.

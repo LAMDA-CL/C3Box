@@ -1,0 +1,3 @@
+train_33988.png	The mountain appears in a vibrant purple hue with a smooth texture, viewed from a low angle slightly tilted, with streaks of a darker contrasting color running vertically, and partially obscured by a hazy foreground.
+train_01542.png	The image depicts a mountain with a bluish-purple hue and smooth, rounded texture, viewed from an angled perspective with a bright light source behind creating a silhouette effect, while the foreground is marked by stark contrast and shadow across its uneven surface.
+train_17065.png	The mountain appears with a bluish tint and smooth texture, viewed from an angled perspective with a peak sharply rising against a pink sky, partially obscured by dark foreground foliage.

@@ -1,0 +1,3 @@
+train_41529.png	A brown, winged object with a patchy colorful pattern beneath it is partially obscured against a blurred, muted background, obscuring most distinctive features except for a visible upright angle.
+train_17784.png	The image shows a blurred, multi-colored object with speckled textures, partially obscured by digital patterns, surrounded by a background of swirling purples and browns, leaving the actual form unidentifiable.
+train_05877.png	The image shows a blurred yellow and black striped insect, seen partially from the side, with most of its body obscured by a honeycomb pattern and low resolution, leaving details indistinct.

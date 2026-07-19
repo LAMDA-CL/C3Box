@@ -1,0 +1,3 @@
+toy_1.jpg	The harmonica-like object is viewed from above, made of fabric in a muted pink hue with a woven texture, featuring a braided string attached, partially obscured by a colorful, static-like pixellation on its lower right side on a white background.
+graphic_2.jpg	The image depicts a drawing with an abstract portrayal of a person with an orange-toned face and blue clothing, where the midsection is heavily occluded by a colorful static-like pattern, obscuring what the person might be holding.
+cartoon_12.jpg	A cartoon-style harmonica is being played by a sketch of a person, with a colorful, static-like occlusion covering the lower part.

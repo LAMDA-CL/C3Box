@@ -1,0 +1,3 @@
+v_BrushingTeeth_g25_c01.jpg	The image shows a person brushing their teeth with a toothbrush in a side view, with the orientation slightly tilted, featuring a dim, neutral-colored environment and the brush's handle visibly brightened while the person appears partially obscured by motion blur.
+v_BrushingTeeth_g25_c06.jpg	A person is brushing their teeth with a blue toothbrush, viewed from the front, in a white-toned bathroom environment, with slight shadowing on the face and a blurred wall in the background.
+v_BrushingTeeth_g22_c04.jpg	A person with glasses is seen brushing teeth in a low-resolution image with a pale color scheme, viewed frontally in a bathroom setting with visible occlusion of the mouth by the toothbrush.

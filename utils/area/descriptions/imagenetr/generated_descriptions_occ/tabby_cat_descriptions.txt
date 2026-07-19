@@ -1,0 +1,3 @@
+misc_3.jpg	The image depicts a crochet-style depiction of a brown tabby cat lounging in a floral-patterned hammock, with significant occlusion by colorful noise on the right side.
+cartoon_20.jpg	The image shows part of a stylized tabby cat with an orange-brown color, visible on its ear and eye on the right, with a colorful noise covering the central and lower-left portions.
+cartoon_11.jpg	The tabby cat features a watercolor-like appearance with visible brown and black striped patterns on its face, frontal pose, and large eyes, while a pixelated occlusion conceals the upper right section of its head.

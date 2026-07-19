@@ -1,0 +1,3 @@
+train_31522.png	The road in the image has a smooth gray asphalt texture, seen from an angled perspective with a colorful, pixelated occlusion covering the right side, partially obscuring the surrounding green and brown foliage.
+train_42388.png	The road is partially visible with a grayish, likely asphalt texture viewed from a slightly elevated angle, and is heavily occluded by multicolored, pixelated blocks mostly on the left side of the image, surrounded by blurred greenery and distant trees.
+train_21198.png	The road appears gray and smooth, captured from a slightly elevated angle with colorful, abstract geometric occlusion covering the left portion, contrasting with the overcast sky.

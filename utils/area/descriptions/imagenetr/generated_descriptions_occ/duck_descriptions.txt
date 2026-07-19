@@ -1,0 +1,3 @@
+toy_16.jpg	The visible portion of the duck is bright yellow with a soft, plush texture and large orange beak, held in front of two smiling individuals, with the left part obscured by digital noise, set against a background with hints of colorful patterns.
+misc_6.jpg	A multitude of small, orange rubber ducks with glossy surfaces is grouped together, with a dense multicolor static occlusion obscuring a rectangular central section of the image.
+toy_21.jpg	A plush, yellow duck with a bright orange beak faces forward, perched atop a line of bottles with white feathery hair on its head, while the left side of its body is obscured by colorful static noise.

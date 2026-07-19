@@ -1,0 +1,3 @@
+3885624.jpg	The image shows a top-view of miso soup in a black bowl with visible green onions floating in a light brown, cloudy broth, partially obscured on the left by digital noise, while a spoon rests at the edge.
+1635537.jpg	The miso soup, viewed from a slightly elevated angle, features a smooth, cream-colored texture with hints of green leafy components and sliced scallions in a red bowl, with the right side significantly obscured by a pixelated, multicolored occlusion.
+749280.jpg	A bowl of miso soup with a smooth, light brown surface is partially visible, featuring a white spoon and some green garnish, with the center heavily occluded by a block of colorful static noise, set on a dark, reflective wooden surface.

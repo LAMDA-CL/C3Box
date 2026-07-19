@@ -1,0 +1,3 @@
+train_46854.png	The caterpillar is predominantly green with a smooth texture, viewed in profile from the side, with its lower body obscured by a vibrant, multicolored pattern masking the original environment.
+train_31340.png	The image shows a partially visible object with a distorted, colorful pattern overlaid, blending into an obscured background with uneven texture.
+train_12886.png	The caterpillar is primarily obscured, with visible sections showing bright, multicolored patterns with smooth texture, partially covered by large, green leaves.

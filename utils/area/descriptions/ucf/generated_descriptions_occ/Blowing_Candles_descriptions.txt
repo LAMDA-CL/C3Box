@@ -1,0 +1,3 @@
+v_BlowingCandles_g23_c02.jpg	A child in a blue shirt leans forward towards a yellow cake with colorful candles, partially visible from a side angle, with heavy occlusion obstructing the center of the image.
+v_BlowingCandles_g07_c02.jpg	The image shows a side view of a child leaning towards a small cake on a blue tablecloth, with a large central occlusion creating a colorful static pattern.
+v_BlowingCandles_g22_c03.jpg	The image shows a cake in the foreground with bright orange and red details, likely decorations or fruits, surrounded by bowls and plates on a table, while the upper central portion of the scene is heavily occluded with visual noise, obscuring faces and upper backgrounds.

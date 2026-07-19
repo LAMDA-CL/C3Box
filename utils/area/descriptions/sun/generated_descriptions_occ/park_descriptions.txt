@@ -1,0 +1,6 @@
+sun_bacaempvwbckqgqk.jpg	The image shows a tranquil park scene with a partly cloudy sky, featuring a gently curving path bordered by a vivid green grassy area and a leafy tree extending its branches over a serene body of water; a large, central rectangular area is obscured by digital noise.
+sun_ajozqjfbfretxedr.jpg	A vibrant park scene with green grass in the foreground and colorful flowers, partially obscured by a large central pixelated area, surrounded by trees and distant buildings under a blue sky.
+sun_bagsjbpbotjgrgxk.jpg	A brick pathway curves through a grassy section of the park with trees lining the left side and a heavily pixelated rectangular occlusion covering the central portion, under a blue sky and scattered light.
+sun_bmcuehzqptqzatsw.jpg	A sunlit green park with visible trees in the background and a pixelated, multicolored occlusion in the center foreground obstructing ground-level details.
+sun_bxsxiqdhqiennidr.jpg	A sprawling green lawn with a tall, dark-textured tree in the center partially obscured by a pixelated rectangular area on the left, under a clear blue sky.
+sun_atroomuyehkexbyc.jpg	The image shows a park with lush green grass and trees, set against a bright background, partially obscured by heavy pixelation in the center that distorts the view of the environment.

@@ -1,0 +1,3 @@
+train_20298.png	A partially visible fish shows a primarily red and white mottled texture, with a side profile view, while the lower portion is obscured by vibrant, colorful aquatic plants and gravel in the foreground.
+train_29322.png	A partially occluded bright blue fish with a spotted texture is visible from the side, with a colorful structure blocking the left portion, set against a blurry, neutral-colored background.
+train_24948.png	An orange fish with visible smooth texture and flowing fins is partially obscured by a colorful, pixelated block covering its lower body, set against a blurred, greyish-blue background.

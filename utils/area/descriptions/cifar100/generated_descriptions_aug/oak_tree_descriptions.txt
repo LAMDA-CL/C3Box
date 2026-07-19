@@ -1,0 +1,3 @@
+train_19332.png	A densely foliated oak tree appears in shades of deep blue and teal with a slightly pixelated texture, viewed from a low angle against a gradient turquoise sky, without visible occlusions.
+train_18065.png	The image shows an oak tree with a bluish-green tint standing upright in an open grassy area, with a textured bark pattern visible, while the branches are spread wide, showing off the altered foliage against a blurred background sky.
+train_28402.png	The visually augmented oak tree appears with a blue-green canopy and distorted trunk, viewed from a low angle against a clear sky, standing in a sparse, rocky terrain with partial occlusion by nearby foliage.

@@ -1,0 +1,10 @@
+v_BoxingSpeedBag_g06_c03.jpg	The image depicts a human figure in a gym-like setting, but the low resolution and focus on the person make it difficult to clearly identify any specific details about a boxing speed bag.
+v_BoxingSpeedBag_g07_c02.jpg	The image shows a black and red boxing speed bag suspended from a wooden frame, with a muscular arm visible striking it, set against a background of blue lockers and wooden walls, suggesting a gym environment, and wires are hanging loosely around the setup.
+v_BoxingSpeedBag_g19_c02.jpg	A blurred motion view of a red and black boxing speed bag hangs from the ceiling in a cluttered room with wooden shelves and various garments visible in the background.
+v_BoxingSpeedBag_g19_c03.jpg	The boxing speed bag is red and appears textured from a side view, hanging in a cluttered room with tools and clothing in the background.
+v_BoxingSpeedBag_g06_c02.jpg	The image shows a person punching a blurred foreground object suggesting motion with a neutral-colored wall and doorway in the background.
+v_BoxingSpeedBag_g03_c01.jpg	The boxing speed bag appears red and teardrop-shaped, suspended mid-motion horizontally in a gym setting with a grid-patterned wall and wooden platform, indicating active use.
+v_BoxingSpeedBag_g12_c02.jpg	A person is hitting a compact, dark-colored boxing speed bag mounted on a platform in a gym with a visible boxing ring and floor mats in the background.
+v_BoxingSpeedBag_g18_c04.jpg	The boxing speed bag is red with a glossy texture, hanging from a circular platform in a gym environment featuring mirrored walls and a brick column, viewed from an angle showing the side and bottom.
+v_BoxingSpeedBag_g02_c01.jpg	The image shows a dark-colored, teardrop-shaped boxing speed bag with a glossy texture, suspended from a circular platform, viewed from a side angle in a dimly lit gym with walls decorated with posters.
+v_BoxingSpeedBag_g16_c05.jpg	The boxing speed bag appears as a blurry, dark object suspended from a wooden platform, surrounded by a cluttered background featuring wooden walls and miscellaneous household items.

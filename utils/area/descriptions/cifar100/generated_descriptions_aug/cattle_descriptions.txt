@@ -1,0 +1,3 @@
+train_49770.png	The image shows a cattle with a distorted orange hue and smooth texture, viewed from a frontal angle with the head slightly tilted, standing in a grassy field with no apparent occlusion.
+train_01279.png	The cattle appears olive green with a pixelated texture, is seen in a side profile standing on grass, with partial occlusion by a bush on the left and a blurred, purplish background.
+train_14501.png	The cattle appears in a mid-leap pose with its legs extended, displaying an artificially bright orange and white coloration, against a blurred grassy background with a hint of trees.

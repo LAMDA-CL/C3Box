@@ -1,0 +1,3 @@
+train_45001.png	The tulip appears in a rich, deep purple hue with a silky texture, tilted to the right against a soft blue-green background, showcasing a long, curving stem and partially closed petals.
+train_11773.png	The tulip appears to have a bright green hue with a slightly blurred texture, oriented upright amidst a darker, leafy background with its petals slightly open and partially obscured by foliage.
+train_04033.png	The tulip appears with a textured, mottled yellow hue, viewed from a tilted orientation, partially obscured by surrounding blurred foliage and stems in varied shades of green and brown, creating a dense, natural backdrop.

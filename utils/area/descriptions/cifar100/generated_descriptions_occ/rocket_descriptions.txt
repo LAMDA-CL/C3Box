@@ -1,0 +1,3 @@
+train_25188.png	The object features a sleek, elongated shape against a hazy sky with a prominent occlusion of vibrant, abstract colors and shapes near the top, appearing as if the background blends into sandy textures below.
+train_04612.png	The image depicts a predominantly green and blue rocket shape with a blurred, textured surface, visible from a side angle with significant occlusion from colorful, abstract shapes overlapping the lower portion against a dark, indistinct background.
+train_33664.png	The low-resolution image shows the top of a rocket, primarily gray with some white and positioned vertically, partially obscured by a colorful, patterned occlusion in the foreground, against a muted, overcast background.

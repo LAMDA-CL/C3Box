@@ -1,0 +1,3 @@
+train_43824.png	The clock has a rounded, deep red frame seen from a tilted top view, with the left side partially visible showing a white face, while the right side is occluded by colorful, pixelated noise.
+train_38054.png	The clock appears to have a smooth, metallic silver texture viewed from a slightly elevated angle, with the lower left quadrant heavily occluded by a colorful, pixelated pattern.
+train_39395.png	A low-resolution object with a blue-toned base and a surface heavily occluded by a vibrant mosaic of colorful pixels, displaying a rectangular shape, partially visible with an unclear environment and an obscured clock face.

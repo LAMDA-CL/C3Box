@@ -1,0 +1,3 @@
+train_30038.png	The image features a faintly visible object with a muted brown texture, partially obscured by a vibrant, multicolored digital camouflage pattern, set against a dark, indistinct background.
+train_12313.png	The crab appears with a shiny red texture, viewed from a slightly elevated side angle, with its back partially obscured by a colorful, pixelated occlusion.
+train_26705.png	The image shows a crab with reddish-brown textured claws extending downward, partially obscured by a dense, colorful, and pixelated overlay on the upper body, set against a neutral background.

@@ -1,0 +1,3 @@
+painting_8.jpg	The object appears as a partially visible, top-down view of a bright yellow surface with a glossy, textured area on a white background, partially obscured by a rectangular section of heavy digital noise and colorful static along the bottom portion.
+painting_19.jpg	The image shows a slice of lemon with a smooth, yellow rind and visible pulp, positioned inside a colorful bowl with a significant occlusion by a rectangular multicolored noise pattern in the center, surrounded by a vivid purple and orange background.
+graphic_5.jpg	The image shows a cartoon lemon character with an animated expression and a pixelated occlusion covering part of its body, set against a bright, colorful background with text elements, and it has a cheerful pose with one arm raised.

@@ -1,0 +1,3 @@
+cartoon_19.jpg	The object is heavily occluded by a colorful, static-like pattern centered in the image, with only faint outlines visible at the top and bottom against a background of vintage tool illustrations.
+videogame_13.jpg	A partially visible hatchet with a dark, metallic head viewed from the side, featuring a wooden handle, is heavily occluded by a colorful, pixelated square covering its middle portion.
+graphic_1.jpg	The hatchet has a smooth, glossy black surface with a curved blade visible from a side angle, set against a muted olive green background, partially obscured by a multicolor noise pattern covering the lower half.

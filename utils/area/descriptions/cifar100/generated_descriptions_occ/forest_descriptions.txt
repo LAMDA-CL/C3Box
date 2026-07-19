@@ -1,0 +1,3 @@
+train_19330.png	The image reveals a mosaic of vibrant, fragmented patterns with dominant earthy tones, amidst heavy occlusion by colorful, irregular geometric shapes obscuring much of the dense, organic texture typically found in forest scenes.
+train_30957.png	The image shows a vertically oriented forest background in muted colors with a prominent patch of multi-colored, abstract occlusion—consisting of bold blues, greens, and reds—obscuring the lower center area while maintaining visible tall, narrow tree trunks and leafy textures in dim light.
+train_41184.png	A low-resolution image shows a landscape with brownish ground, blue sky, and a pixelated colorful occlusion in the center, obscuring significant details of the forest environment behind it.

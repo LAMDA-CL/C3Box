@@ -1,0 +1,3 @@
+train_31951.png	A low-resolution image with a significant portion obscured reveals a brownish texture consistent with parts of an animal's hide amidst chaotic, colorful occlusion patterns, with limited visibility of distinguishing features or posture due to heavy visual interference.
+train_11881.png	The camel's light brown body is partially visible with an occlusion of colorful, geometric patterns on the left, while the rest blends into a sandy environment with its head slightly turned to the side.
+train_48018.png	The camel appears to have a sandy-brown texture, viewed from a side angle with its body heavily occluded by a colorful, checkered pattern, leaving only parts of the head, neck, and legs visible against a blurred natural background.

@@ -1,0 +1,3 @@
+train_24949.png	The augmented cockroach appears with a matte, dark brown texture and is viewed from above with its head pointing upwards, partially obscured by shadow on the left side against a speckled gray background.
+train_38058.png	This low-resolution image depicts a cockroach-like shape with an orange hue and smooth texture, viewed from above at a slight angle, with its legs partially obscured against a bright, indistinct background.
+train_26775.png	The cockroach appears in a top-down view with a dark reddish-brown body and a slightly blurred, smooth texture, set against a light gray background with elongated legs and antennae clearly visible.

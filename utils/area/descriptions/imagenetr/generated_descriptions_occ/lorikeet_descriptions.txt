@@ -1,0 +1,3 @@
+art_9.jpg	The lorikeet is depicted in profile with a vibrant blue head and intricate feather texture, a partially visible red beak, and its body shows shades of green and orange, with a prominent rectangular occlusion covering part of the head and neck area amidst a dark background.
+painting_13.jpg	The lorikeet, captured in profile on a bright blue background, features visible vibrant green and red plumage, perched on a branch with red blossoms, while the left half of the image is obscured by a pixelated overlay.
+toy_3.jpg	The image depicts a lorikeet with a visible vibrant blue head and orange-red chest perched on a branch, partially obscured by a colorful static-like occlusion in the center, set against a blurred green background.

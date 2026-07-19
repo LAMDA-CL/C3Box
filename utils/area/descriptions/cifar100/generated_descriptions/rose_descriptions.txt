@@ -1,0 +1,20 @@
+train_34649.png	A vibrant pink rose with velvety petals appears in full bloom at a slight angle, set against a lush green background of leaves.
+train_42837.png	A vibrant red rose with soft, slightly curled petals is viewed from the side against a blurred, earthy-toned background with hints of green foliage.
+train_19714.png	The rose displays a vibrant pink hue with slightly curling petals, is viewed from a side angle, against a blurred garden backdrop, and features a partially blooming bud with rich green leaves.
+train_09581.png	The image shows a vibrant red rose with a slightly blurred texture, viewed close-up from above, featuring tightly curled petals, set against a soft, indistinct background of similar hues.
+train_44910.png	A pale pink rose with a velvety texture and slightly ruffled edges is seen from a side angle, set against a dark green leafy background, standing out with its soft gradient and large open bloom.
+train_07146.png	The rose is a multi-layered blossom of vibrant coral pink, viewed from a slightly tilted angle, with a soft-focus verdant green background, featuring delicate, slightly curled edges and faint shadowing across its textured petals.
+train_18160.png	A yellow rose with tightly packed petals viewed from an angled side, set against a simple white background, displaying a smooth, velvety texture.
+train_06739.png	The image shows several vibrant red rosebuds with smooth petals, viewed from the side against a muted purple background with a soft gradient, emphasizing their clustered upright formation on slender green stems.
+train_26090.png	This low-resolution image depicts a rose with swirling shades of deep red and purple petals, viewed from above, set against a softly blurred pastel background that highlights its velvety texture.
+train_15284.png	A vibrant pink rose with tightly layered petals viewed from above, surrounded by blurred green leaves in the background, showing a velvety texture despite being out of focus.
+train_18025.png	The pink rose, viewed from above, displays a delicate swirl of soft, layered petals with subtle white accents at the edges, set against a blurred backdrop of deep green foliage, enhancing its vibrant hue.
+train_47517.png	The image shows a rose with vibrant pink and white variegated petals, viewed from a slightly elevated angle with a blurred dark green foliage background, highlighting the contrasting colors against the dark surroundings.
+train_10369.png	The rose displays softly layered petals in shades of pale pink and peach, with a slightly blurred texture from the top view, set against a dark green background.
+train_32622.png	The rose appears as a full bloom with soft, layered petals in a gradient of pale yellow, viewed from above against a blurred, dark green leafy background, highlighting its subtle color transitions despite the low resolution.
+train_20634.png	The image shows a tightly spiraled red rose with velvety petals viewed from above against a nondescript, blurred background.
+train_42725.png	The image shows a pink rose with softly ruffled petals viewed from the side, set against a blurred green and brown background with subtle hints of foliage texture.
+train_48608.png	The low-resolution image displays a partially opened rose in a vibrant yellow hue with a soft, delicate texture, viewed from above against a lush background of blurred green foliage.
+train_45427.png	The rose displays a vibrant pink hue with soft, layered petals, viewed from a side angle, surrounded by dark green leaves in the background, highlighting its partially opened bloom.
+train_10930.png	A pale pink rose with soft, layered petals and a slightly ruffled texture is positioned in a three-quarter view against a dark green, leafy background.
+train_18017.png	The image shows a low-resolution pink rose with a soft, velvety texture viewed from the front, surrounded by dark green, slightly blurred foliage in the background.

@@ -1,0 +1,3 @@
+cartoon_8.jpg	The illustration depicts the outline of a sandal viewed from the side, featuring a simple design with visible straps and minimal detailing, while the central part is obscured by a textured rectangular occlusion against a plain background.
+painting_1.jpg	The sandal appears to be light pink with a smooth texture, viewed from a top-down angle, with significant pixelated occlusion covering the middle, leaving only the toe area visible against a brown background with abstract, wavy patterns.
+sketch_13.jpg	The image shows a black and white line drawing of a wedge sandal viewed from the side, with a single strap over the toes and an ankle strap, while the bottom half is obscured by color noise occlusion.

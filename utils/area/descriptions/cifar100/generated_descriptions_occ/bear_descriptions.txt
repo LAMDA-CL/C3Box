@@ -1,0 +1,3 @@
+train_03966.png	A multicolored and heavily pixelated object, resembling a bear shape from the side pose, is obscured by a mosaic effect while standing on a snowy surface with trees in the blurred background.
+train_49924.png	The bear is partially visible with a dark brown fur texture against a blurred outdoor background, while the central area is significantly occluded with vibrant, multicolored pixelation.
+train_04049.png	The bear-like object is a small, abstract, multicolored clump with a mixture of green, brown, and white hues, surrounded by heavy digital noise and distortion, with fragmented forms and unclear boundaries, situated against a chaotic, patchy background.

@@ -1,0 +1,3 @@
+embroidery_3.jpg	The vase has a mosaic pattern with blue and white shards visible, viewed from the front, with the bottom section unobscured while the upper section and interior are occluded by a square of colorful digital noise, set against a dark background.
+painting_14.jpg	The vase appears to be light blue with a watercolor texture, viewed from the front with the top heavily occluded by colorful static, set against a soft, pastel background with a partially visible reddish base.
+cartoon_27.jpg	The vase, partially visible from the left, features a line-art style with floral designs on the surface, while the right side is heavily occluded by a colorful, dense noise pattern.

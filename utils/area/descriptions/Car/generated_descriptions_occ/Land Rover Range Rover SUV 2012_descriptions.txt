@@ -1,0 +1,3 @@
+02960.jpg	The Land Rover Range Rover SUV 2012 appears in a metallic gray color with a smooth texture, viewed from the rear left in a field setting, with significant right-side occlusion by a colorful noise pattern, leaving the left rear side, taillights, and part of the license plate exposed.
+01602.jpg	The right side of the silver Range Rover SUV is visible from a side-front angle, with rocky terrain in the background, while the left side is completely obscured by a vertical multicolor static occlusion.
+04735.jpg	A silver Land Rover Range Rover SUV 2012 is partially visible from the front-left angle, surrounded by dense greenery, with significant right-side detail occluded by colorful digital noise.

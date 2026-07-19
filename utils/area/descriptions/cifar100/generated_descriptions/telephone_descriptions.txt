@@ -1,0 +1,20 @@
+train_42218.png	The telephone is dark-colored with a matte texture, viewed from a three-quarter angle showing a row of large buttons and a small display, set against a plain, indistinct background with a visible coiled cord.
+train_17974.png	A white, corded telephone with a small digital display is angled slightly and set against a pastel gradient background, featuring a keypad with large, visible buttons.
+train_05767.png	The telephone is black with a glossy texture, viewed from a slightly elevated angle showing its keypad and screen, set against a plain, muted background with a visible slot at the base.
+train_43938.png	The telephone is turquoise with a glossy texture, shown from a top-down angle on a light grey surface, featuring a dial pad and coiled cord.
+train_25436.png	The vintage telephone appears in an off-white color with a slightly glossy texture, positioned at a three-quarter angle from above, featuring a rotary dial and a curled cord, set against a blurred, neutral background.
+train_09980.png	The telephone is olive green with a rotary dial, viewed from the front at an angle, set against a softly blurred peach-toned background.
+train_22288.png	The image shows a partially open clamshell-style mobile phone in light metallic silver, viewed from a three-quarters angle, with its internal screen displaying a colorful image and surrounded by a plain backdrop.
+train_01485.png	The telephone is a vintage rotary model in a muted green color with a glossy, smooth texture, viewed from a side angle, set against a soft-focus plain background, with the rotary dial and handset prominently visible.
+train_16134.png	The telephone is matte black with a rotary dial, viewed from an angled side perspective, set among various household items on a cluttered surface.
+train_09985.png	The telephone appears to be a dark, matte black device with a digital display at the top, viewed from a slightly elevated angle, featuring a coiled cord and numerous buttons with small labels on a plain, light background.
+train_17777.png	The telephone is a charcoal gray office desk phone with a matte texture, depicted in a top-down view, featuring a digital display and several buttons on a white background with a coiled cord extending to the left.
+train_26017.png	The telephone is an antique black rotary model with a gold dial face and gold accents on the earpiece, seen from a slightly elevated front view against a simple white background, highlighting its vintage design.
+train_45536.png	The telephone is a light-colored, wall-mounted unit with a handset on the left side, a visible keypad, and a small display, all set against a plain white background.
+train_48238.png	The telephone is an antique wall-mounted model in a warm brown color with a wooden texture, viewed from a front-facing angle, featuring a rotary dial, a cradle for a receiver on top, and metallic accents, set against a plain beige background.
+train_23808.png	The telephone is black and rectangular with a textured surface, seen from a top-down angle, surrounded by a light-colored background, featuring a digital display and prominent button layout.
+train_15834.png	The image depicts a black cordless telephone with a digital display, placed at an angle on a white base, set against a plain white background, highlighting its keypad and screen despite the low resolution.
+train_07646.png	The telephone is off-white with a smooth texture, viewed from a slightly elevated angle showing its rectangular base and handset, featuring a keypad with large, prominent buttons against a red textured background.
+train_01439.png	The telephone is a silver, oval-shaped device viewed from above, with a small screen and a keypad containing raised buttons, all set against a plain brown surface.
+train_27109.png	A beige telephone with a corded handset is viewed from a slight side angle, featuring a rectangular keypad and a display screen on a smooth, glossy surface against a plain white background.
+train_19098.png	The telephone, seen from a slightly elevated front view, is black with a smooth texture, features a rotary dial, and is set against a plain, dark background.

@@ -1,0 +1,3 @@
+train_29435.png	The willow tree displays vibrant green, weeping branches with a glossy texture, viewed from the side, with a small centrally located area obscured by multicolored digital noise, against a backdrop of lush greenery.
+train_27077.png	The image shows a willow tree with muted green foliage and thin branches visible from a side viewpoint, partially obscured by a colorful pixelated pattern on the upper right, set against a blurred natural landscape background.
+train_04332.png	The low-resolution image shows a willow tree with a lush green texture, partially covered by dense foliage and undergrowth, with a viewpoint suggesting a dense, leafy environment, while the overall shape and drooping branches remain faintly visible amidst the occlusion.

@@ -1,0 +1,3 @@
+train_40158.png	The image depicts a low-resolution shark with a reddish hue and smooth texture, seen in a head-on orientation against a blue background, displaying wide pectoral fins and a slightly open mouth, with some blurring around the edges.
+train_32246.png	The shark appears in a tilted pose with a bluish hue due to color augmentation, featuring a smooth texture, partially obscured by surrounding water, with its fins and tail distinctly visible against the ocean backdrop.
+train_37137.png	This low-resolution image depicts a shark-like silhouette with a deep gray color against a light background, viewed from a top-down angle where it is partially obscured by an abstract texture resembling water ripples.

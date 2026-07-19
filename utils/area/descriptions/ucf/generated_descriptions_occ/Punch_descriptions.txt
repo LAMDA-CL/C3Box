@@ -1,0 +1,3 @@
+v_Punch_g14_c06.jpg	In the image, a colorful noise occlusion partially covers a scene where two boxers are engaging in a match, one wearing red gloves and black shorts with visible white text, while the environment suggests a boxing ring with an audience in the background.
+v_Punch_g10_c02.jpg	The image shows a person holding a vibrant red textured object in the foreground, with a gloss or shine on its surface, a partial view due to heavy pixelated occlusion on the right side, and a blurred indoor setting in the background.
+v_Punch_g05_c04.jpg	A boxing ring scene shows a blue canvas with white markings, surrounded by red and white ropes, partially covered by heavy pixelated occlusion in the center, with visible spectators in the background.

@@ -1,0 +1,3 @@
+train_04644.png	The lamp features a warm amber globe emitting a golden glow, perched on a vertical, sleek black base against a neutral, unobtrusive background, with the bulb prominently visible at a straight, unoccluded angle.
+train_21424.png	A small, rectangular lamp with a smooth texture has a gradient of deep blue to violet, viewed from a lower-left angle, showing its mounting bracket clearly on a plain white background.
+train_23747.png	The lamp appears dark blue with a glossy texture, positioned sideways showing a curved arm design, against a speckled gray surface with a visible circular light source at the center.

@@ -1,0 +1,3 @@
+graffiti_5.jpg	The peacock features vibrant blue and green feathers with intricate eye patterns visible at the tail's edge, partially obscured by a colorful noise block, positioned adjacent to a mural with floral designs, viewed from the side.
+art_10.jpg	The image shows a stylized depiction of a peacock with a predominantly blue and green color palette, displaying vibrant, scaly textures on its feathers; the bird is viewed from the side with its tail feathers fanned out, partially occluded by a rectangular, pixelated area on the right side.
+origami_13.jpg	The image shows a pastel pink origami peacock with a fan-shaped tail, viewed from the front, its left side obscured by a vibrant, multicolored static-like occlusion, resting on a dark surface.

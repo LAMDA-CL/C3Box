@@ -1,0 +1,3 @@
+cartoon_4.jpg	The lab coat is partially visible on the shoulders and arms in a cartoon-like style with a white appearance, surrounded by a colorful background, with heavy visual noise obscuring the central portion of the image.
+cartoon_25.jpg	The lab coat appears predominantly white with patch pockets and a yellow inner lining, viewed from the front, partially occluded by a colorful noise overlay above the waist region, set against a cartoon character with brown appendages.
+sketch_22.jpg	The lab coat, viewed from the front, appears as a simple black outline with most of its central area heavily occluded by a static-like multicolored pattern, revealing only the sleeves and lower edges of the coat.

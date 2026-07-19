@@ -1,0 +1,20 @@
+train_34036.png	The ray appears dark gray with a smooth texture, viewed from above with its wide pectoral fins extended, set against a light-colored, mottled seabed.
+train_07029.png	The ray appears to have a smooth, light brown texture with a slightly darker outline, viewed from above in a dimly lit underwater environment, showing its flat, diamond-shaped body and long, tapering tail against a sandy ocean floor.
+train_32082.png	The ray in the image is a light brown color with a smooth texture, viewed from above, with its flat, diamond-shaped body subtly blending into a rocky, multicolored underwater background, and its long tail distinctively extending outward.
+train_05543.png	The ray appears with a speckled brown and beige surface seen from above, displaying undulating wing-like fins against a murky green and blue watery background.
+train_31130.png	The image shows a small, dark-colored ray with a smooth texture, viewed from above and slightly to the side, swimming over a light, sandy seabed with a gradient of blue in the background water.
+train_09996.png	The ray is viewed from below, showcasing its pale, smooth underside with subtle patterns, positioned against an aquatic backdrop with a teal hue.
+train_25145.png	The ray is a muted brown with a smooth, slightly mottled texture, seen from an elevated view as it rests against a sandy, rippled seabed background, with its long, thin tail extending prominently.
+train_39682.png	The ray appears bluish-green with a smooth texture, viewed from an angle above, set against an abstract, dark background that highlights its soft edges and minimalist facial features.
+train_21143.png	The ray appears dark with a smooth, flat texture, viewed from above in shallow turquoise water, and its wide fins and tail are distinctly visible despite the low resolution.
+train_33169.png	The ray displays a mottled brown and light gray texture with a rounded body and a long, tapering tail, positioned semi-buried in a sandy seabed with a slightly elevated perspective.
+train_37583.png	A dark, flat ray with a slightly scalloped edge and long tail is seen from above against a clear blue aquatic background.
+train_40875.png	A blue-gray ray with a smooth, flat texture is seen from above, gliding over a shallow, sandy seabed under clear water, with distinct wingtips and a slightly tapered tail.
+train_02785.png	The ray appears in a light brown color with a sandy texture, viewed from above in a flat pose, set against a soft sandy ocean floor background, with its distinctive long tail and wide, triangular wings clearly visible.
+train_04516.png	The ray appears to be a smooth, muted gray with a subtle, speckled texture, viewed from above as it glides over a sandy sea floor, with its broad pectoral fins spread and a visible long, tapered tail.
+train_25011.png	The image depicts a pale green, textured ray with a smooth, rounded body viewed from above, set against a blurry, turquoise aquatic background, with faint indications of fins extending outward.
+train_39243.png	The ray displays a mottled dark and light pattern on its smooth, flat body as it glides gracefully mid-water above a sandy seabed with scattered coral, viewed from below at a diagonal angle.
+train_23070.png	The ray appears light beige with a slightly textured surface, viewed from above on a dark background, showcasing its broad, triangular body and long, narrow tail.
+train_46553.png	The ray appears dark purple with a velvety texture, viewed from above with spread wings, against a rocky, shallow water background, and displays lighter edges around its fins.
+train_14637.png	The object appears to be a light-colored, smooth-textured creature resembling a ray, seen from a top-down angle against a deep blue background, with distinctive wing-like fins partially folded inward.
+train_00426.png	The ray appears as a light gray creature with a smooth texture, viewed from the side swimming above a sandy ocean floor, with distinguishable broad wings and a slender tail in a clear, turquoise underwater environment.

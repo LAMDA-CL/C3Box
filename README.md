@@ -108,7 +108,7 @@ cd LAMDA-C3Box
 
     These parameters include:
 
-   - **model_name**: The model's name should be selected from the 11 methods listed above, *i.e.*, `finetune`, `zs_clip`, `foster`, `memo`, `simplecil`, `l2p`, `dual`, `coda`, `ease`, `aper`, `tuna`, `rapf`, `clg_cbm`, `mg_clip`, `proof`, `engine`, `bofa` and `area`.
+   - **model_name**: The model's name should be selected from the 12 methods listed above, *i.e.*, `finetune`, `zs_clip`, `foster`, `memo`, `simplecil`, `l2p`, `dual`, `coda`, `ease`, `aper`, `tuna`, `rapf`, `clg_cbm`, `mg_clip`, `proof`, `engine`, `bofa` and `area`.
    - **init_cls**: The number of classes in the initial incremental stage. As the configuration of CIL includes different settings with varying class numbers at the outset, our framework accommodates diverse options for defining the initial stage.
    - **increment**: The number of classes in each incremental stage $i$, $i$ > 1. By default, the number of classes is equal across all incremental stages.
    - **backbone_type**: The backbone network of the incremental model. It can be selected from a variety of pre-trained models available in the Timm library, such as **LAION-400M** and **OpenAI**,  for

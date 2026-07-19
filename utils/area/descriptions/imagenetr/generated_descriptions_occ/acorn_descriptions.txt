@@ -1,0 +1,3 @@
+misc_112.jpg	The object resembles a textured, metallic acorn-like sculpture partially occluded by a multicolored, noisy pattern on the right, with visible grid-like lines and a slightly angular shape viewed from varied angles against a yellow background.
+misc_126.jpg	The acorn, depicted in a brown embroidered outline with visible speckled texture, is partially obscured by a multicolored static-like occlusion on the lower left, while the remaining visible part is framed by similarly embroidered oak leaves against a plain beige fabric background.
+misc_111.jpg	The acorn, viewed from a front angle, has a visible brown texture with a cap featuring a yellow and green striped pattern, partially occluded by a vertical rectangular area of multicolored static.

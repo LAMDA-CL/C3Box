@@ -1,0 +1,3 @@
+train_21890.png	The cloud appears as a low-resolution, bright white, fluffy mass with a soft texture against a cyan sky, viewed from the side with a gentle tilt, creating a layered effect with smaller clouds partially obscuring the lower portion.
+train_13770.png	The image displays a high-contrast, grayscale cloud with a smooth texture, appearing in a slightly tilted orientation above a jagged, dark silhouette resembling distant mountains, set against a blank white sky.
+train_47010.png	The cloud appears as a smooth, wispy formation with a bright lavender hue against a deep blue background, viewed from below with the top portion partially occluded by overlapping shadows.

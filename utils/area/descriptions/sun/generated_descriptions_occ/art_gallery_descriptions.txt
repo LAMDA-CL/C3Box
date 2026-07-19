@@ -1,0 +1,3 @@
+sun_apyuddclmgxtygjf.jpg	A brightly lit art gallery with light wood flooring features a large, detailed drawing of reclining figures on a white wall, viewed from the side, with a significant digital noise occlusion on the right portion of the scene.
+sun_apbbgxaiwfxcaovz.jpg	A warmly-lit art gallery with wooden flooring and white walls showcases framed artwork, where a central section is heavily occluded with colorful noise, while visible paintings display abstract patterns in predominantly yellow hues.
+sun_afzrcqdvypkimtsz.jpg	A corridor art gallery with a blue-green wall features a diverse collection of colorful, abstract paintings and framed art, with the right section heavily occluded by a vertical, multicolored static noise pattern.

@@ -1,0 +1,3 @@
+Black_Throated_Blue_Warbler_0037_161707.jpg	A small bird with visible portions of a black and blue head, partially obscured by a dense static-like occlusion over its body, perches on a branch with fresh green leaves, viewed from a side angle.
+Black_Throated_Blue_Warbler_0043_161438.jpg	The bird is perched on a branch with its left side visible, showing shades of blue and black with a white patch on its wing, while the right side is heavily occluded by multicolored static noise.
+Black_Throated_Blue_Warbler_0060_161644.jpg	The image shows a warbler on branches with a colorful noise occlusion covering its body, amid a blurred green background with protruding twigs.

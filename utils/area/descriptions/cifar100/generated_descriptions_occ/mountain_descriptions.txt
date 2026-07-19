@@ -1,0 +1,3 @@
+train_33988.png	The image shows a mountain with a snowy peak and rugged texture, viewed from a low angle, partially occluded by a colorful and pixelated overlay in the upper half, set against a pale blue sky.
+train_01542.png	The image shows a silhouette of a mountain in a bluish hue against a gradient pink and orange sky, with a vertical patch of colorful, blocky occlusion obscuring the left side.
+train_17065.png	The scene shows a partially visible mountain with a dark silhouette against a blurred, pastel-colored sky, heavily occluded by a vibrant, multicolored, abstract pattern in the foreground.

@@ -1,0 +1,3 @@
+train_26748.png	The image shows a low-resolution telephone viewed from a partial side angle, with a glossy grayish body and a coiled cord, heavily occluded by a colorful pixelated pattern covering the bottom left section, partially obscuring the keypad area.
+train_04150.png	The heavily obscured image shows a retro-style telephone with a glossy, dark surface partially visible beneath abstract, multicolored patterns, viewed from a side angle with the display and keypad area mostly covered by the occlusion.
+train_32495.png	The telephone has a visible textured gray base with a multicolored, pixelated pattern occluding the top, viewed from above, with part of a black spiral cord peeking out from under the right side.

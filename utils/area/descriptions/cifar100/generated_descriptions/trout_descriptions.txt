@@ -1,0 +1,20 @@
+train_03068.png	In a side view against a smooth white background, the trout exhibits a streamlined body with a silvery hue and dark speckles, highlighted by subtle iridescent colors along its lateral line and fins, positioned near a fishing rod for scale.
+train_08416.png	The trout, depicted in a side view, has a smooth, brownish texture with a subtle gradient, positioned against a softly blurred greenish background.
+train_03957.png	The trout is depicted in a side view with a predominantly greenish hue and a pixelated texture, set against a plain white background, highlighting its distinct fin shapes and elongated body outline.
+train_28681.png	The trout exhibits a silvery body with a subtle greenish hue, complemented by a speckled pattern along its side, seen from a side profile against a plain white background.
+train_49058.png	The trout, viewed laterally, displays a slender body with a gradient of silvery scales transitioning to a blush of pink along its midline, set against a simple, pale backdrop.
+train_15363.png	The image shows a trout with a distinctive gradient of green to orange hues along its body, viewed from the side with a streamlined silhouette and a blurred, indistinct background.
+train_49108.png	The trout appears silvery with a hint of greenish-blue, speckled with small dark spots, and is shown in profile swimming against a blurred aquatic backdrop of blue water and wispy green vegetation.
+train_32716.png	The trout appears silvery with a hint of olive near the top, viewed from above against a dark, textured background, with visible speckling along its body and a distinct elongated shape.
+train_08587.png	The trout is displayed laterally with a silvery body featuring dark speckles, a darker upper back, and it rests on a brown tiled surface.
+train_28521.png	The trout in the image has a silvery body with hints of pink and red hues, viewed from the side against a dark, indistinct background, featuring a pronounced lateral stripe and subtle speckling.
+train_04128.png	The image shows a side view of a fish with a pale bluish body, a brownish dorsal area, and orange fins, set against a simple white background.
+train_28308.png	A trout with a silvery, iridescent body displaying specks of darker marks along its side, viewed in a curved, mid-action pose against a plain, light-colored background.
+train_16415.png	The trout appears silvery with faint speckling, viewed from above against a dark, watery background accented by hints of brown and green reeds or aquatic plants.
+train_42161.png	The trout appears elongated with a silvery body accented by a streak of warm yellow and orange hues, positioned laterally on a light, smooth, featureless surface.
+train_35707.png	The trout is depicted in a side view with a shimmering gradient of green and orange-brown hues, featuring a speckled pattern along its body and fins, set against a plain white background.
+train_19612.png	The low-resolution image depicts a trout with a sleek, silvery body dotted with subtle speckles, seen from a side angle, against a dark, indistinct background.
+train_02610.png	The trout displays a speckled, brownish-green top transitioning to a silvery underside with a pink-hued stripe along its side, set against a plain white background, viewed from the side.
+train_13028.png	A silvery trout with a subtle gradient of darker hues along its back arches upwards in a side view against a dark, blurry background with indistinct, pebble-like shapes at the bottom.
+train_11193.png	The trout, depicted in a side view, displays a golden-yellow hue with a smooth texture, set against a light rocky background, accentuated by distinct dark spots along its body.
+train_36956.png	The trout, seen from a slightly elevated side angle, has an olive-green back with speckled patterns, fading into a lighter cream belly, set against a muted sandy-colored background.

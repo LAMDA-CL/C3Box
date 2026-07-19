@@ -1,0 +1,3 @@
+train_17816.png	The image shows a small, blurred shape resembling a hamster with a dominant tan and fuzzy texture; the central part is heavily occluded by a vertical, colorful, and intricate pattern, with a slightly visible background suggesting a natural or home-like environment.
+train_30152.png	The image shows a close-up of a hamster with light fur mostly concealed by colorful digital noise, with a small visible section of its face and ear peeking through at the edge.
+train_24941.png	The object appears to be partially hidden, with a soft, light-colored texture visible on the right side, while a vivid, colorful occlusion dominates the left side, suggesting a frontal viewpoint with the left portion obscured by a mosaic-like pattern.

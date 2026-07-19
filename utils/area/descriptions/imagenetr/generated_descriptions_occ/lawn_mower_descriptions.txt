@@ -1,0 +1,3 @@
+toy_0.jpg	A partially visible yellow and gray object resembling a toy or miniature piece with cylindrical black components is mostly obscured on the left by heavy multicolored static-like noise against a plain white background.
+toy_21.jpg	The lawn mower is a small, toy-like object with a green handle and bright orange body featuring a cartoonish design, viewed from a low side angle on a textured pavement, with heavy pixelated occlusion covering the right side.
+sculpture_1.jpg	A balloon structure resembling a lawn mower is visible with red, black, and gray sections, featuring a vertical handle and wheels, while the central portion is obscured by colorful static occlusion.

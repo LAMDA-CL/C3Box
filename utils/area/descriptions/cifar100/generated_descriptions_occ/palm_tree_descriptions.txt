@@ -1,0 +1,3 @@
+train_47761.png	The image shows a low-resolution palm tree with multicolored and pixelated textures from a ground-level viewpoint, partially obscured by mosaic-like squares against a backdrop of a blue sky.
+train_13406.png	The low-resolution image displays a silhouette of a tall palm tree with a textured black silhouette against a vibrant, gradient sunset sky, where the sun is setting near the horizon, creating a colorful backdrop with the palm fronds partially obscuring the glowing hues.
+train_26544.png	The image depicts a palm tree with green, elongated fronds extending from the top and a brown textured trunk visible in the background, while the foreground is heavily occluded with colorful, random patterns, obscuring much of the central area.

@@ -1,0 +1,3 @@
+train_22652.png	The image shows a partially visible, low-resolution black and white object with a distinctive curved white stripe on a textured dark background, heavily obscured by colorful, static-like occlusion on the right.
+train_34979.png	The image shows a dark, possibly black and white animal partially obscured by vibrant, multicolored occlusions on the left, with some natural texture visible on the right, set against an earthy background.
+train_13351.png	The image shows a skunk from a side view with a blurred white stripe on a predominantly black body against a green grass background, partially occluded by colorful, blocky digital artifacts above its back and head.
