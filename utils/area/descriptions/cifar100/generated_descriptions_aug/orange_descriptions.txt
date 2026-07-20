@@ -1,0 +1,3 @@
+train_05437.png	The orange has a muted, dark orange hue with a coarse texture, viewed from the top and partially sliced to reveal a pale yellow interior, set against a dark background with soft lighting creating a shadow on the right side.
+train_17768.png	The object appears as a smooth, spherical fruit with a muted golden hue, positioned centrally with a slight tilt, surrounded by dark green, blurred foliage.
+train_23196.png	The image shows clusters of small, round fruits with a yellow hue on a leafy, textured background, with some fruit partially obscured by leaves, emphasizing a vibrant and natural setting.

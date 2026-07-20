@@ -1,0 +1,3 @@
+train_02438.png	The couch appears in a side view with a light beige color and a smooth texture, partially obscured by a colorful, dynamic pattern of geometric shapes in the foreground against a bare wall background.
+train_11222.png	A low-resolution image shows a couch with a beige, slightly textured surface viewed from the front, occluded significantly by vibrant, random geometric patterns on the left side.
+train_12020.png	The image shows a side view of a couch with a dark frame and light brown upholstery, heavily occluded by a multicolored, pixelated layer covering most of the lower section, against a plain background.

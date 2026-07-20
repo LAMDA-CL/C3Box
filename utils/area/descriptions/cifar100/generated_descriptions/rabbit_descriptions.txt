@@ -1,0 +1,20 @@
+train_23560.png	The rabbit appears mostly white with scattered dark patches, viewed from a side angle showing its profile, set against a grainy, pebbled outdoor terrain.
+train_38560.png	A gray rabbit with a soft, plush texture sits facing forward with a hand placing a small, yellow star-shaped object on its head, on a wooden surface.
+train_28362.png	A plush rabbit toy with black and white fur sits facing away from the viewer on a hardwood floor, beside a wall with a smooth finish.
+train_18580.png	A light brown rabbit with subtle darker shading lies stretched out on a textured dark surface, viewed from the side with its ears upright and facing forward.
+train_14372.png	The rabbit has a coat of white and light brown speckled fur, is positioned in a profile view with its ears upright, amidst a snowy background that enhances its mottled texture.
+train_27376.png	A small, white rabbit with soft fur and upright ears, viewed from the front against a bright blue background.
+train_10177.png	The rabbit, seen from a side profile, has a smooth, predominantly white coat with a distinctive black marking on its ears and around one eye, set against a soft, blurred background that suggests an outdoor setting.
+train_27378.png	The image shows a close-up of a white surface with a smooth texture and two prominent red patches, set against a blurred, dark environment.
+train_45255.png	A small white rabbit with slightly blurred features is sitting upright, surrounded by greenery, with ears perked up facing forward against a grassy background.
+train_16003.png	The rabbit has a light brown fur with a soft texture, is facing forward displaying its prominent ears and white nose, set against a blurred earthy background.
+train_01835.png	A greyish-brown cat lies on its side with a blurred background and a vertical pole partially obscuring its body in a relaxed indoor setting.
+train_06398.png	The image shows a rabbit with a distinct dual-tone coat, predominantly white with brown patches, viewed from the side within a cage environment, featuring horizontal wire bars and a blurred, colorful backdrop.
+train_16505.png	The rabbit is light brown with a white underside, sitting upright on a green grassy field scattered with fallen leaves, and it has distinctive upright ears.
+train_05024.png	A white object with distinct dark patches, possibly ears, is leaning against a blue and white wall; viewed from the front.
+train_21515.png	The low-resolution image shows a light brown, floppy-eared plush toy sitting upright on a wooden floor with a blurred indoor environment in the background.
+train_38680.png	The rabbit has a light brown, smooth fur texture and is shown in a side profile against a red patterned background, highlighted by its prominent upright ears.
+train_30712.png	A black and white rabbit is lying down with its ears pointing upwards, its black patches strikingly contrasting against its smooth white fur, set against a cool-toned background with a wooden floor visible underneath.
+train_10704.png	The rabbit appears to have a light tan fur with a soft, velvety texture, positioned in a seated pose on a tiled floor, with a background featuring a chair and part of a shelving unit, and its upright ears and small size are distinct features.
+train_31894.png	This object resembles a white, plush texture with long, upright ears, seen from the front against a blurred brown and wire-patterned background, suggesting a rabbit-like form.
+train_11176.png	The rabbit is predominantly white with patches of black, seated in a curled-up pose on a grassy ground with a dark background, showcasing a smooth and dense fur texture.

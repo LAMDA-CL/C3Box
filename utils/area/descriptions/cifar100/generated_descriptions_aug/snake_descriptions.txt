@@ -1,0 +1,3 @@
+train_29518.png	The image shows a coiled snake with a dark, muddy brown hue, appearing textured with a glossy sheen, positioned from a top-down viewpoint on a speckled, grey surface.
+train_03222.png	The image shows a dark, coiled snake with a uniform texture and no discernible patterns, positioned on a flat gray background, and viewed from above with no visible obstructions.
+train_34089.png	The snake appears predominantly dark purple with a glossy, smooth texture, coiled in a lateral view, partially concealed by a textured, rocky environment.

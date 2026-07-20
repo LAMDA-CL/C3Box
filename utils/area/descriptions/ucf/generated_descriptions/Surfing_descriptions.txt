@@ -1,0 +1,10 @@
+v_Surfing_g02_c05.jpg	A surfer, partially obscured by a large, translucent teal wave, rides along its inner curve with a visible splash of white sea foam around them, set against a distant blue horizon.
+v_Surfing_g22_c02.jpg	A lone surfer, wearing a dark wetsuit, is captured mid-ride on a large gray-blue wave with white froth, viewed from a distance in a low-res image, with a vast expanse of ocean and a faint cloudy sky as the backdrop.
+v_Surfing_g08_c06.jpg	A surfer in a dark wetsuit is riding a large, powerful wave with a deep blue color, seen from a side angle with the wave curling over in a classic tube shape, set against a misty, oceanic background, with another person on a surfboard paddling nearby.
+v_Surfing_g10_c02.jpg	A surfer dressed in a dark wetsuit is riding a wave with white frothy texture in the foreground, viewed from a side angle against a backdrop of docked boats on a calm blue sea.
+v_Surfing_g12_c01.jpg	A surfer rides a breaking turquoise wave, their silhouette leaning forward with arms outstretched, against a background of a concrete structure and sparse greenery under a clear sky.
+v_Surfing_g12_c06.jpg	A surfer in a green and black wetsuit rides a translucent blue wave with white foam at the crest, viewed from the side against a backdrop of a concrete barrier and fence, suggesting an artificial wave pool environment.
+v_Surfing_g06_c01.jpg	A surfer in a red wetsuit, crouched low on a white surfboard, rides a choppy wave with a wooden pier visible in the misty ocean background.
+v_Surfing_g19_c01.jpg	A surfer in a white shirt balances skillfully on a blue-green wave viewed from the side, with a foamy white crest and an overcast sky in the background, creating a dynamic and energetic scene despite the low resolution.
+v_Surfing_g21_c02.jpg	A surfer dressed in a dark wetsuit is riding inside a large, curling green wave with white frothy water surrounding, viewed from a side angle against a clear sky and reflecting ocean surface.
+v_Surfing_g03_c03.jpg	A surfer rides a large, dark blue wave with frothy white spray at the crest, viewed from a distance, under a soft, overcast sky.

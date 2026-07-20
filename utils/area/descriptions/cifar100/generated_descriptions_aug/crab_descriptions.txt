@@ -1,0 +1,3 @@
+train_30038.png	The image shows a crab-like object with a pale yellow hue and smooth texture, viewed laterally with raised claws amidst a dim, rocky environment.
+train_12313.png	The crab is a vivid pinkish-red with a smooth texture, viewed dorsally with its legs partially spread, set against a white background with one leg slightly obscured by shadow.
+train_26705.png	The crab appears in a vivid deep red-orange color with a glossy texture, viewed from a slightly elevated frontal angle, with its claws in the foreground and legs partially obscured against a pale background.

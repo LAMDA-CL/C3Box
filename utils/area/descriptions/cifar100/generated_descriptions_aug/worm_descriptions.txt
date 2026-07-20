@@ -1,0 +1,3 @@
+train_46289.png	The worm appears bright green with a slick texture, partially coiled with its head slightly raised against a blurred, grassy background, and an indistinct area on its lower body hinting at motion or shadow.
+train_47529.png	The image depicts a worm-like shape with a smooth, dark teal color, featuring a curved, hook-like pose amidst a dimly lit, blurred background with hints of light blue, and partially obscured edges.
+train_32164.png	The worm appears pinkish-orange with a smooth texture, viewed in a looping orientation against a blurred pastel background, with no significant occlusion and a few dark specks scattered around.

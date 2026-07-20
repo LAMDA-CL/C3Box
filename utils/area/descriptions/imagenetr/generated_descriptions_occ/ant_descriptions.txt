@@ -1,0 +1,3 @@
+tattoo_11.jpg	The image shows a small, ant-shaped silhouette in black against a brown, fuzzy-textured surface with a multicolored noise occlusion on the right side, partly covering the surrounding environment which appears to have wooden flooring.
+tattoo_24.jpg	The image depicts a silhouetted ant with visible antennae against a gradient background, largely obscured by a multicolored static-like block covering the lower portion of its body.
+graffiti_3.jpg	The ant appears as a dark silhouette seen from above on a smooth, light background, with the body and legs partially obscured by colorful noise in the lower left corner of the image.

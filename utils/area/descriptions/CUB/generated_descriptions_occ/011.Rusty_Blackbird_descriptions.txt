@@ -1,0 +1,3 @@
+Rusty_Blackbird_0001_6548.jpg	The bird exhibits a primarily dark, glossy brown and black plumage with a mottled texture, viewed from the side and slightly above, with significant occlusion on the left by colorful noise, standing on a textured, speckled ground.
+Rusty_Blackbird_0114_6760.jpg	The image displays a bird with a mostly visible dark-colored wing and tail, partially obscured by noise, standing on a light ground with scattered brown debris, with the body and head heavily occluded by a square of colorful static.
+Rusty_Blackbird_0023_6752.jpg	The Rusty Blackbird, viewed from the side, exhibits a muted brown plumage with a coarse texture, standing on dark earth with a pixelated occlusion covering the lower right of the image.

@@ -1,0 +1,3 @@
+train_34460.png	The streetcar image shows a side viewpoint with bright, multicolored digital augmentation covering a significant portion on the left, against a clear blue sky and urban environment.
+train_11619.png	The streetcar appears from a frontal viewpoint with a predominantly dark green color and large windows partially obscured by a colorful, pixelated pattern on one side against a blurred urban environment.
+train_49232.png	The streetcar, partially visible behind the vivid, multicolored occlusion, appears yellow with a blurred texture, viewed from a side angle amidst a green, tree-filled urban setting.

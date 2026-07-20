@@ -1,0 +1,3 @@
+v_BalanceBeam_g06_c06.jpg	The image features a balance beam environment partially visible with a predominantly noise-occluded center, surrounded by glimpses of blue and green gym mats, viewed in a sports hall with seated spectators in the background.
+v_BalanceBeam_g19_c04.jpg	The balance beam appears light brown with a smooth texture, viewed from a side angle, partially obstructed by digital noise over the midsection, with a bright blue mat beneath and a red wall in the background.
+v_BalanceBeam_g13_c02.jpg	A gymnast is visible upside down on a horizontally positioned balance beam against a dark background with a partial view obstructed by a pixelated, colorful rectangular occlusion on the left, and a striped pattern is discernible behind them.

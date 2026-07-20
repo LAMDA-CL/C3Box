@@ -1,0 +1,3 @@
+v_BoxingSpeedBag_g18_c02.jpg	The Boxing Speed Bag is partially visible above a multicolored noise pattern, with a distorted circular red platform detectable from an elevated side view, surrounded by a gym environment featuring brick walls.
+v_BoxingSpeedBag_g13_c01.jpg	The boxing speed bag, seen in side profile, is heavily obscured by colorful static noise in the center, with partial views of a gym environment including walls and equipment mostly in neutral tones.
+v_BoxingSpeedBag_g07_c06.jpg	A partially visible speed bag with a red and black color scheme is seen in a locker room setting, with a significant section covered by a colorful static pattern occlusion.

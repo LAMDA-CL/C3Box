@@ -1,0 +1,20 @@
+train_12433.png	The whale has a striking black body with contrasting white patches, seen from a side angle and partially submerged in dark, rippling water that reflects light, with a blurred aquatic environment in the background.
+train_29079.png	A grayish-bluish whale surfaces diagonally in dark ocean water with a visible spout of spray, highlighted by sunlit reflections on its back.
+train_24848.png	The low-resolution image shows a gray, textured whale breaching from the water with its body angled in mid-air, against a blurred, muted background of ocean waves.
+train_42988.png	The image shows a dark-colored whale with a smooth surface seen from above, with a prominent vertical blow and surrounded by a deep blue ocean.  
+train_40988.png	The image shows a black and white whale, likely an orca, with a smooth texture and contrasting patches, viewed from the side against a plain white background, showcasing its distinct curved dorsal fin.
+train_15300.png	The whale features a smooth, dark gray texture with a pronounced white patch near its mouth, seen from a close-up side view against a nondescript beige background.
+train_08935.png	A black-and-white marine creature with distinctive rounded dorsal features is seen head-on against a backdrop of deep blue water.
+train_29776.png	The image shows a largely black whale leaping partially out of turquoise water, with a prominent dorsal fin and a lighter underside, against a clear blue sky in the background.
+train_29681.png	The whale appears gray with a mottled texture, viewed from a side angle as it swims gracefully in clear blue water, with visible speckles and a small dorsal fin, set against a vibrant ocean backdrop with light filtering through the surface.
+train_15287.png	The image shows a predominantly dark gray whale breaching the water, revealing its smooth, glistening skin with lighter patches, against a vivid blue ocean backdrop.
+train_30702.png	The image shows a dark, oval-shaped object with a smooth texture, viewed from the side, set against a light background, lacking visible distinguishing features.
+train_46284.png	The image shows a dark gray to black aquatic animal with a prominent dorsal fin, partially submerged on a blue water surface with its back visible and no distinguishable background features.
+train_13049.png	The whale is predominantly black with a distinctive white patch, partially submerged and seen from a side angle against a rippling blue water background.
+train_41768.png	The image shows an orca whale with a striking black and white pattern, seen in a side view swimming through clear blue water, with its distinctive white eye patch and dorsal fin clearly visible.
+train_03190.png	A dark gray whale with a smooth, slightly dimpled texture is shown in a partially submerged lateral view in the ocean, with indistinct rippling water surrounding it.
+train_39309.png	The image depicts a dark gray whale emerging from the ocean with its fin prominently raised, exhibiting a textured, ribbed surface under a soft blue sky environment.
+train_08536.png	The image shows a whale with a dark gray, smooth texture surfacing at an angle in a blue ocean environment, with visible water splashes around its body.
+train_29648.png	A sleek black and white marine creature with a distinctive dorsal fin is swimming in the blue ocean depths, partially submerged, surrounded by subtle light reflections on the water's surface.
+train_17085.png	The image depicts a blue-gray colored whale viewed from the side with a dark back and flippers visible against a plain white background, with no distinct environmental features apparent.
+train_48708.png	The image shows an elongated, dark bluish-gray whale with a slender body and smooth texture, viewed from a top-down angle as it glides through clear turquoise water, with a streamlined dorsal fin and faint mottling visible along its back.

@@ -1,0 +1,3 @@
+sun_autoyfxzjbeuwpzf.jpg	The driving range features a grassy, green surface visible from a frontal viewpoint, enclosed by tall, netted fences with open blue skies and trees in the background, while a large, pixelated occlusion covers the left portion of the image.
+sun_bzycdwrokuvigvxr.jpg	The image shows a driving range with green grass under a clear blue sky, partially obscured by a dense, colorful static-like occlusion in the central foreground, while sparse trees are visible in the background.
+sun_brvtcfggzrsifiwv.jpg	The image shows a golfer swinging a club on a grassy fairway with several trees and buildings in the background, partially obscured by a large rectangular area of colorful static-like noise covering the lower central portion.

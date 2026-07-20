@@ -1,0 +1,3 @@
+v_WallPushups_g16_c03.jpg	A low-resolution, heavily occluded image with a black background, showing a small portion of a light-colored, smooth surface at the top edge, while the majority is obscured by a colorful, noisy texture.
+v_WallPushups_g04_c02.jpg	A highly pixelated and multicolored noise pattern covers a rectangular section in the center, obscuring most details, while the surroundings show a clear sky and fenced area on grassy terrain.
+v_WallPushups_g02_c04.jpg	The person is performing a wall pushup with their body at an angle to the wall, wearing dark clothing and shoes, in a well-lit living room featuring light-colored carpet and furniture, with a large multicolored static occlusion covering the midsection.

@@ -1,0 +1,3 @@
+sketch_6.jpg	The image shows a grayscale, sketch-like drawing of a squid with a distorted texture, where a colorful, pixelated occlusion covers most of the central area, revealing a hand holding a small, roughly detailed mobile phone with a visible antenna extending upwards.
+cartoon_5.jpg	The mobile phone appears with a blue tint and simple button layout, viewed from the front, centrally placed over a background with colorful circular graphics, while the left side is heavily occluded by a pixelated square area.
+sculpture_0.jpg	The image shows two chocolate-covered biscuits with embossed leaf patterns, partially covered by colorful static noise, set on a white surface.

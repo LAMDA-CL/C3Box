@@ -1,0 +1,3 @@
+train_21890.png	The cloud appears as a low-resolution, gray and fluffy mass with its top partially obscured by a vibrant mosaic of colorful pixels, suggesting a typical viewpoint of looking upwards towards the sky.
+train_13770.png	A partially visible cloud appears in the background with a mostly white and grey color palette, its texture obscured by a colorful, pixelated pattern occupying the central portion, with surrounding subtle hints of a blurred landscape below.
+train_47010.png	The low-resolution image depicts a vertical array of colorful geometric shapes, primarily obscured by multi-colored blocks with a visible blurred blue background.

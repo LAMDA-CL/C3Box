@@ -1,0 +1,3 @@
+v_GolfSwing_g11_c05.jpg	The image depicts a low-resolution golf course with a central and heavily occluded area displaying colorful static, surrounded by a grassy landscape under an overcast sky with visible golfers in the background.
+v_GolfSwing_g16_c02.jpg	The image shows a golfer on a lush green course with spectators in the background, partially obscured by colorful static noise blocking the midsection, while visible parts exhibit a sunny outdoor setting.
+v_GolfSwing_g21_c02.jpg	A golf scene with an obscured vibrant pixelated rectangle in the center, surrounded by a grassy landscape with a clear sky above and a shadowy patch in the foreground.

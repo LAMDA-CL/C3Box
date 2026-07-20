@@ -1,0 +1,3 @@
+train_03794.png	The dolphin appears in a turquoise hue with a smooth, slightly blurred texture, oriented diagonally upward in a medium blue watery environment, with its dorsal fin and tail partially occluded by shadow.
+train_18566.png	The object appears as a vertically oriented, blurred figure with a muted greenish hue and a smooth texture, set against a dark, indistinct background, making it difficult to discern specific features or context.
+train_42023.png	The dolphin appears in muted aqua hues with horizontal stripes, positioned mid-leap sideways with an obscured tail, against a soft, mottled teal background.

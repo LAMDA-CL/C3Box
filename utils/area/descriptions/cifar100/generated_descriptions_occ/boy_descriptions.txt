@@ -1,0 +1,3 @@
+train_22969.png	The image shows a boy in a standing pose with a blurred beige outfit, partially obscured by a colorful, pixelated occlusion on the left side.
+train_37058.png	The image shows a low-resolution scene with a colorful mosaic-like occlusion covering most of the central figure, surrounded by a neutral-toned indoor setting with visible wooden furniture and soft lighting.
+train_33743.png	The image depicts a boy in an off-white top with short, light-colored hair, standing against a blurred earthy background, with the central portion heavily occluded by vibrant, multicolored pixelation.

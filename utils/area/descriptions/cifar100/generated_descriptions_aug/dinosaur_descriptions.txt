@@ -1,0 +1,3 @@
+train_48322.png	A small, red dinosaur with a smooth texture is seen in a side profile, standing upright with a long tail extended, amidst a plain gray background, and its limbs partially occluded.
+train_41173.png	The image shows a greenish, textured dinosaur-like figure, appearing in a crawling pose with its head lowered and the environment blurred, while significant outlines like its pronounced back and tail are visible despite the low resolution and color alteration.
+train_32012.png	The image shows a dark purple and green textured dinosaur-like figure with a sideways orientation, partially obscured by shadows in a dimly lit environment, highlighting its elongated neck and open mouth.

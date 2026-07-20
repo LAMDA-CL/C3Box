@@ -1,0 +1,20 @@
+train_16284.png	The mushroom displays a smooth, reddish-brown cap with white gills, viewed from a side angle in a grassy environment with blurred greenery in the background.
+train_10297.png	The mushroom appears off-white with a smooth, convex cap, a straight, slender stalk, and is situated in a grassy environment with a blurred grayish background.
+train_17345.png	The mushroom features a vibrant orange cap with a smooth texture, viewed from the side, set against a forest floor backdrop with scattered green leaves and blurred foliage, exhibiting noticeable white spots on the cap.
+train_18302.png	The mushroom displays a honeycomb-patterned dark brown cap on a white stalk and is viewed from above, set against a contrasting background of gray and white stones.
+train_07324.png	Three slender mushrooms with smooth, vivid orange conical caps and pale white stems, viewed from the front against a backdrop of out-of-focus earthy tones.
+train_19938.png	Two mushrooms stand prominently in a grassy setting, featuring reddish-brown caps with a smooth texture and bulbous stems, set against a blurred green and dark red background.
+train_06446.png	The mushroom has a smooth, pale pink cap and a slender white stalk, viewed from a slightly top-down angle, set against a background of dry, brown leaves.
+train_15545.png	A white-capped mushroom with a smooth texture is viewed from the side, nestled among brown leaves and dirt, featuring a cream-colored stem and a hint of green foliage in the background.
+train_30097.png	The mushroom has a tall, beige stalk with a conical, honeycomb-textured cap, viewed from the side amidst a background of green foliage and dark, mossy earth.
+train_01813.png	The mushroom displays a light brown cap with a smooth texture, viewed from the side in a cluster, set against a forest floor background with hints of green and brown hues, and features a slightly bulbous stem.
+train_36138.png	The mushroom appears white with a smooth texture, standing upright amidst a grassy background, with a conical cap and a visible stalk.
+train_33340.png	The mushroom appears tan with a smooth, convex cap, viewed from above and slightly to the side, set against a backdrop of green grass with a slender, narrow stem.
+train_24008.png	The mushroom features a smooth, bright orange cap with a slender white stem, viewed from the side amidst a forest floor covered in dry leaves and green blades of grass.
+train_20848.png	The mushroom features a light brown cap with a slightly darker edge and a smooth, elongated white stem, viewed from the side against a solid blue fabric background.
+train_09368.png	The mushroom features a tall, pale yellow stalk with a distinctive dark brown, conical cap displaying a ridged texture, set against a soft-focus forest floor composed of scattered leaves and twigs.
+train_33494.png	The mushroom has a brown, textured cap with a honeycomb appearance viewed from slightly above, against a backdrop of dark soil and green leaves.
+train_33533.png	A tan-colored mushroom with a wavy, rippled cap texture is viewed from a side angle amidst a natural, forest-like setting featuring a blurred green and brown background.
+train_20979.png	The mushrooms have light brown caps with a smooth texture, slender cream-colored stalks, and are viewed from the side against a forest floor background with leaves and twigs.
+train_27690.png	The mushroom has a brown, smooth cap with a bulbous shape, resting on a tall, pale yellow stem, set against a leafy forest floor background.
+train_43836.png	The mushroom has a dark, honeycomb-textured cap with a tall conical shape and a lighter stem, set against a blurred natural background of green and brown foliage.

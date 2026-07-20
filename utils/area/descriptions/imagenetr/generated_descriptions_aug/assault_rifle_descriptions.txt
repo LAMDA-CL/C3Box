@@ -1,0 +1,3 @@
+art_0.jpg	The assault rifle silhouette is oriented horizontally with a texture resembling US dollar bill patterns, with occlusion around the stock and barrel edges against a plain white background.
+misc_19.jpg	The illustration depicts a stylized assault rifle in a muted blue and beige color palette, angled diagonally with the stock on the right side, held by a figure, and with details obscured by the low resolution and artistic style.
+sticker_0.jpg	The image depicts a low-resolution, graffiti-style depiction of a person holding an outlined assault rifle at an angle, with the rifle and background altered to dark, muted tones and the environment appearing worn and textured, partially obscured by pinkish stains.

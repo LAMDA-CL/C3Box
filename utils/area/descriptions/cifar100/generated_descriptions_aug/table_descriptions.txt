@@ -1,0 +1,3 @@
+train_47150.png	The image shows a slightly blurred, low-resolution wooden table with a reddish tint angled diagonally in the frame, situated in a minimally decorated room with a simple gray wall and floor, and partially occluded by a tall plant stand to the left.
+train_42885.png	The table appears in a warm, pinkish hue with a blurred, grainy texture, viewed from a slightly elevated angle with one side obscured by shadows, featuring a rectangular top with discernible rectangular legs or supports.
+train_47908.png	The table appears to have a red hue with a smooth texture, viewed from an angle showing its side and legs distinctly, placed against a neutral background with no significant occlusion.

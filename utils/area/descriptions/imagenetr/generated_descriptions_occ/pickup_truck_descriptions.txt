@@ -1,0 +1,3 @@
+sketch_10.jpg	The pickup truck, shown from a low side angle, appears primarily gray with its front half obscured by a colorful noise pattern, leaving only the sleek rear wheel and side panel clearly visible.
+videogame_5.jpg	The pickup truck, seen from a front-left angle, appears light blue and weathered, partially obscured by a large multicolored pixelated block on the left, set against a foggy forest with another similar truck in the background.
+toy_9.jpg	The pickup truck is bright orange with a visible chrome front grille and black tires, viewed from a front-side angle, with a square, multicolored noise occlusion covering much of its body and background.

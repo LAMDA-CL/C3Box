@@ -1,0 +1,3 @@
+painting_18.jpg	The image shows a collie with a reddish-brown and white coat standing in a grassy field, partially obscured by a static-like rectangle in the central body area, with its head and tail facing slightly towards the left, against a backdrop of rolling hills and trees.
+cartoon_7.jpg	The image depicts a cartoon-style collie viewed from the rear with black and tan fur, partially obscured by a central vertical band of colorful static noise, with the head and tail areas clearly visible.
+embroidery_0.jpg	The object appears as a beaded creation with predominantly white and brown colors, revealing intricate beadwork, while a square occlusion of multicolored static obscures the central portion, suggesting a side profile with the head covered.

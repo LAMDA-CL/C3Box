@@ -1,0 +1,3 @@
+toy_9.jpg	The plush toy broomstick, with a light brown felt texture, is partially visible, held by a small witch doll with bright yellow hair and a black hat, while the upper portion is heavily obscured by colorful static noise.
+origami_4.jpg	A white origami-like structure resembling the head of a broom is visible, with a colorful static occlusion covering the left half, lying on a terrazzo floor.
+sketch_11.jpg	The image displays a low-resolution, line-drawn broom and dustpan with the broom's bristles visible at a side angle, partially occluded by a vertical strip of colored static noise on the left side, leaving the right side unobstructed and appearing in stark, simplistic black and white against a plain background.

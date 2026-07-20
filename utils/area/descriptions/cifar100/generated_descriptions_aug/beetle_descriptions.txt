@@ -1,0 +1,3 @@
+train_49996.png	The beetle appears dark with a matte texture, viewed from a slight side angle on a rough, earthy background, with its legs partially blending into the environment while the body is highlighted.
+train_04235.png	The beetle appears in a landscape-oriented pose with a dark, textured body that has an iridescent sheen, set against a grassy background with its head partially obscured by the environment.
+train_35574.png	The beetle appears in a low-resolution image with a reddish-brown hue, a slightly shiny, smooth texture, and situated in a sideways pose against a mottled, similarly colored background, with the main body partially obscured by shadowing or overlapping environmental elements.

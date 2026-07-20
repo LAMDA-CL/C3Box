@@ -1,0 +1,3 @@
+train_24339.png	The image shows a partially obscured object with a colorful, mosaic-like texture featuring prominent hues of blue, green, and purple; it appears to be at a diagonal angle with a large dark occlusion covering its top right portion, set against a blurred background.
+train_26639.png	The image shows a turtle viewed from above, with a predominantly brown and slightly rough textured shell partially visible, and the right side heavily occluded by a vibrant, pixelated pattern of multicolored shapes.
+train_29772.png	A mosaic-patterned square with vibrant colors covers most of the object, while the visible parts suggest a textured background with faint green and yellow hues, giving the impression of a close-up or top-down perspective.

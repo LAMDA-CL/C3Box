@@ -1,0 +1,20 @@
+train_08274.png	The willow tree has cascading green foliage with a textured, weeping canopy, viewed from a side angle, set against a backdrop of a grassy lawn and distant structures.
+train_26687.png	A willow tree with a dome-shaped canopy of golden-green foliage cascades downward against a backdrop of a gray fence, set on a lush green lawn with its slender trunk visible.
+train_29376.png	The small, blurred image depicts a willow tree with a dense canopy of long, slender, pale green leaves cascading downwards, set against a soft, grassy background with a darker area suggesting distant trees.
+train_22236.png	A dense, golden-leaved willow tree stands tall from a side view against a backdrop of rolling hills under a bright blue sky with scattered clouds.
+train_41602.png	The image shows a row of slender, reddish-brown vertical stems with a sparse arrangement, situated on a patch of green grass in a sunny setting.
+train_31609.png	The willow tree in the image has a light brown trunk with sparse, drooping branches, set against a blurred green background of foliage and grassy terrain.
+train_34716.png	A willow tree with slender, drooping branches featuring pale green foliage against a clear blue sky, stands prominently in a grassy landscape suggesting a serene park setting.
+train_30012.png	The willow tree displays a rich green foliage with long, sweeping branches and a dense canopy, viewed from the side along a gently sloping grassy area near a peaceful stream, with soft dappled light filtering through the leaves.
+train_02719.png	The willow tree features cascading, slender branches with dense, green foliage that creates a curtain-like effect, viewed from the side against a clear blue sky with a hint of grassy landscape at the base.
+train_16409.png	A cushion with a central depiction of a lush, dark green willow tree with drooping branches set against a plain, muted background.
+train_05854.png	The willow tree is characterized by a lush, light green hue with cascading, wispy branches and leaves, viewed from a slight angle, set against a blurred backdrop of dense greenery.
+train_24973.png	A pale, greenish-white willow tree with a wispy texture stands tall against a shadowy, forested background under a bright sky, displaying its characteristic cascading branches.
+train_47231.png	The willow tree displays a lush, dense canopy of silvery-green, drooping leaves, viewed from a slightly elevated angle, with a serene blue sky and verdant grassy field in the background, highlighting its gracefully cascading branches.
+train_28516.png	The willow tree has a lush, green canopy with delicate, drooping branches visible from a side view, set against a cloudy sky and a paved pathway.
+train_16266.png	The tree exhibits vibrant golden-yellow foliage with a wispy texture, seen from an angled side view against a backdrop of green foliage and a blurred, sunlit environment.
+train_25808.png	The willow tree has a delicate cascade of pale, gold-tinted leaves, viewed from a slightly upward angle against a bright blue sky, surrounded by a hint of green grass at the base.
+train_43502.png	The image depicts a willow tree with cascading light green foliage appearing slightly blurry, viewed from the side with a background of indistinct greenery suggesting a natural, possibly park-like environment.
+train_42848.png	The willow tree exhibits a lush green hue with cascading, delicate branches, viewed from the side in a riverside park setting, with its drooping leaves creating a flowing curtain-like appearance against a partially obscured grassy bank.
+train_37453.png	The willow tree displays a soft, wispy canopy of green leaves cascading down, set against a serene lakeside backdrop with a clear blue sky, standing prominently at the water's edge beside a grass-lined path.
+train_28195.png	The willow tree appears with pale green, slender leaves and long, drooping branches, framed against a bright blue sky and set in a lush green grassy background.

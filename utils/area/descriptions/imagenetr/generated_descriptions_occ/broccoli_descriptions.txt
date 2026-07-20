@@ -1,0 +1,3 @@
+painting_5.jpg	A cartoon-like image shows a partially visible broccoli, with a smooth, dark green texture against a light gray background, while the left side is heavily masked by colorful static, leaving a speech bubble with text on the right unobscured.
+painting_11.jpg	The broccoli appears as a textured green mass with visible florets towards the upper right, partially obscured by a colorful noise patch on the left, set against a blurred, painterly background with earth tones and hints of blue.
+cartoon_35.jpg	The broccoli appears as a stylized drawing with a green, textured top partially visible above a large square patch of colorful static occlusion, with a hint of purple peeking out from the right side.

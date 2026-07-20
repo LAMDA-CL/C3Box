@@ -1,0 +1,3 @@
+train_06865.png	The poppy appears in a tilted orientation with a prominent deep orange hue and densely textured petals, contrasted by a dark, central core amid a vivid green blurred background, with subtle overlap of petals visible.
+train_28837.png	The image shows a bright red, textured poppy flower with petals slightly ruffled, viewed from the side amidst a blurred green and brown background, with partial obscuration by foliage.
+train_17982.png	The poppy appears in vibrant orange hues with a speckled texture, viewed from above at an angle, with one flower partially obscured by foliage and a dark, distinct center visible.

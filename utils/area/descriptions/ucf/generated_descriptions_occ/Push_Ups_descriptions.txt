@@ -1,0 +1,3 @@
+v_PushUps_g04_c05.jpg	The image shows a person performing push-ups from a side view with their arms extended on push-up bars, a colorful occlusion on the left side, and a background featuring red curtains and windows.
+v_PushUps_g24_c01.jpg	The image shows a person in a plank position from a side view on a light-colored carpeted floor with a green wall in the background, partially occluded by a vertical strip of multicolored static, wearing a red top and black bottoms.
+v_PushUps_g06_c04.jpg	A person is viewed from the side performing a push-up in a dimly lit environment, with a distinctive light gray outfit and left arm extended forward, while the left half of the image is heavily obscured by colorful static noise.

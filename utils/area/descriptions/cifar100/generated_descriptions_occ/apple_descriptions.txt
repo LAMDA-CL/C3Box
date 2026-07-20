@@ -1,0 +1,3 @@
+train_04691.png	The low-resolution image depicts an apple with a gradient of green to red hues, viewed from a slightly tilted side angle, partially obscured by a pixelated square occlusion in the lower left corner, with a smooth yet subtly dappled texture visible.
+train_27355.png	A partially visible apple with a smooth reddish-brown texture is shown in a three-quarter view with significant occlusion from colorful, pixelated noise covering its left section.
+train_41956.png	The object appears to have a round shape with a red and mottled texture, partially obscured by a colorful checkerboard pattern in the center and lower portion, viewed from a slightly off-center angle.

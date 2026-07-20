@@ -1,0 +1,3 @@
+origami_2.jpg	A pink, origami-like object with visible folds and angular features rests on a textured tan surface, partially obscured by a square, multicolored noise pattern over the left side.
+toy_24.jpg	The axolotl, appearing as a plush toy, is bright pink with a smooth texture, visible from an overhead angle, and is partially obscured by a central horizontal band of multicolored static with a blue background.
+toy_16.jpg	The axolotl appears light pink with a fluffy texture, exhibiting a frontal pose with red fin-like appendages visible on either side of its head, while a significant portion of its lower body is obscured by a multicolored static occlusion.

@@ -1,0 +1,3 @@
+sketch_3.jpg	The image features a black and white line drawing of a hanging cauldron with steam rising, positioned over a campfire with logs, with a large, pixelated occlusion covering the left portion of the image.
+cartoon_16.jpg	A black-and-white line drawing depicts a round, textured cauldron with visible steam and the word "POUF" above it, viewed from the side amid a witchy scene, with the lower right part obscured by a multicolored static pattern.
+sketch_1.jpg	The cauldron, viewed from the side, appears as a simplistic black outline with two visible short legs and a large handle, with significant occlusion in the middle by a colorful static-like pattern.

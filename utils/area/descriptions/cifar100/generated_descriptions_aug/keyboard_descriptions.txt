@@ -1,0 +1,3 @@
+train_49887.png	The keyboard, viewed from a tilted angle, appears in a monochrome color with a grainy texture, displaying a compact arrangement of keys and accompanied by a separate numeric pad positioned above, set against a plain white background.
+train_46629.png	The keyboard appears in a low-resolution image with a monochrome gray hue, rotated slightly sideways, and has heavily pixelated keys that obscure finer details, while the surrounding area is plain and untextured, with no visible occlusions.
+train_18624.png	The keyboard appears in a monochromatic, purplish hue with a close-up side view highlighting its keys, which are partially obscured by shadow, and a blurred foreground creating a sense of depth and texture.

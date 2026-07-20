@@ -1,0 +1,3 @@
+v_WritingOnBoard_g10_c03.jpg	A dark board on the right side of the image is partially visible with a significant vertical occlusion comprised of colorful noise patterns, while the surrounding environment includes a blend of blue and brown tones.
+v_WritingOnBoard_g01_c05.jpg	The image shows a whiteboard with faintly visible writing at the top left and right, partially obscured by a colorful, pixelated area in the center, with a person standing in front wearing a dark plaid shirt.
+v_WritingOnBoard_g13_c05.jpg	The writing on the whiteboard features a simple diagram with text in blue ink, viewed from the side with a multicolor static occlusion covering the left portion, including part of the person in the scene.

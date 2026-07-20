@@ -1,0 +1,3 @@
+origami_2.jpg	This object appears as a geometric, paper-like white structure with visible triangular facets and two orange conical roofs, viewed from the front with a colorful, static-like occlusion blocking the lower portion.
+cartoon_15.jpg	The castle, viewed front-on in low light, displays a vibrant mix of blue and pink hues with visible fairy-tale spires, while the right side is heavily occluded by a multicolored static pattern.
+graphic_3.jpg	The image shows a predominantly grayscale sketch with a central area heavily obscured by colorful noise, revealing faint outlines of structures and landscape at the periphery.

@@ -1,0 +1,3 @@
+v_PizzaTossing_g11_c02.jpg	The image shows a person in a white shirt from a side view, poised to toss pizza dough on a countertop, with the dough itself heavily obscured by a colorful, static-like occlusion.
+v_PizzaTossing_g24_c06.jpg	A kitchen with stacked plates is partially visible on the left, while the right side is heavily occluded by colorful noise, obscuring any detailed view of the pizza tossing activity.
+v_PizzaTossing_g16_c01.jpg	The heavily occluded image shows a blurred background with dark brown and gray tones, stripes suggesting a shirt on the right, and an indiscernible texture due to noise overlay.

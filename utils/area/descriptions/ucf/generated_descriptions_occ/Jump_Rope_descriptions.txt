@@ -1,0 +1,3 @@
+v_JumpRope_g01_c04.jpg	The image shows a person standing on a wooden floor with a heavy vertical mosaic occlusion obscuring most details, against a background of a plain wall and curtain, with only a few individuals wearing red hats visible in the foreground.
+v_JumpRope_g07_c04.jpg	A person in a red shirt and white shorts is jumping with a rope that is partially visible above their head and blurred by motion, while the left side of the image is heavily occluded with colorful static against a dark curtain backdrop.
+v_JumpRope_g04_c05.jpg	A person in athletic wear stands in front of a large mirror in a gym-like setting, with a colorful pixelated occlusion at the waist height blocking the view of the jump rope.

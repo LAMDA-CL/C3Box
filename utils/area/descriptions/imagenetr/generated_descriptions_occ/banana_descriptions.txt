@@ -1,0 +1,3 @@
+videogame_12.jpg	A low-resolution graphic of a banana peel with smiling faces is partially visible at the bottom of a black t-shirt, with heavy pixelated occlusion covering the upper portion of the shirt.
+misc_119.jpg	A partially occluded, stylized yellow felt banana with brown stitching is lying on its side, with a metal keyring attached at one end, set against a light green background.
+misc_0.jpg	The low-resolution drawing depicts a peeled banana with a smooth, light-colored texture viewed from the side, mostly obscured by a vertically placed pixelated occlusion on the right.

@@ -1,0 +1,3 @@
+train_30882.png	The image shows a small, brownish-red textured object resembling a mouse, viewed from a side angle with its tail curling behind, partially buried among a series of irregular white rocks and twisted metal pieces, with shadows obscuring parts of its body.
+train_31205.png	The mouse appears with a pink hue due to color augmentation, is oriented slightly sideways exposing its flank, with a blurred or dark background that contrasts its altered coloration.
+train_30703.png	The object appears to be a bright pink and textured creature with a slightly arched pose, partially occluded by a dark background, highlighting its rounded shape and small, indistinct features.

@@ -1,0 +1,3 @@
+train_15494.png	The image shows a crocodile with a mottled texture that varies between shades of green and brown, partially hidden behind a mix of vibrant, abstract shapes and colors, with its head and snout visible, angled slightly upward against a background of blurry greenery.
+train_34645.png	The low-resolution image shows a crocodile with a dark, bumpy texture, partially obscured by a multicolored, irregular occlusion over its midsection, viewed from a side angle on a sandy surface.
+train_13570.png	The image shows a crocodile viewed from the side with a greenish-brown textured body partially visible and a vibrant, irregularly patterned occlusion covering the upper jaw, amidst a rippling water background.

@@ -1,0 +1,3 @@
+cartoon_33.jpg	The partially occluded backpack appears to have a canvas material in a dark color, possibly green, with visible upper leather shoulder straps, a distinct front pouch layout for bottles, pens, and other items, while the right side is obscured by heavy digital noise.
+toy_0.jpg	The object resembles a plush toy with gray fur texture, large ears, and partially obscured by multicolored static; it rests on tree branches in a leafy outdoor setting, with the central body mostly occluded.
+sketch_24.jpg	A blue, outlined backpack viewed from the front has a large rectangular occlusion in the center, with visible details like a rounded top, side pocket outlines, and lower front pockets partially filled with a notebook and pencils.

@@ -1,0 +1,3 @@
+train_29054.png	The pear appears to be dark brown with a glossy surface texture, viewed from a slightly tilted angle emphasizing its elongated stem, and is set against a plain light background with no visible occlusions.
+train_45158.png	The image shows a blurry, yellowish-green pear with a coarse texture viewed from an angled top perspective, partially obscured by surrounding similarly colored objects, creating a clustered composition.
+train_14716.png	The pear appears in a pale green hue with a smooth texture, shown in an upright position with the stem tilted to the right, against a plain background without any visible occlusions.

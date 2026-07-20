@@ -1,0 +1,3 @@
+art_3.jpg	The Granny Smith apple is shown in a watercolor style with a vibrant light green hue and speckled texture, partially obscured by a colorful static-like occlusion on the bottom left, while the right side displays a cross-section revealing pale green flesh and dark seeds.
+sculpture_2.jpg	The image shows a large, semi-circular, smooth green object resembling an abstract side view of a Granny Smith apple, with a significant portion obscured by a vertical strip of colorful digital noise, set against a clear blue sky with cityscape elements beneath.
+videogame_5.jpg	The image shows a colorful noise pattern completely occluding the primary subject, against a backdrop of smooth, dark and green surfaces with hints of metallic or glass-like reflections.

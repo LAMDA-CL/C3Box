@@ -1,0 +1,3 @@
+v_Knitting_g17_c02.jpg	The image shows a person holding light brown knitting needles with light-colored yarn against a bright blue background, with a significant portion covered by multicolored noise occlusion.
+v_Knitting_g02_c05.jpg	A close-up view of hands holding and manipulating a piece of soft, pink, textured knitting against a solid blue background, with the right half of the image obscured by colorful static noise.
+v_Knitting_g14_c02.jpg	A pair of hands holds knitting needles against a dark blue background, with red yarn visible beside the hands, while a central column of colorful static heavily occludes the knitting work itself.

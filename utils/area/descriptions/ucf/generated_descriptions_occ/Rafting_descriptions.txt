@@ -1,0 +1,3 @@
+v_Rafting_g11_c04.jpg	In the image, a group of people in colorful attire is visible on a blue raft navigating through white, frothy rapids, with a significant part of the scene on the right side obscured by digital noise resembling static.
+v_Rafting_g10_c01.jpg	A yellow raft is partially visible amidst white foamy rapids, with trees in the background and a large section of static-like occlusion covering the upper central part.
+v_Rafting_g01_c04.jpg	The image shows a blue and white raft viewed from above with four people wearing red helmets and life jackets, with the lower section heavily occluded by pixelated noise, navigating turbulent white water.

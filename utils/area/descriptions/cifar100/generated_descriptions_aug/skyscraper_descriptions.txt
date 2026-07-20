@@ -1,0 +1,3 @@
+train_29987.png	The image shows a tilted skyscraper with a dark, textured facade, set against a bright sky with a portion of a geometric structure visible in the background.
+train_06811.png	The skyscraper appears in a tilted orientation with a bluish purple hue, featuring a smooth, glass-like texture with vertical lines, partially obscured by tree branches in the foreground.
+train_48541.png	The skyscraper appears in a tilted orientation with a purple hue, exhibiting a textured facade of vertical lines, partially obscured by dark foreground elements and set against a blurred background.

@@ -1,0 +1,3 @@
+v_BenchPress_g05_c04.jpg	The Bench Press appears in muted grayscale with a forward-facing horizontal orientation, situated indoors with gym equipment surrounding it, and partially obscured by a person in gray lifting weights in the foreground.
+v_BenchPress_g11_c04.jpg	The bench press is situated in a gym environment with green walls, viewed from an angle slightly above and in front, featuring a metallic bar with black weights, while a person in a purple outfit lies horizontally on the bench, and a second individual stands behind to assist.
+v_BenchPress_g25_c03.jpg	The bench press appears rotated with a dark metal texture, showing a person in a prone position on a red floor, partially covered by a watermark, with visible weights and a spotter in casual attire behind.

@@ -1,0 +1,20 @@
+train_24874.png	The low-resolution image shows a tulip with vibrant red and white variegated petals, viewed from the side, surrounded by a blurred garden environment with visible green stems and brown soil.
+train_16423.png	The tulip displays a bright yellow hue with a slightly ruffled texture from a side angle, set against a blurred green foliage background.
+train_44912.png	The low-resolution image depicts a tulip with a gradient of yellow and pink petals, standing upright and illuminated against a stark, black background, emphasizing its vibrant color and smooth texture.
+train_38895.png	The tulip displays a delicate pink and white gradient with a slightly ruffled texture, viewed from above with a hint of yellow centered stamens, set against a leafy and blurred green background.
+train_38741.png	A single pink tulip with smooth petals slightly open at the top is viewed from the side against a solid blue background, with two green leaves visible below.
+train_47900.png	The tulip is vivid red with a smooth texture, lying horizontally on a softly lit surface with a blurry background comprising warm, candle-like lights.
+train_36219.png	The image shows a vibrant red flower with slightly ruffled petals, viewed from above against a background of lush green leaves, highlighting its distinct layered texture.
+train_08080.png	A vibrant red tulip with smooth petals is captured from a side angle, set against a lush green background with blurred foliage enhancing its vivid color.
+train_17583.png	The low-resolution image shows a pink tulip with a smooth texture and a slight red streak on one petal, viewed from a close side angle against a blurred, vibrant yellow-green floral background.
+train_04499.png	The tulip displays a vibrant gradient of pink to orange hues with a smooth texture, viewed from a slightly elevated angle, set against a backdrop of lush green leaves and dark soil, emphasizing its fresh, unopened petals.
+train_46355.png	A pink tulip with red accents in the petals is viewed from a high angle, surrounded by blurred green foliage in the background, displaying a prominent central stamen.
+train_41917.png	The tulip displays a vibrant pink hue with a slightly crinkled texture, viewed from above showing a striking blue and white center, set against a blurred green background.
+train_49462.png	The tulip displays vibrant red and yellow petals with a slightly ruffled texture, viewed from above against a backdrop of blurred green leaves.
+train_33621.png	A yellow tulip with smooth petals is viewed from the side against a blurry background of green leaves and a light-colored ground, displaying a gentle upward curve.
+train_02084.png	A cluster of soft yellow tulips with smooth petals is viewed from above against a background of dark green leaves and out-of-focus foliage.
+train_37503.png	The tulip appears in a soft yellow hue with smooth petal texture, visibly open to reveal the inner structure, set against a blurred green and gray background with out-of-focus leafy elements.
+train_24742.png	The tulip appears vibrant pink with a slightly ruffled texture, viewed from a side angle, set against a blurred green background with hints of sunlight filtering through.
+train_22015.png	The tulip exhibits pale pink petals with a hint of white, its slightly open bloom revealing a dark center, set against a blurred, dark green leafy background.
+train_08574.png	The tulip displays a vivid orange hue with red-tinged edges and a slight sheen, viewed from a side angle within a vibrant garden landscape, surrounded by blurred greenery and other colorful blooms in the background.
+train_32776.png	A pair of vibrant pink tulips with smooth petals is seen from the side, emerging amidst a lush background of green leaves and red flowers dotted with yellow centers.

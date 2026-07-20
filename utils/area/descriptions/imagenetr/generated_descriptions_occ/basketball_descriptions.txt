@@ -1,0 +1,3 @@
+videogame_18.jpg	The object is heavily occluded, with visible parts showing colorful graffiti-like art on a blue background, featuring an animated basketball scene and characters in dynamic poses, partially blocked by a multicolored, pixelated square area on the left.
+sketch_19.jpg	The visible portion of the basketball is orange with black lines, seen from a side angle, partially behind a person wearing high heels, with a significant section obscured by a colorful static-like overlay.
+tattoo_3.jpg	The image primarily features a person with a tattooed back in bright daylight, partially occluded by static-like noise covering a large central portion, with brick structures and a clear blue sky in the background.

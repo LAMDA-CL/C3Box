@@ -1,0 +1,3 @@
+train_42001.png	The image displays a mosaic of colorful geometric patterns partially obscuring what might be an object with a muted backdrop, where a vertical array of bright, fragmented hues contrasts starkly against a blurred outdoor setting.
+train_40721.png	The image shows a raccoon-like figure with a visible striped tail and a partially obscured face, standing on a circular surface, while the body is heavily occluded by a colorful, mosaic-like pattern.
+train_36195.png	The image shows a small, square section with a mosaic of vibrant, pixelated colors and patterns, lacking any discernible features or details to identify specific aspects of a raccoon.

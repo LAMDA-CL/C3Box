@@ -1,0 +1,3 @@
+cartoon_8.jpg	The sandal appears as a simple line drawing in a sketchbook, viewed from both the top and side angles, with no color and minimal texture, showing thin straps and a flat sole with slight occlusion from the drawn foot.
+painting_1.jpg	The sandal appears from an overhead viewpoint with a swirling, marbled texture in pink and green hues, featuring a distorted pattern across the straps, set against an abstract green background with no visible occlusion.
+sketch_13.jpg	The sandal appears as a simple line drawing against a gray background, showcasing a wedge heel with ankle and toe straps, viewed from a side angle, without any significant occlusion.

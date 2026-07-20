@@ -1,0 +1,3 @@
+train_07051.png	The image depicts a side view of a trout with a speckled, multicolored pattern primarily in shades of green, pink, and white, partially obscured on the right by a mosaic of small colorful rectangles, suggesting digital augmentation.
+train_18609.png	The image displays a pixelated and multicolored patch with irregular shapes and overlaid bright colors, with a thin object possibly resembling the tail of a fish protruding from the right side in a dark environment, partially obscured by the abstract overlay.
+train_01327.png	The trout has a visible silvery-blue coloring on its dorsal side with a pixelated environment and is heavily occluded by a multicolored mosaic pattern covering a significant portion of the midsection.

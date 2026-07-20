@@ -1,0 +1,3 @@
+train_30882.png	The image shows a heavily occluded object with a glossy, speckled texture in shades of brown and grey, featuring a small portion visible amidst a blurred, colorful background, possibly obscured by foliage or fabric.
+train_31205.png	The small, predominantly gray creature exhibits a blurred texture with its back facing the viewer, while a vibrant, multicolored pattern heavily obscures its left side in a shadowy environment.
+train_30703.png	The mouse is obscured behind a colorful, pixelated pattern with visible fur texture in warm tones and a partially visible ear, suggesting a side view.

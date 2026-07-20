@@ -1,0 +1,3 @@
+train_24339.png	The object resembles a turtle with a mid-orientation pose, displaying an exaggerated light tan color with a glossy, slightly distorted texture, set against a blurred, abstract backdrop with prominent occlusion around its limbs.
+train_26639.png	The image shows a low-resolution turtle with a distinctly mottled pattern in shades of brown and beige, viewed from a top-down angle, partially obscured by shadows on the left, set against a rocky surface.
+train_29772.png	The turtle is viewed from above with a predominantly green shell that has a shiny, reflective texture, surrounded by a blurred, off-white background that obscures part of its edges.

@@ -1,0 +1,3 @@
+sketch_9.jpg	The schooner appears as a monochrome line drawing, viewed side-on with full sails, featuring clear outlines of rigging and masts, with minimal environmental context and no visible occlusion.
+painting_3.jpg	The image depicts a low-resolution schooner with a darkened, textured appearance against a yellow-green sky, viewed from the side, showing full sails, with ocean waves partially obscuring the hull.
+painting_19.jpg	The schooner is depicted at a slight angle with salmon-colored sails and a warm, sunset-hued sky reflecting on calm waters, while a rocky coastline is faintly visible in the background.

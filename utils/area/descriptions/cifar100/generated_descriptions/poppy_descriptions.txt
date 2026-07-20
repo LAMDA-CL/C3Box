@@ -1,0 +1,20 @@
+train_43960.png	A vibrant pink poppy with delicate, slightly crumpled petals and a central seed pod is viewed from the side, set against a dark background with hints of green foliage.
+train_21547.png	A low-resolution image shows a vibrant orange-yellow poppy with delicate, slightly crinkled petals and a dark center, viewed from a slightly lower angle against a stark black background, highlighting its thin green stem.
+train_19971.png	The poppy features vibrant red petals with a slightly fringed texture, seen from an overhead angle, contrasting against a blurred, earthy green background.
+train_16049.png	A vibrant red poppy with a velvety texture is viewed from a slightly oblique angle, showcasing a dark central disk surrounded by feathery foliage in a lush green background.
+train_33993.png	The poppy displays vibrant yellow petals with a smooth texture, viewed from a slightly elevated angle, set against a background of blurred green foliage, with a visible contrasting orange center that stands out despite the low resolution.
+train_25030.png	A white poppy flower with delicate petals and a vibrant yellow-green center appears from a slightly angled top-down view, set against a blurred dark background, highlighting its soft texture and radial symmetry.
+train_41599.png	The low-resolution image shows a close-up of a white poppy with a bright yellow center, surrounded by dark green foliage, displaying a slightly ruffled texture on its petals.
+train_27644.png	The low-resolution image depicts a cluster of vibrant red poppies with delicate, glossy petals and dark centers, viewed from a slightly elevated angle against a blurred green and white background.
+train_43663.png	An orange poppy with delicate, slightly crinkled petals is viewed from the side against a dark, leafy green background with soft shadows highlighting its curved shape.
+train_06954.png	The image shows a vivid red poppy with delicate, crinkled petals and a prominent dark center, viewed from a slightly elevated angle, set against a blurred background of green foliage.
+train_41603.png	The poppy features vibrant orange petals with a silky texture, viewed up close with details of its dark center, against a blurred green background that enhances its striking appearance.
+train_25800.png	An orange poppy with smooth, delicate petals is viewed from the side against a blurred green foliage background.
+train_10345.png	The image shows a close-up view of a white poppy flower with a bright yellow center, displaying delicate crinkled petals, set against a blurred green background that emphasizes the flower's texture and color contrast.
+train_29105.png	The poppy exhibits vibrant red petals with a smooth texture, viewed from the front, set against a blurred background of yellow-green foliage, and features a distinct black center.
+train_29283.png	The bright orange poppy, viewed from above, displays a delicate crinkled texture with a prominent dark center, set against a contrasting blurred earthy background.
+train_02095.png	The image depicts a vibrant red poppy with a smooth texture seen from above, showcasing a contrasting dark center and surrounded by a soft blurred red background.
+train_25417.png	The poppy displays vibrant pink petals with a delicate, crinkled texture, viewed from above amidst a garden setting with a blurred mix of green foliage and other colorful flowers.
+train_16840.png	The image shows vibrant red poppies with slightly ruffled petals and dark centers, seen from a top view against a lush green backdrop of dense foliage, with multiple blooms creating a vivid contrast in the scene.
+train_33679.png	A soft pink poppy with a delicate, papery texture is viewed from the front, showcasing a deep burgundy center and pale green stamens, set against a blurred natural background with hints of green foliage.
+train_28833.png	The image shows a vibrant red poppy with silky, delicate petals featuring a dark central disk, viewed from a slightly angled perspective against a leafy green background.

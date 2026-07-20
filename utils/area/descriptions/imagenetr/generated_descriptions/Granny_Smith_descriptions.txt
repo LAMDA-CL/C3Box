@@ -1,0 +1,10 @@
+painting_7.jpg	A light green, smooth apple sits in the foreground with a shadow cast against a wooden surface, contrasted by a dark background featuring a red apple and decorative gourds.
+toy_6.jpg	The object appears as a crocheted green sphere with a smooth, knitted texture, featuring small black eyes and a brown stem on top, set against a red polka dot background.
+graphic_0.jpg	A label with "Granny Smith" and a number is attached to a stylized drawing featuring green apples with a prominent stem, set against a textured white background with black and green text elements.
+painting_9.jpg	The Granny Smith apples are depicted in a vibrant, glossy green with subtle dappled texture, viewed from an angled side perspective, against a muted, soft green background with gentle shadowing; they display a faint sheen highlighting their curvature.
+cartoon_0.jpg	The image shows an illustrated green apple with a smooth texture, featuring anthropomorphic details including eyes and limbs, a small crown perched on top, and surrounded by a dark background with text elements.
+art_4.jpg	The illustration features a trio of green apples with a slightly speckled texture, viewed from a top-front perspective against a textured red background, with a spiral-bound notebook edge visible on the left.
+sculpture_1.jpg	A shiny green apple with a smooth texture is positioned against a wall, featuring a golden humanoid figure sitting in a carved-out section on its front, surrounded by a wooden floor and indoor plants.
+sketch_0.jpg	The image shows an outline drawing of an apple with a leaf on top, depicted in a simple black and white line art style against a plain white background.
+videogame_9.jpg	A bright green Granny Smith apple with slight surface blemishes hangs from a branch with a single leaf attached, set against a plain white background.
+videogame_1.jpg	A pixelated green object resembling an apple with darker green shading, a visible brown stem, a single pixelated leaf on top, and set against a simple white background.

@@ -1,0 +1,3 @@
+v_ThrowDiscus_g02_c02.jpg	A mostly obscured discus area with a brightly colored pattern covering the left side, a visible netting in the foreground, and a partially blurred background shows a crowd and a faint glimpse of the sports field.
+v_ThrowDiscus_g09_c06.jpg	The discus is barely visible through the static-like occlusion, set within a network of netting with a grassy field and overcast sky in the background, showing a hint of circular edge and metallic sheen.
+v_ThrowDiscus_g24_c01.jpg	The discus appears as a blurred object in motion with a predominantly metallic sheen obscured by significant multicolored digital noise covering the right half, set against a nighttime stadium background with bright lights.

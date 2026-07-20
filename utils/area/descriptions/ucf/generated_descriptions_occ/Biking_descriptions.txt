@@ -1,0 +1,3 @@
+v_Biking_g05_c05.jpg	The image shows a cyclist with a portion heavily obscured, riding a bicycle with visible black wheels against a textured gray wall, with the cyclist wearing bright clothing and the environment suggesting a side view on a paved surface.
+v_Biking_g08_c03.jpg	A partially obscured urban scene shows a street with cars, surrounded by colorful vertical banners and buildings, with a central large occlusion of multicolored static.
+v_Biking_g03_c03.jpg	A low-resolution scene showing a bare landscape with partial open sky, partially obscured by a vertical, colorful pixelated rectangle on the left, and minimal details of a sandy or concrete circular structure on the right in a potentially outdoor park setting.

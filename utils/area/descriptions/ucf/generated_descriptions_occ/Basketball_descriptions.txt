@@ -1,0 +1,3 @@
+v_Basketball_g06_c03.jpg	The basketball appears small and is partially visible in the top part of the image against a nighttime background, with a hint of orange color under bright overhead illumination and obscured by low resolution and noise, while the surrounding environment includes a fenced court.
+v_Basketball_g21_c01.jpg	The image shows a scene with a significant rectangular area of colorful static noise occluding the central part, against an outdoor backdrop with faint outlines of urban structures and a clear sky.
+v_Basketball_g11_c03.jpg	A low-resolution basketball appears as a small dark silhouette in the sky, viewed from a side angle against a cloudy backdrop, partially occluded by a static overlay with colorful noise on its right side.

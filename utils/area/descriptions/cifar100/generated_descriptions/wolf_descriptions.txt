@@ -1,0 +1,20 @@
+train_26085.png	The image depicts a dark grey wolf with a hint of brown fur, lying down sideways amidst dry, brown foliage, showcasing its distinct pointed ears and sharp muzzle profile.
+train_29039.png	The wolf, with a mottled gray and brown coat, lies in a reclined position in the snow, with alert ears and a keen gaze directed toward the camera.
+train_02197.png	The image shows a canine with mottled black, white, and tan fur, standing sideways with its head slightly lowered, set against a dry, grassy background, resembling an African wild dog rather than a typical wolf.
+train_22094.png	The wolf has a mix of gray and brown fur with a thick texture, shown in a sitting pose facing forward in a snowy environment with a subtle shadow, highlighting its sharp eyes and distinct fur patterns.
+train_28940.png	The image shows a wolf with a dense gray and brown fur coat seen in a three-quarter profile against a blurred background of dark trees, with distinct amber eyes and a focused expression.
+train_40556.png	The wolf appears in a side profile pose howling, with a mixture of grey and white fur exhibiting a coarse texture against a dark, blurred forest background.
+train_46957.png	The low-resolution image shows an animal with a blend of gray and brown fur, standing alert in a frontal pose amidst a backdrop of green foliage, with distinct pointed ears and a piercing gaze.
+train_20379.png	The image depicts a wolf with a mottled, gray and brown coat standing in a snowy environment, facing forward with alert, erect ears and a snowy background.
+train_10510.png	A tawny, grey-flecked wolf is seen in side profile with a focused gaze, its thick fur blending into the snowy blur of the background under soft light.
+train_02662.png	The image depicts a grayish-brown wolf with a thick, fur-textured coat, staring directly at the viewer, with an indistinct white background providing contrast to its alert posture and focused gaze.
+train_16054.png	The wolf stands in a snowy forest environment, viewed in a side pose, displaying a thick coat of mixed gray and white fur with a distinctive dark stripe down its back.
+train_47882.png	The image shows an animal with a mottled coat of black, white, and brown colors, standing in a dynamic pose on a dry, grassy terrain.
+train_07250.png	The low-resolution image depicts a wolf with a gray and brown textured coat, facing forward with an alert expression, set against a blurred, indistinct background that suggests a natural environment.
+train_09756.png	The wolf has a mottled gray and brown coat with visible fur texture, crouched in a forward, inquisitive pose against a blurred, earthy forest background, highlighting its piercing eyes.
+train_08630.png	The wolf appears with a blend of gray and brown fur, standing in a snowy environment with its head turned to the side, showing pointed ears and a thick winter coat.
+train_46801.png	The image shows a dark-furred animal with pointed ears and a bushy tail standing on a rocky surface, with a backdrop of blurred greenery.
+train_40327.png	The image shows a grayish wolf with a slightly hunched posture, facing forward with its head turned slightly to the side, standing on a blurred grassy or sandy background with faint hints of greenery.
+train_47513.png	The image depicts a low-resolution wolf with mottled gray and brown fur, situated in an upright howling pose against a dark, dense forest background, with its ears perked and a distinct white underbelly visible.
+train_48860.png	The wolf is standing with a three-quarter view, featuring a mottled gray and brown fur texture, surrounded by a leafy green background with specks of sunlight on the foliage.
+train_15749.png	The wolf appears with a mottled gray and brown coat, standing with its head lowered slightly as if in a snowy and mountainous environment, with visible pointed ears and a bushy tail highlighted against a light blue sky.

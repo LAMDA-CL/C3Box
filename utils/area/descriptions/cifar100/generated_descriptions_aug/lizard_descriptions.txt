@@ -1,0 +1,3 @@
+train_11781.png	The object appears as a light beige, textured figure positioned diagonally on a smooth, sand-colored surface with its head slightly raised and shadow faintly visible beneath its body.
+train_02715.png	The object in the image appears as a green and purple textured shape, positioned at an upward angle with a blurred background, resembling a plant or abstract form with no clear lizard features visible.
+train_38380.png	The low-resolution image depicts a green, textured lizard with its body oriented on a slanted angle atop a light-colored surface, featuring elongated limbs and a slightly curled tail, all set against a dark background.

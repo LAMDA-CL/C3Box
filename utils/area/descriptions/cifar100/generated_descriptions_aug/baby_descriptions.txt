@@ -1,0 +1,3 @@
+train_32496.png	The image shows a low-resolution, upward-facing baby with a pale complexion, altered to have a bluish tint with greenish shadows, partially obscured by a dark, out-of-focus foreground on the left.
+train_27595.png	The image depicts a low-resolution, augmented baby with a pale, smooth skin texture viewed from a frontal perspective, set against a dark, blurry background with no visible occlusion.
+train_02858.png	The low-resolution image depicts a sepia-toned baby with a tilted gaze, partially obscured by a hand in the foreground, and a blurred background with subtle textures that create an aged appearance.

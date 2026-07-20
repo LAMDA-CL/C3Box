@@ -1,0 +1,3 @@
+painting_21.jpg	The snow leopard shows a side profile with light gray fur and black spots, its face exhibiting a slight blue hue, while a central vertical section is occluded with multicolored static noise, obscuring part of its features.
+painting_19.jpg	The snow leopard is depicted in a frontal view with its textured fur appearing grayish-white with dark spots, mostly visible around the eye area and upper face, while the right side is heavily occluded by a colorful static pattern.
+cartoon_8.jpg	The snow leopard appears in a side profile with its left ear and upper back visible, displaying a light, speckled fur pattern; most of its body is obscured by a dense, multicolored noise block covering the center of the image.

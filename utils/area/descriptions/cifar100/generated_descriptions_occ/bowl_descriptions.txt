@@ -1,0 +1,3 @@
+train_41325.png	The bowl appears to have a smooth, dark exterior with a speckled texture and is partially covered with colorful, indistinct shapes, viewed from above with the majority of the obscuration in the center.
+train_26651.png	The object in the image is a bowl partially obscured by a colorful, mosaic-like pattern on the right side, with visible earth tones and a smooth texture on the left, viewed from an angled, side perspective against a blurred background.
+train_29141.png	The image shows a grey, rounded object resembling a bowl, with a grainy texture viewed from a slightly elevated angle; the left portion is heavily occluded by a colorful, pixel-art pattern, and the surrounding environment appears unobtrusive and muted.

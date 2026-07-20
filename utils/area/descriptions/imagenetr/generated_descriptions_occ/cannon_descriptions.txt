@@ -1,0 +1,3 @@
+sketch_1.jpg	The cannon is depicted in a side view with a simple black and white sketch style, showing a cylindrical barrel mounted on a wooden frame with wheels, while the left portion is obscured by a colorful noise pattern.
+toy_0.jpg	The image shows a heavily occluded region with colorful noise patterns occupying the central area between various objects on a textured surface, likely obscuring a cannon.
+sketch_7.jpg	The visible part of the cannon shows a grayscale and sketch-like texture with a side profile view of a spoked wheel, while the right side is obscured by colorful noise.

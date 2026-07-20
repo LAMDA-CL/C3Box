@@ -1,0 +1,3 @@
+train_06865.png	The image displays a vibrant red poppy with a smooth texture, seen from a side angle, with its black central disc partially obscured by a cluster of multicolored confetti-like particles against a blurred green background.
+train_28837.png	A vibrant red petal with a smooth texture is partially visible from a side angle, with a significant portion obscured by a colorful mosaic-like pattern, surrounded by a blurred, multicolored background.
+train_17982.png	The image shows a partially visible red and textured surface with a mosaic-like colorful occlusion in the lower left, set against a blurred green background that suggests foliage.

@@ -3,6 +3,7 @@ import logging
 import torch
 from sympy import false
 from torch import nn
+from einops import einsum
 from backbone.linears import SimpleLinear, SplitCosineLinear, CosineLinear,SimpleContinualLinear,EaseCosineLinear, TunaLinear
 import timm
 import torch.nn.functional as F
@@ -2431,3 +2432,229 @@ class MultiBranchCosineIncrementalNet(BaseNet):
         self._feature_dim = self.backbones[0].output_dim * len(self.backbones)
         self.fc = self.generate_fc(self._feature_dim, self.args['init_cls'])
 
+#area
+class Area(BaseNet):
+    def __init__(self, args, pretrained=None):
+        super().__init__(args, pretrained)
+
+        self.model, self.preprocess, self.tokenizer = get_convnet(
+            args, pretrained)
+        self.class_name = 'Area'
+        self.args = args
+        self.K = get_attribute(args, "K", 16)
+        self.class_names = None
+        self.visual_adapter = nn.Linear(512, 512, bias=False)
+        self.freeze(self.model)
+        self.textual_adapter = nn.Linear(512, 512, bias=False)
+        self.textual_S = nn.ModuleList()
+        self.visual_S = nn.ModuleList()
+        # class stat
+        self.visual = self.model.visual
+        self.visual_proj = self.visual.proj
+        self.class_mean_list = []
+        self.class_cov_list = []
+
+    def append_S(self, device):
+        self.textual_S.append(nn.Linear(512, self.K, bias=False).to(device))
+        self.visual_S.append(nn.Linear(512, self.K, bias=False).to(device))
+        # If cur_task > 0, new S initialized as previous S
+        if len(self.textual_S) > 1:
+            self.textual_S[-1].weight.data = self.textual_S[-2].weight.data.clone()
+            self.visual_S[-1].weight.data = self.visual_S[-2].weight.data.clone()
+        self.visual_S[-1].weight.requires_grad = True
+        self.textual_S[-1].weight.requires_grad = True
+
+    def update_fc(self, nb_classes, nextperiod_initialization=None):
+        fc = self.generate_fc(self.feature_dim, nb_classes).cuda()
+        if self.fc is not None:
+            nb_output = self.fc.out_features
+            weight = copy.deepcopy(self.fc.weight.data)
+            fc.sigma.data = self.fc.sigma.data
+            if nextperiod_initialization is not None:
+                weight = torch.cat([weight, nextperiod_initialization])
+            else:
+                weight = torch.cat([weight, torch.zeros(
+                    nb_classes - nb_output, self.feature_dim).cuda()])
+            fc.weight = nn.Parameter(weight)
+        del self.fc
+        self.fc = fc
+
+    def generate_fc(self, in_dim, out_dim):
+        fc = CosineLinear(in_dim, out_dim)
+        return fc
+
+    def extract_vector(self, x):
+        return self.model.encode_image(x)
+
+    def encode_image(self, x):
+        return self.model.encode_image(x)
+
+    def encode_text(self, x):
+        return self.model.encode_text(x)
+
+    def forward(self, image, text_embeddings, visual_basis, textual_basis, cur_task, memory_data=None):
+        with torch.no_grad():
+            image_features = self.model.encode_image(image)
+        if memory_data is not None:
+            memory_data = memory_data.to(image.device)
+            image_features = torch.cat([image_features, memory_data], dim=0)
+        image_features_residual = self.visual_adapter(image_features.detach())
+        image_features_evidence = einsum(
+            visual_basis, self.visual_S[cur_task](image_features), "C D K, B K -> B C D")
+        image_features_residual = image_features_residual.unsqueeze(
+            1).expand(-1, textual_basis.shape[0], -1)
+        image_features = image_features_residual + image_features_evidence
+        textual_features_residual = self.textual_adapter(
+            text_embeddings.detach())
+        textual_features_evidence = einsum(textual_basis, self.textual_S[cur_task](
+            text_embeddings.detach()), "C D K, C K -> C D")
+        textual_features = textual_features_residual + textual_features_evidence
+        image_features = image_features / \
+            (image_features.norm(dim=-1, keepdim=True) + 1e-6)
+        textual_features = textual_features / \
+            (textual_features.norm(dim=-1, keepdim=True) + 1e-6)
+        logits = einsum(image_features, textual_features, "B C D, C D -> B C")
+        logit_scale = self.model.logit_scale.exp()
+        logits = logits * logit_scale
+        probs = logits
+        return probs
+
+    def forward_inference(self, image, text_embeddings, visual_basis, textual_basis, cur_task, memory_data=None):
+        with torch.no_grad():
+            image_features = self.model.encode_image(image)
+        if memory_data is not None:
+            memory_data = memory_data.to(image.device)
+            image_features = torch.cat([image_features, memory_data], dim=0)
+        image_features_residual = self.visual_adapter(image_features.detach())
+        image_features_evidence = einsum(
+            visual_basis, self.visual_S[cur_task](image_features), "C D K, B K -> B C D")
+        # B D -> B C D
+        image_features_residual = image_features_residual.unsqueeze(
+            1).expand(-1, textual_basis.shape[0], -1)
+        image_features = image_features_residual + image_features_evidence
+        textual_features_residual = self.textual_adapter(
+            text_embeddings.detach())
+        textual_features_evidence = einsum(textual_basis, self.textual_S[cur_task](
+            text_embeddings.detach()), "C D K, C K -> C D")
+        textual_features = textual_features_residual + textual_features_evidence
+        image_features = image_features / \
+            (image_features.norm(dim=-1, keepdim=True) + 1e-6)
+        textual_features = textual_features / \
+            (textual_features.norm(dim=-1, keepdim=True) + 1e-6)
+        logits = einsum(image_features, textual_features, "B C D, C D -> B C")
+        logit_scale = self.model.logit_scale.exp()
+        logits = logits * logit_scale
+        probs = logits
+        return probs
+
+    def _get_visual_score(self, image, cur_task):
+        image_features = self.model.encode_image(image)
+        return self.visual_S[cur_task](image_features)
+
+    def _get_textual_score(self, text, cur_task):
+        tokenized_text = self.tokenizer(text).to(
+            next(self.model.parameters()).device)
+        text_features = self.model.encode_text(tokenized_text)
+        return self.textual_S[cur_task](text_features)
+
+    def re_initiate(self):
+        print('re-initiate model')
+        self.model, self.preprocess, self.tokenizer = get_convnet(
+            self.args, True)
+
+    def freeze(self, model):
+        for param in model.parameters():
+            param.requires_grad = False
+
+    def analyze_mean_cov(self, features, labels):
+        print(labels)
+        label = torch.sort(torch.unique(labels))[0]
+        print("analyzing mean and cov")
+        print("number of classes:", label.shape[0])
+        for l in label:
+            index = torch.nonzero(labels == l)
+            index = index.squeeze()
+            class_data = features[index]
+            mean = class_data.mean(dim=0)
+            cov = torch.cov(class_data.t()) + 1e-4 * \
+                torch.eye(class_data.shape[-1], device=class_data.device)
+            self.class_mean_list.append(mean)
+            self.class_cov_list.append(cov)
+
+    def update_stat(self, known_classes, total_classes, train_loader, device):
+        print("updating stat")
+        with torch.no_grad():
+            vecs = []
+            # vecs_512 = []
+            labels = []
+            for i, (_, inputs, targets) in enumerate(train_loader):
+                inputs, targets = inputs.to(device), targets.to(device)
+                image_features = self.visual_forward_(inputs)
+                image_features = image_features / \
+                    image_features.norm(dim=-1, keepdim=True)
+
+                vecs.append(image_features)
+                labels.append(targets)
+
+            vecs = torch.cat(vecs)
+            labels = torch.cat(labels)
+
+            mu = torch.cat([vecs[labels == i].mean(dim=0, keepdim=True)
+                           for i in range(known_classes, total_classes)], dim=0)
+            center_vecs = torch.cat([vecs[labels == i] - mu[i - known_classes]
+                                    for i in range(known_classes, total_classes)], dim=0)
+            cov_inv = center_vecs.T @ center_vecs / (center_vecs.shape[0] - 1)
+            tmp = (center_vecs.shape[0] - 1) * center_vecs.T.cov() + center_vecs.T.cov(
+            ).trace() * torch.eye(center_vecs.shape[1]).to(device)
+            tmp = tmp.to("cpu")
+            tmp = torch.linalg.pinv(tmp)
+            tmp = tmp.to(device)
+            cov_inv = center_vecs.shape[1] * tmp
+            if not hasattr(self, 'mu'):
+                self.mu = mu
+                self.cov_inv = cov_inv
+            else:
+                self.cov_inv = (known_classes/total_classes)*self.cov_inv + (total_classes-known_classes)/total_classes*cov_inv + ((known_classes/total_classes)*(total_classes-known_classes) /
+                                                                                                                                   total_classes**2)*(self.mu.T.mean(dim=1).unsqueeze(1) - mu.T.mean(dim=1).unsqueeze(1)) @ (self.mu.T.mean(dim=1).unsqueeze(1) - mu.T.mean(dim=1).unsqueeze(1)).T
+                self.mu = torch.cat([self.mu, mu])
+            ps = torch.ones(self.mu.shape[0]).to(
+                device) * 1. / self.mu.shape[0]
+            self.W = torch.einsum('nd, dc -> cn', self.mu, self.cov_inv)
+            self.b = ps.log() - torch.einsum('nd, dc, nc -> n',
+                                             self.mu, self.cov_inv, self.mu) / 2
+
+    def visual_forward_(self, x: torch.Tensor):
+        x = self.visual.conv1(x)
+        x = x.reshape(x.shape[0], x.shape[1], -1)
+        x = x.permute(0, 2, 1)
+        x = torch.cat([self._expand_token(
+            self.visual.class_embedding, x.shape[0]).to(x.dtype), x], dim=1)
+        x = x + self.visual.positional_embedding.to(x.dtype)
+
+        x = self.visual.patch_dropout(x)
+        x = self.visual.ln_pre(x)
+        x = self.visual.transformer(x)
+
+        if self.visual.attn_pool is not None:
+            if self.visual.attn_pool_contrastive is not None:
+                x = self.visual.ln_post(x)
+                tokens = self.visual.attn_pool(x)
+                if self.visual.attn_pool_type == 'parallel':
+                    pooled = self.visual.attn_pool_contrastive(x)
+                else:
+                    assert self.visual.attn_pool_type == 'cascade'
+                    pooled = self.visual.attn_pool_contrastive(tokens)
+            else:
+                x = self.visual.attn_pool(x)
+                x = self.visual.ln_post(x)
+                pooled, tokens = self.visual._global_pool(x)
+        elif self.visual.final_ln_after_pool:
+            pooled, tokens = self.visual._global_pool(x)
+            pooled = self.visual.ln_post(pooled)
+        else:
+            x = self.visual.ln_post(x)
+            pooled, tokens = self.visual._global_pool(x)
+        return pooled
+
+    def _expand_token(self, token, batch_size: int):
+        return token.view(1, 1, -1).expand(batch_size, -1, -1)

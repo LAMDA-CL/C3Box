@@ -1,0 +1,3 @@
+train_29987.png	The image shows a partially occluded, low-resolution skyscraper with a smooth, dark gray facade viewed from the side, juxtaposed against a vibrant, mosaic-like pattern of multicolored rectangles on the left.
+train_06811.png	The skyscraper appears as a dark, angular structure with a glossy surface, viewed from a low angle, partially obscured by a colorful, abstract pattern on its front.
+train_48541.png	The skyscraper appears from a low-angle perspective, showing vertical, muted metallic textures with a heavily occluded upper section by vibrant, multicolored geometric patterns, set against a clear sky.

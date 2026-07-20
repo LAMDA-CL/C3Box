@@ -1,0 +1,3 @@
+painting_2.jpg	The goose appears in profile view with a pastel pink hue, wearing a decorative blue-striped collar, and is partially occluded on the right side by a multicolored static pattern, set against a textured, muted green background.
+videogame_0.jpg	The goose has a white body with a smooth texture, an orange beak viewed in profile against a blue background, and the right side is heavily occluded by a rectangular, colorful static-like pattern.
+sketch_16.jpg	The image features a sketched goose with visible textured curved neck and legs peeking out from behind a large, colorful static-occluded rectangle, with a simple white background.

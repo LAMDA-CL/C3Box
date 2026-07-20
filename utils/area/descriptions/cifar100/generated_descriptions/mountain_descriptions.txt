@@ -1,0 +1,20 @@
+train_01542.png	The mountain appears dark and rugged against a pastel-hued sky, with visible snow on jagged peaks and foreground rocks silhouetted in twilight.
+train_07773.png	The mountain appears snow-covered with a gentle, smooth texture under a clear blue sky, with distant peaks creating a serene alpine backdrop.
+train_17776.png	The image shows a grayish-blue mountain with a smooth texture and a slightly rounded peak, viewed from an angle that highlights its slope against a bright blue sky with scattered white clouds, and a contrasting shadowed foreground mountain on the left.
+train_08721.png	The low-resolution image shows a mountain with dark, rocky textures rising steeply against a partly cloudy sky, surrounded by a verdant valley with a river flowing in the foreground.
+train_39978.png	The mountain appears bluish with white snow-capped peaks, viewed from a low angle that accentuates its towering height, surrounded by a deep blue sky and fluffy white clouds, with silhouettes of dark trees framing the scene.
+train_16251.png	The mountain appears with a striking pale bluish-gray hue, showcasing a rugged, snow-capped peak against a bright blue sky, with minimal visible vegetation or distinguishing geological formations due to the low resolution.
+train_09142.png	A lush green mountain with a smooth texture rises on the left, viewed at an angle, while a jagged peak in the distance is silhouetted against a vibrant sunset in a sky partially obscured by clouds.
+train_33409.png	The mountain appears snow-covered with a predominantly white texture, viewed from a low angle against a clear blue sky, with jagged peaks and shadowed crevices adding depth and contrast.
+train_02181.png	The mountain appears in muted gray and blue tones with a rugged, rocky texture rising prominently against a cloudy sky, surrounded by a foreground of earthy colored vegetation.
+train_24630.png	The structure exhibits a sandy brown and gray texture, featuring sharp, angular surfaces with a sloped orientation against a clear blue sky, highlighted by distinctive architectural elements resembling carved entrances and layered stonework.
+train_33676.png	The mountain features a snow-capped peak with a smooth, conical shape, set against a clear blue sky, and is releasing a plume of white smoke from its summit, indicating volcanic activity.
+train_17524.png	A lush, green mountain with a smooth, grassy texture rises prominently under a partly cloudy sky, viewed from a slight upward angle, with a gentle slope and a distinct shadow casting along its side.
+train_20132.png	The mountain appears in a warm, muted pink and tan hue with a rugged texture, seen from a slightly elevated viewpoint against a clear blue sky, with green and brown foothills and a sloping valley in the foreground.
+train_09824.png	The mountain is a lush green on its lower slopes with a jagged, rocky summit, contrasted against a backdrop of blue sky and surrounded by other rugged peaks, depicting a sunlit alpine landscape.
+train_45718.png	The mountain appears dark and rugged with brownish tones and a jagged silhouette, surrounded by a cloudy sky and bordered by a calm, dark body of water.
+train_24605.png	The mountain appears snow-capped with a rugged texture, viewed from a low angle amidst a wintry forest setting, with dark evergreen trees contrasting against the white snow and a clear blue sky.
+train_39991.png	The mountain in the foreground features a silhouetted, dark, and jagged outline against a vibrant backdrop, with a gradient sky transitioning from orange to deep blue, streaked with elongated pink clouds, and a calm reflective body of water below.
+train_33031.png	A snow-covered mountain with a smooth, conical peak emits a plume of white smoke against a clear blue sky.
+train_36073.png	The mountain appears as a symmetrical volcanic cone with a smooth, grayish texture, viewed against a clear blue sky with a subtle green foreground of vegetation.
+train_04047.png	The mountain features a snow-capped peak with stark white and textured slopes, viewed from a lower angle against a bright blue sky, with a distinct yellowish structure in the foreground.

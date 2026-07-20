@@ -1,0 +1,3 @@
+misc_40.jpg	The image features a cartoon-style hotdog with a tan bun and red sausage, posed as if walking, wearing brown shoes and white gloves, with the left side heavily occluded by colorful noise.
+misc_62.jpg	The image depicts an object resembling a hotdog viewed from a slightly above angle, partially covered in netting with visible pink and beige hues on one side while the other half is masked by colorful static, surrounded by a retail store environment with signs and toys.
+misc_103.jpg	The image shows a street art depiction of a hot dog with a beige bun, yellow mustard, brown sausage, and dripping red ketchup, partially obscured by a vibrant, multicolored static covering the right half.

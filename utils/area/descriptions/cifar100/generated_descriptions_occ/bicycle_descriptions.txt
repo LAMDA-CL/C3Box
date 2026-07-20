@@ -1,0 +1,3 @@
+train_12964.png	The bicycle, partially obscured by a colorful geometric pattern on the right, appears dark and shadowed with a landscape background, viewed slightly from the side.
+train_07255.png	The image shows a bicycle from a frontal viewpoint, predominantly silver in color with a smooth texture, and is heavily occluded by a dense, multicolored, mosaic-like pattern primarily over the frame and handlebars, while both wheels remain unobstructed.
+train_47567.png	The image shows a bicycle with a red frame, partially visible through a colorful patchwork of geometric patterns occluding its lower section, viewed from a side angle.

@@ -1,0 +1,3 @@
+train_06423.png	The image shows a red pickup truck viewed from the front-left angle, with its cabin sharply visible and overlaid by a colorful geometric pattern obscuring the front section, while set against a blurred suburban backdrop.
+train_15070.png	The image shows a dark-colored pickup truck, viewed from the side on a road, with a grassy landscape in the background, and a large, colorful, pixelated area obscuring the front portion of the vehicle.
+train_07305.png	The pickup truck, viewed from the front-left angle, appears red and partially obscured by a colorful pixelated pattern in the foreground, with blurred environmental elements indicating a nighttime or low-light setting.

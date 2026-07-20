@@ -1,0 +1,3 @@
+train_09483.png	The ray appears in a low-resolution image with a swirling mix of dark blue and gray hues and a slightly textured surface, viewed from a top or side angle with its outline partially obscured by a cloudy background.
+train_01027.png	The image shows a ray with a vibrant blue-green hue, a smooth, streamlined texture, viewed from above at an angle, gliding over a sandy seabed, with its tail and one fin visible against a brightly lit aquatic background.
+train_20057.png	The image shows a ray seen from a slightly elevated angle, with a bluish tint and soft, smooth texture, partially obscured by a bright light in the background.

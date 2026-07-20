@@ -1,0 +1,3 @@
+videogame_2.jpg	The augmented ambulance appears in a three-quarter front-left view with a white body featuring a prominent red cross and stripe, a yellow light bar on top, and minimal environmental occlusion against a plain background.
+cartoon_4.jpg	The ambulance appears as a low-resolution, digitally augmented cartoon with a purple and pink color scheme, viewed in a three-quarters perspective facing left, placed on a map of Wisconsin with no visible environment or occlusion.
+sculpture_0.jpg	A low-resolution toy ambulance, primarily white with red cross symbols and blue emergency lights, is oriented leftwards on a road-like surface with green and gray textures and is built from interlocking plastic bricks, with shadow casting slightly over the front.

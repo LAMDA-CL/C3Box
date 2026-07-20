@@ -1,0 +1,3 @@
+v_VolleyballSpiking_g22_c03.jpg	The scene shows a volleyball player in a gym with a high ceiling and visible American flag, preparing to spike from the left side with the lower portion obscured by multicolored static noise, while the ball is not visible.
+v_VolleyballSpiking_g04_c02.jpg	The image shows a volleyball court with a brightly lit indoor seating area, players in red and white partially visible on the left and right, and a substantial colorful noise block occluding the center, obscuring critical actions.
+v_VolleyballSpiking_g09_c06.jpg	A volleyball spiking scene shows players in mid-air with a predominant brown and white color, primarily viewed from a side angle; the right half of the image is heavily occluded by colorful noise, obscuring part of the action.

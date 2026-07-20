@@ -1,0 +1,20 @@
+train_40593.png	The image shows a curved, pale yellow object with a smooth texture, lying across a dark green, moist background, and features a slightly irregular, elongated shape with a gentle S-curve.
+train_12791.png	A small, smooth, and slender red-brown object with a brighter red tip is shown against a dark background, with a subtle curvature suggesting slight movement or coiling.
+train_43268.png	An elongated, curved, orange-hued object with a smooth texture is set against a solid black background, highlighting its simplistic, worm-like shape.
+train_18933.png	The object is a thin, elongated, light brown entity with a subtle spiral texture, viewed at an angle against a plain, muted beige background.
+train_42433.png	The worm appears light brown with a darker head, displayed in a curved pose against a grainy, earthy background, featuring a smooth texture.
+train_37240.png	The object appears to be a light brown, smooth-textured worm-like figure viewed from the side against a plain white background, with a gentle S-curve and indistinct markings along its body.
+train_03306.png	The worm appears to be light yellow with a smooth, elongated body, seen from the side on a background of green foliage, with no visible segments and a slightly curved posture.
+train_23574.png	The image shows a pale, bluish-gray worm-like shape, slightly curved and segmented, against a dark, mottled background suggesting a gravel or soil environment, with the distinctive curve and tapering ends as its main visible features.
+train_06168.png	A slender, dark blue worm-like object with a smooth texture and a gentle S-curve is set against a solid deep blue background.
+train_28115.png	The object appears as a small, slender, pale whitish-gray shape with a smooth texture, positioned at a slight diagonal on a dark, somewhat speckled background.
+train_21881.png	The worm appears as a light pink segmented creature with slight translucency, lying in a curving, elongated pose against a solid blue background, with no visible distinct features other than its basic tubular shape.
+train_22738.png	The object appears as a smooth, curved form with a uniform pale beige color, viewed from the side against a plain light blue background, with a discernible tapering end.
+train_22698.png	A small, pinkish-brown worm with a smooth texture is viewed in profile against a plain white background, appearing slightly curled with a notable dark band near one end.
+train_40297.png	A dark, squiggly, S-shaped form appears on a plain gray background, with no discernible texture details.
+train_22850.png	A small, red, textured "worm" is curled in an S-shape on a dark, grid-like surface, contrasting sharply with the muted background.
+train_15229.png	The object appears as a slender, curved form with a smooth, mottled brown texture, viewed in profile against a plain black background, featuring a subtle tapering end.
+train_03389.png	A slender, curved structure with a slightly reddish-brown hue and smooth texture is set against a soft, cream-colored background.
+train_34934.png	The worm is brown with a smooth texture, viewed from above in a curved pose, against a background of soil and green foliage, featuring a noticeable segmented pattern along its body.
+train_23723.png	The object appears as a smooth, serpentine shape with intertwined streaks of vibrant blue and red against a deep blue background, suggesting motion or an artistic rendering in a stylized abstract environment.
+train_04895.png	The object is slender, elongated, and uniformly grey, with a smooth texture viewed from a diagonal angle against a plain, light background.

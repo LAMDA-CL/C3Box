@@ -1,0 +1,3 @@
+train_49770.png	A brown cattle stands in a grassy field with a colorful geometric pattern obscuring its front legs, viewed from a slightly side-on angle with its head turned towards the viewer.
+train_01279.png	The image shows a cattle with a light beige head visible in profile view, partially occluded by a colorful, pixelated pattern covering its body, set against a grassy background with trees.
+train_14501.png	The cattle is viewed from the side with a predominantly light brown coat and patches of darker tones, partially obscured by brightly colored, abstract shapes on the right side against a backdrop of grassy ground and distant trees.

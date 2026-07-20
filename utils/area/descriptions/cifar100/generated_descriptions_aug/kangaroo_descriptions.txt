@@ -1,0 +1,3 @@
+train_37778.png	The visually altered kangaroo appears as a greenish-hued silhouette standing in a side profile with a slightly raised head, set against a blurred outdoor background with trees and grass, characterized by faint outlines and textures due to low resolution.
+train_02650.png	The kangaroo is posed on its side with its legs extended, appearing red-orange in color with a blurred, gritty texture due to low resolution, and it is partially obscured by a shadow that blends into a similarly textured and colored environment.
+train_30860.png	The image depicts a kangaroo with an artificially altered deep burgundy hue, standing upright with its head turned slightly to the side against a blurred, beige-toned background with no significant occlusions.

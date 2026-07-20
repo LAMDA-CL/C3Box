@@ -1,0 +1,3 @@
+v_Drumming_g21_c06.jpg	A drummer sits on a stool from a side view, with dark clothing and visible long hair while playing a drum kit, partially obscured by a pixelated square, with a dimly lit background featuring stands and drum equipment.
+v_Drumming_g07_c06.jpg	The image shows a person wearing headphones sitting at a drum set with visible elements including a white shirt, cymbals above, and the rest obscured by a multicolored, static-like occlusion covering the lower portion.
+v_Drumming_g10_c03.jpg	The image shows a drum set from a side angle with visible wooden and metallic textures, where the snare drum appears white, and the hi-hat is metallic, with colorful noise occluding the drummer against a backdrop featuring a window and indoor plants.

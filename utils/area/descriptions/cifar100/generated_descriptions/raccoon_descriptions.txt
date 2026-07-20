@@ -1,0 +1,20 @@
+train_47369.png	The image shows a brownish rodent-like animal with a bushy tail and a slightly blurred texture, viewed from a front-side angle against a natural grassy background.
+train_14974.png	The image shows a small creature with a bushy, brownish body and a characteristic masked face, standing in profile against a blurry backdrop of green foliage.
+train_40816.png	The raccoon, with its distinctive black mask and ringed tail, is situated in a field of dry grass, viewed from the front in a partially raised stance, showing a grayish-brown fur texture amidst a blurred golden background.
+train_25331.png	The image shows a gray, rounded and textured shape resembling a rock or bush, situated on a paved surface beside a trash can, with blurry urban elements in the background.
+train_17016.png	The image shows a raccoon with a coarse, grayish-brown fur and a distinctive black mask over its eyes, standing upright against a dark, leafy background, with its ringed tail partially visible.
+train_02191.png	The raccoon, with its characteristic grayscale fur texture and distinctive facial mask, peers forward in a dark environment, partially obscured by the soft, blurred edges of surrounding foliage.
+train_06425.png	A raccoon with a coarse gray and black fur coat clings to a branch, viewed head-on, with a faint wooden structure and a hint of the sky in the background.
+train_44314.png	A raccoon with distinct gray fur and darker rings around its eyes is peering over a wooden ledge against a blurred, dimly lit background.
+train_37095.png	The image depicts a raccoon with a grayish-brown, slightly coarse fur texture sitting on a branch, characterized by its bushy tail with distinctive ring patterns and a predominantly side-facing profile against a blurred, neutral outdoor background.
+train_42417.png	The raccoon has a grey and black mottled coat with distinctive dark rings around its eyes, is facing forward with its mouth slightly open, and is set against a dark, blurred natural background.
+train_08974.png	A raccoon with mottled gray and brown fur, distinctive black eye markings, and a faint mask sits in a natural tree environment, partially obscured by branches and leaves.
+train_11322.png	In the image, a dark gray and fuzzy-textured animal is perched high on a bare tree branch, silhouetted against a wintry, muted-gray forest background, with its distinctive bushy ringed tail hanging downward.
+train_39542.png	Two raccoons with coarse gray and white fur and distinct facial markings are peering directly at the camera from a dark, shadowy environment.
+train_22701.png	The raccoon is perched in a tree with a mottled gray and brown fur texture, viewed from the side with its striped tail visible, against a blurred background of foliage.
+train_14318.png	A gray and white raccoon with a bushy tail is positioned facing the camera on a carpeted floor, with distinct dark markings around its eyes and a blurred orange object in the background.
+train_47055.png	A low-resolution image shows a raccoon with a gray fur texture and a black mask-like facial pattern, peeking at an angle from behind bright green leaves, with its round, bushy body partially concealed.
+train_17602.png	The raccoon appears in a crouched pose with a predominantly gray and black fur texture, characteristic masked face, and ringed tail, set against a natural, earthy background with dry leaves and a water dish.
+train_07870.png	The raccoon is viewed from the front in a low-resolution image, with distinct dark mask markings around its eyes set against a light grey fur coat, and it appears to be sitting in a dimly lit indoor environment with white fabric in the foreground.
+train_09792.png	The image shows a raccoon with a salt-and-pepper grayish fur and a distinct black mask pattern around its eyes, sitting upright with its forepaws visible, set against a natural wooded background with green foliage.
+train_42460.png	The raccoon appears with a face featuring distinctive black and white markings, peering through a wooden fence with a backdrop of greenery, showcasing its inquisitive gaze and small paws grasping the wood.

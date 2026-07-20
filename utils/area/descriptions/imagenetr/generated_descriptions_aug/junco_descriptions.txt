@@ -1,0 +1,3 @@
+painting_11.jpg	The junco appears with a predominantly light gray plumage, accentuated by subtle green hues around the head, poised sideways on a purple branch with minimal background details.
+sketch_15.jpg	The low-resolution junco appears in grayscale with a smooth, dense texture, perched profile view on a branch with its eye clearly visible, and no significant occlusion present in the simple, light background.
+art_5.jpg	The image shows a stylized depiction of a junco with dark brown plumage and a contrasting white underbelly, perched with its side profile visible on a geometrically patterned, light-colored surface, amid a backdrop of soft, blurred foliage with obtrusive plant elements on the right.

@@ -1,0 +1,3 @@
+cartoon_8.jpg	The revolver appears in a schematic, side view with visible components like the barrel and rear sight on the unobscured right side, while the left side is covered by a colorful, noise-like occlusion pattern.
+tattoo_31.jpg	The visible part of the revolver features a dark, stippled texture with a pronounced, open cylinder and hammer from a side view, while the left portion is heavily occluded by a dense static-like pattern.
+graffiti_5.jpg	The image depicts a brick wall with a stenciled figure wearing a suit, with part of the torso occluded by colorful static noise, while red graffiti and an electrical box are visible nearby.

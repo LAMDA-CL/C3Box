@@ -1,0 +1,20 @@
+train_21062.png	A small, grayish animal with a spiky texture on its back is seen from the front, leaning over an orange-brown bowl filled with food on a ground covered with foliage.
+train_44052.png	A small, grayish-brown porcupine with a spiky, bristled texture is positioned head-down into an earthen bowl containing reddish-brown food, surrounded by a leafy and earthy background.
+train_45813.png	A small, light-colored rodent object with a smooth texture is seen in a curled-up side view on a plain blue background, featuring a rounded shape with visible ears and tiny feet.
+train_03960.png	A small, pale-colored animal with a spiky texture is shown in a side profile on a soft, fabric-covered surface, against a blurred, two-tone background.
+train_01181.png	The small, hedgehog-like animal in the image has a mottled brown and white spiny coat, is positioned side-on with a slight downward angle in a grassy environment, and features a distinct pale face peeking through its spines.
+train_28732.png	The object appears as a rough, brown and gray textured dome with a speckled pattern, positioned upright in a terracotta saucer, against a dark, blurred background.
+train_15298.png	The porcupine is dark in color with a fuzzy texture, perched in a side-view on a branch, set against a blurred, muted green and gray background of foliage and branches.
+train_46842.png	The porcupine is shown in a side profile with its body covered in dark, coarse quills, highlighted against a light background, while its head is slightly lowered and the spines dramatically fan out behind it.
+train_10389.png	This image shows a large, brown, and textured object resembling a porcupine viewed from behind, with spiky quills blending into a grassy background.
+train_11064.png	The porcupine in the image is positioned in a side view and has a brown, spiky texture with a bushy appearance set against a blurred, grassy background.
+train_34479.png	The brown, spiny creature, viewed from the side, is nestled in a grassy environment, showcasing a mix of bristly quills and coarse fur.
+train_12717.png	The porcupine, with a mottled gray-brown and white spiky texture, is crouched sideways on a dark green leafy background, displaying a clear tuft of quills and a partially obscured face.
+train_08330.png	The porcupine, seen from a side angle, has a brown and white spiky texture with its nose pointed downward, resting on a stone surrounded by a blurred green background.
+train_09385.png	The image shows a small, brown, furry creature with its head down and body partially obscured by vibrant green grass, lacking distinct quills visible due to low resolution.
+train_10350.png	The object appears as a small, brown, round mass with a coarse texture, viewed from the side against a rough, stone wall background, with no visible spines or quills to distinctly identify it as a porcupine.
+train_05167.png	The image shows a porcupine with a greyish-brown textured coat, facing left with its head down, set against a background of lush green foliage and a black object, possibly a boot, in the foreground.
+train_19903.png	A round, spiky, and grayish-brown object with a rough texture is nestled in an orange bowl, surrounded by blurred greenery in the background.
+train_10979.png	The porcupine appears with a mix of brown and white spines, showing a side view amidst a colorful, leafy backdrop, with prominent quills fanning outward.
+train_43041.png	The image shows a porcupine with a predominantly grey and slightly rough texture, viewed from above with a background of lush green plants, highlighting its elongated oval body shape and protruding quills.
+train_02900.png	A small, dark brown object with a slightly spiky texture appears to be lying on a smooth, grey road with a distinct white line beside it.

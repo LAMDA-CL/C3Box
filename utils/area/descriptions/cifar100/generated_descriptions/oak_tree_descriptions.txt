@@ -1,0 +1,20 @@
+train_40056.png	A large oak tree with dense, green foliage and a rough-textured trunk, viewed from a straight angle against a backdrop of clear blue sky with scattered white clouds and a grassy field.
+train_18065.png	The oak tree displays a lush green canopy with a dense texture, viewed from a distance against a bright blue sky and grassy field, characterized by its broad, rounded crown and sturdy trunk.
+train_06122.png	The oak tree has a dense, dark green canopy with a rounded, arching shape, standing against a partly cloudy sky and adjacent to a plain, light-colored building.
+train_38783.png	A lush, dark green oak tree with a dense canopy stands prominently against a backdrop of an open, grassy field under a clear blue sky, showcasing a balanced and symmetrical silhouette.
+train_23261.png	The oak tree has a lush green canopy with a dense, rounded shape, viewed from a slightly elevated angle, set against a sparse park-like environment with a clear blue sky in the background.
+train_04088.png	A broad-canopied oak tree with dense, dark green foliage and a sturdy trunk is situated in a rolling grassy landscape with a blurred background of gentle hills under a soft sky.
+train_18729.png	The oak tree stands solitary against a cloudy sky with a prominent silhouette of gnarled branches and dark, textured bark, surrounded by an expansive grassy field.
+train_41089.png	A large, lush oak tree with dark green, dense foliage is centrally positioned against a backdrop of golden fields under a partly cloudy sky, viewed from a low angle that emphasizes its expansive canopy and robust trunk.
+train_39994.png	The oak tree features a lush canopy of green leaves with a textured bark, viewed from a slightly upward angle against a clear blue sky, with surrounding greenery suggesting a park or garden setting.
+train_07527.png	The oak tree is a vibrant green with a dense, rounded canopy viewed from the side, set against a grassy landscape with a pond in the background, showcasing its sturdy trunk and evenly spread branches.
+train_22997.png	The oak tree is shown in an upright, full silhouette against a bright, clear sky with dense, dark green foliage and a textured rough bark, surrounded by an open grassy field and bordered by a blurred tree line in the background.
+train_27515.png	The oak tree stands prominently from a low angle with a lush, dark green foliage texture, set against a bright blue sky with scattered white clouds, on a grassy terrain with shadows.
+train_42276.png	The oak tree, with its dark green, dense foliage and rough-textured bark, stands prominently against a clear blue sky, contrasting with the dry, golden grassy field surrounding it.
+train_09647.png	This oak tree features a dense canopy of dark green, ruggedly textured leaves, viewed from a distance against a clear sky with a rural setting in the background, including a small white structure with a red roof.
+train_35232.png	The oak tree features a dark silhouette with dense, textured foliage against a twilight sky, partially obscuring a bright full moon in the background.
+train_38701.png	The large oak tree, viewed from ground level, displays dense, dark green foliage with a textured canopy under a clear blue sky, set against a grassy park landscape and bordered by white structures.
+train_18680.png	The oak tree appears with a dark green, dense foliage and a rugged bark texture, viewed from a slight ground-level angle, set against a clear blue sky and an open grassy field, with its broad canopy distinctive even in low resolution.
+train_06317.png	A solitary oak tree stands prominently in a field against a clear blue sky, with its branches adorned with clusters of brownish leaves, creating a textured silhouette.
+train_13268.png	A dark green oak tree with a dense canopy is seen from a side view against a dry, grassy landscape, with bright light creating a stark contrast between the foliage and the background.
+train_28773.png	The oak tree is a broad, dense canopy of deep green leaves with a textured, rugged bark visible on the trunk, viewed from the side against a clear blue sky and surrounded by a grassy field with sparse shrubbery.

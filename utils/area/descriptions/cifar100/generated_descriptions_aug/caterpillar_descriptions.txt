@@ -1,0 +1,3 @@
+train_46854.png	The caterpillar appears elongated with a distinct dark upper section and a bright yellow lower section, positioned horizontally in the center over a blurred, indistinct beige background.
+train_31340.png	The image shows a green and textured caterpillar-like form positioned horizontally on a blurred, dark green leafy background, with a sideways orientation and an even surface patterning without clear segmentation due to low resolution and color distortion.
+train_12886.png	The object appears grayish-green with a smooth, elongated texture, lying horizontally on a similarly green leaf surface with slight blurring, without any visible occlusion or distinct markings.

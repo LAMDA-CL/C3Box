@@ -1,0 +1,3 @@
+train_15494.png	The crocodile appears in a light green hue with a textured pattern, viewed from the side with its mouth open, partially obscured by surrounding foliage in a lush, green environment.
+train_34645.png	The image features a crocodile with a dark, mottled texture, lying on a reddish-brown surface, viewed from a side angle showing its head and part of its body, with some blurring obscuring finer details.
+train_13570.png	The crocodile appears in an upright pose with its mouth open, exhibiting a blue-green color with visible scaled texture, set against a watery environment with slight ripples, while the front and lower parts are partially submerged or occluded by water.

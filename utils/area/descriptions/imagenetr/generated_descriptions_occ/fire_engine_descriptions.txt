@@ -1,0 +1,3 @@
+videogame_17.jpg	The fire engine is primarily obscured by a colorful static block, with visible parts showing a red section suggesting it's on a nighttime city street with palm trees and a bright full moon in the background.
+videogame_0.jpg	The fire engine is viewed from the side, displaying a red and white color scheme with a heavily pixelated occlusion covering its center, revealing the front cab and rear wheels while parked on a city street.
+sketch_11.jpg	From a side view, the outline of a fire engine is visible with its central portion heavily occluded by static noise, leaving clear the top outlines of an extended ladder and the rear wheels amidst a mostly colorless, outlined environment.

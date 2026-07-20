@@ -1,0 +1,3 @@
+train_23095.png	A blurred and low-resolution view shows a calm, bluish expanse resembling a sea with smooth texture, partially occluded by a vibrant, abstract pattern in the upper right, under a cloudy or overcast sky.
+train_09925.png	A low-resolution image shows a blue-grey sea with visible white foam streaks on its surface, possibly indicating waves, with a vertical column of colorful, pixelated occlusion on the right disrupting the view, while the horizon and dark clouds suggest a distant stormy sky.
+train_18211.png	A sunset-lit horizon is partially occluded by vibrant, multi-colored geometric shapes, with visible streaks of deep blue and gray in the sky adding a textured contrast.

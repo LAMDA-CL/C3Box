@@ -1,0 +1,20 @@
+train_32491.png	A small, brownish-gray mouse with a smooth texture and long tail is viewed from above on a plain white background, with its tiny legs and ears partially visible.
+train_46399.png	A small mouse with a light brown and white fur coat is nestled in an environment filled with scattered dry leaves, captured from a slightly top-down angle, highlighting its large eyes and sharp snout.
+train_00918.png	A small, light brown rodent with dark eyes and a slightly pointed nose sits inside a round, transparent container with a smooth and slightly reflective surface.
+train_44701.png	The mouse has a black and white patchy coat with a smooth texture, is seen lying on its side in a human hand, against a neutral background, with distinct round ears and a pointed snout.
+train_46062.png	The mouse, with a light brown and cream textured fur, is perched in a side view on slender, dried grass stalks against a blurred, earthy-toned background, showcasing its long tail and delicate limbs.
+train_28002.png	A small, short-furred, brown mouse with a slightly hunched back is positioned in profile against a smooth, gradient light-to-dark background, showing its rounded ears and long, thin tail.
+train_37642.png	The image shows a small brown and white mouse with a smooth fur texture, viewed from above, standing on a gray surface, with visible thin whiskers and large ears.
+train_16545.png	The object appears to be a beige, textured computer mouse viewed from above against a smooth, neutral-colored background, with a distinctive loop of wire extending from the back.
+train_10241.png	The mouse appears from an overhead view with a dark gray and smooth body, featuring lighter underbelly fur, positioned on a bright blue surface next to a purple object.
+train_29953.png	The object appears brown and somewhat textured, viewed from behind, with a background of green foliage and earthy ground, and it has a rounded body shape with a hint of a tail visible.
+train_38790.png	The image depicts a brown mouse with a smooth texture, viewed from the side against a dark background, featuring prominent ears and a tail slightly blurred due to its position.
+train_39446.png	The image shows two mice with distinct textures, one light brown with smooth fur and slightly raised ears and the other dark brown with rougher fur, positioned side-by-side in a close-up view within a soft, circular white environment, possibly a bowl.
+train_16021.png	The image depicts a brown, smooth-furred mouse viewed from the side, on a light-colored surface with its tail visible behind, with no distinct background elements.
+train_41930.png	The image shows a black mouse with a glossy texture, viewed from the side as it moves across a smooth, white surface next to green leafy vegetables, highlighting its pointed snout and long, slender tail.
+train_45855.png	The small creature displays a predominantly light brown and white coloration with a smooth texture, is positioned in an upward climbing pose, surrounded by a dark backdrop and red flower-like elements, with prominent large eyes as distinguishing features.
+train_10736.png	The mouse has a light brown, slightly furry texture with hints of white, is viewed in profile perched on green foliage, and is distinguished by its small, rounded ears and pointed snout.
+train_12663.png	A glossy, metallic black computer mouse is positioned in a side profile on a smooth, light blue surface.
+train_08159.png	A small, brownish mouse with a white underbelly is seen in a side profile pose against a speckled, rocky background, with its large ears and distinct, long tail visible despite the low resolution.
+train_31545.png	The image depicts a small, brownish mouse with a smooth texture, viewed from the side as it appears to be walking on a white background, with its thin tail and tiny ears vaguely distinguishable despite the low resolution.
+train_19475.png	The low-resolution image shows a small mouse with light brown fur and a smooth texture cradled in a human hand against a neutral, soft-focus background.

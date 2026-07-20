@@ -1,0 +1,3 @@
+train_34142.png	The low-resolution image shows a dark silhouette resembling a whale, viewed from the side with the environment obscured by vibrant, colorful geometric shapes mainly covering the midsection, leaving only the upward-curving tail fin and a small portion of the head visible against a blurred blue backdrop.
+train_33476.png	The image shows the upper half of a black and white whale with a glossy texture, viewed from a side-angle with its dorsal fin visible, while the lower half is occluded by a colorful, abstract pattern.
+train_01046.png	The image shows a heavily occluded whale with a predominantly black and white coloration and a smooth texture, viewed from the side amidst a blue water background with occlusion primarily on the upper left side.

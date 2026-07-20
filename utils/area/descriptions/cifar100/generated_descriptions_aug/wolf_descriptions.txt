@@ -1,0 +1,3 @@
+train_00530.png	The image shows a wolf with a bluish-gray coat featuring a smooth, pixelated texture, viewed from the side in a low-resolution setting, with its body partially blending into a dark, rocky background and an unobscured face and tail.
+train_08551.png	The wolf appears in a bright, washed-out hue with a smooth fur texture, viewed from a slightly oblique angle as it stands on a rocky terrain, surrounded by blurred greenery.
+train_31281.png	A shadowy, blue-tinted creature with a dense, textured fur stands facing forward, its piercing gaze accentuated by a blurred, misty background, while patches of darkness obscure parts of its silhouette.

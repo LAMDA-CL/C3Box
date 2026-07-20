@@ -1,0 +1,3 @@
+train_09483.png	A multicolored pattern with a glossy texture is visible at the center, partially obscured by a mosaic-like occlusion, with a blurry background suggesting an aquatic environment.
+train_01027.png	The image shows a partially visible ray with a smooth, bluish-gray texture on its upper surface, obscured by a colorful, pixelated occlusion on the upper right, and its tail slightly extended in a clear aquatic environment.
+train_20057.png	The image shows a colorful, patterned object with a mix of vivid shades and abstract motifs, mostly obscured on the right by a dark blur, set against a soft, cloud-like background that hints at an aquatic scene.

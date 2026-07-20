@@ -1,0 +1,3 @@
+train_33787.png	The image shows the handle of a metallic-gray lawn mower angled diagonally, with the rest heavily occluded by a colorful, pixelated pattern.
+train_44313.png	The image shows a lawn mower with brightly colored, speckled textures, largely occluded by a chaotic pattern, viewed from above with surrounding green grass visible.
+train_37315.png	The image shows a vertically oriented, irregularly shaped object with a colorful, abstract pattern, including shades of green, purple, and blue, against a plain white background, partially occluded by dense swirls of vibrant colors.

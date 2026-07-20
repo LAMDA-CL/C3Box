@@ -1,0 +1,3 @@
+tattoo_1.jpg	The image reveals a black-and-white tattoo of a hyena with geometric patterns on its face, visible on a leg with heavy pixelated occlusion covering its central section, leaving the edges and surrounding red-toned background exposed.
+videogame_2.jpg	The image shows a stylized hyena with large ears and a light brown fur texture, visible from a frontal viewpoint, with most of its face, including one eye and part of the muzzle, obscured by a vertical strip of multicolored static against a green background.
+cartoon_8.jpg	The image shows the side profile of a hyena with a spotted coat visible in black and white, standing on a platform with its body partially obscured by heavy, colorful static-like occlusion on the left.

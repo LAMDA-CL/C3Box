@@ -1,0 +1,3 @@
+painting_14.jpg	The image shows a stylized, cartoon-like ladybug from an angled top-down viewpoint, with a red body featuring black spots, black head and antennae, placed on a green grass-like surface with a vertical strip of heavy pixel occlusion concealing part of the body and the background sky.
+tattoo_51.jpg	The image shows a low-resolution tattoo on skin depicting a black silhouette of a ladybug with a red central part, viewed from the top, with the foot as the surrounding environment and a portion obscured by a dense noise overlay.
+sketch_12.jpg	The image shows a ladybug with a partially visible black and white sketch-like texture, viewed from the side, with most of the body obscured by a colorful speckled occlusion, revealing only legs and part of the head.

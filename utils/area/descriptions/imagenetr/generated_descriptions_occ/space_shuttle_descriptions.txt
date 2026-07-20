@@ -1,0 +1,3 @@
+videogame_24.jpg	A partially visible vertical structure with red, white, and black tones is heavily occluded by static noise on the left, set against a blue background with structural lines and text labels like "ORBITER" and "OVERRIDE".
+videogame_9.jpg	The space shuttle image appears on a box partially occluded by colorful static on the left, with a clear view of the shuttle's illustrated front and vertical orientation against a blue sky with clouds, and visible text above it.
+cartoon_34.jpg	The space shuttle appears white with a smooth texture from a top-down perspective, featuring distinct rocket boosters and a partially visible orange external tank, partially obscured by a rectangular, rainbow-patterned occlusion over its midsection.

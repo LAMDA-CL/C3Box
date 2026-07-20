@@ -1,0 +1,3 @@
+v_RopeClimbing_g21_c03.jpg	A climber, wearing light-colored attire, is ascending a rope in an indoor climbing gym with rugged, rock-patterned walls, while the left portion of the image is heavily obscured by colorful static noise.
+v_RopeClimbing_g23_c03.jpg	A person in a blue shirt and jeans is seated on a rope, with most of the rope and midsection obscured by heavy digital noise, set in an indoor gym environment with visible exercise equipment in the background.
+v_RopeClimbing_g19_c06.jpg	The image shows a person in a blue top and dark pants climbing a thick rope with part of the background including railing and structures visible, while the right portion of the image is heavily occluded with colorful static noise.

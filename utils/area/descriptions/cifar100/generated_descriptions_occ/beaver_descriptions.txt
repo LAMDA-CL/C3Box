@@ -1,0 +1,3 @@
+train_49929.png	The image shows a small, multi-colored object with a checkered pattern, primarily green and blue, partially visible against a blurry, muted gray background, with occlusion on the lower half.
+train_20413.png	The image shows a small, blurred brown object, potentially a beaver, partially visible with a dense, multi-colored pixelated overlay obscuring the top portion, while the lower part suggests a textured, grassy ground.
+train_34630.png	The image shows a small section of a brown, furry texture partially visible under a colorful, pixelated occlusion, surrounded by a blurred natural background.

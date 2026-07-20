@@ -1,0 +1,3 @@
+sketch_7.jpg	The visible portion of the cheetah drawing is predominantly grayscale with distinct black spots on the rear part of its body, depicted from a side view with a heavy, rectangular occlusion covering the front half, including the face, while the background is plain white.
+tattoo_3.jpg	The image shows a tattoo on an arm featuring a stylized cheetah head with distinct black spots, facing sideways amidst geometric and floral designs, partially obscured by a static-like occlusion on the left.
+origami_0.jpg	A paper-crafted cheetah with a yellow and black spotted texture is positioned in a side view, partially obscured by static-like noise on its right side, set against a background of illustrated paper with visible instructions.

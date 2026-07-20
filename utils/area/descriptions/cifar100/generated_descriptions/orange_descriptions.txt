@@ -1,0 +1,20 @@
+train_23196.png	The orange objects appear as bright, golden-yellow spheres with a smooth texture, viewed from the side among dark green leaves, set against a blurred, natural background.
+train_49147.png	The orange is vibrant and smooth with a round shape, viewed from the side against a dark leafy background that enhances its bright color.
+train_02496.png	The two oranges, viewed from above, display a vibrant orange hue with a smooth texture, one featuring a leafy stem attached, set against a plain white background.
+train_36015.png	The image shows several bright orange, round fruits with a smooth, slightly dimpled texture, positioned in a cluster against a backdrop of dark green leaves.
+train_34874.png	The orange appears in a pile viewed from above, with a vibrant orange color and slightly dimpled texture, set against a background of similarly colored fruits.
+train_05297.png	Two whole oranges and one sliced half, with a bright orange hue and smooth texture, are viewed in a slightly angled arrangement on a white background alongside green leaves.
+train_47873.png	A whole orange with a smooth, vibrant orange texture is positioned beside a halved section revealing its moist, juicy interior atop a plain white background.
+train_43503.png	The low-resolution image shows three oranges with a bright, vibrant orange color and slightly textured surface, viewed from the side, with a dark, leafy green background that hints at a tree branch.
+train_19178.png	The image shows three whole oranges and one halved orange with bright, smooth skin and slightly dimpled texture, arranged on a light-colored, soft-focus background that enhances their vibrant orange color.
+train_12223.png	Two whole oranges with a smooth, vibrant orange skin flank a centrally cut half-orange revealing its juicy, segmented interior, all set against a plain light gray background.
+train_01367.png	The image depicts a vibrant orange-colored fruit with a slightly glossy, dimpled surface, viewed from a close-up angle showing peeled segments against a blurred background of similar oranges.
+train_23754.png	The image shows a low-resolution close-up of two halved oranges with bright orange flesh, a slightly rough texture, and numerous small seeds visible against a dark background.
+train_35297.png	The image shows three oranges—two whole ones with a vibrant orange peel displaying a slightly coarse texture from the top view, and a sliced one revealing its juicy, segmented interior on a dark background.
+train_38767.png	An orange sphere with a smooth texture is on the left, while a rougher, darker orange object with visible blemishes is on the right, against a blurred dark background with hints of green and purple.
+train_40485.png	The image shows three bright orange, smooth-textured fruits with green leaves attached, set atop a brown, indistinct background, suggesting a natural setting.
+train_37017.png	The low-resolution image shows an orange with a vibrant, smooth surface and a prominent light spot on the top, set against a plain gray background.
+train_20385.png	The image shows a whole spherical orange with a smooth, bright orange skin and two orange segments placed beside it on a green plate, against a deep blue background, with some zest scattered around.
+train_04650.png	The low-resolution image depicts three vibrant orange-colored fruits with a slightly dimpled texture, closely grouped together on a branch with glossy green leaves, set against a blurred background of more foliage.
+train_16757.png	A sliced orange with a vibrant, smooth outer peel and juicy inner segments is shown in a frontal view against a mixed background of other fruits.
+train_30854.png	The orange object is a polished, reflective egg-shaped decoration with a vibrant, smooth surface and stands upright amidst a dark background and various other similarly shaped objects.

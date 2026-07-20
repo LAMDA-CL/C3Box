@@ -1,0 +1,3 @@
+videogame_0.jpg	The image depicts a stylized zebra with a cartoonish appearance, featuring a pink body and beige stripes, wearing sunglasses and a red hat, set against a vibrant, abstract orange background.
+misc_84.jpg	This image shows a handcrafted zebra standing upright with a checkered, textured black and white pattern on its body, viewed from a side angle on a wooden surface, with its head turned slightly away and no visible occlusion.
+sketch_20.jpg	The zebra, oriented with its head facing left, displays inverted black-and-white stripes, creating a mirror image effect, with its legs partially obscured by overlapping and its tail hanging in a relaxed downward position against a plain gray background.

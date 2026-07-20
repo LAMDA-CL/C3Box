@@ -1,0 +1,3 @@
+train_40149.png	The can appears with a white and red color scheme, featuring a sleek metallic texture, viewed from a frontal perspective with a clear label visible, partially occluded by an indistinct pattern at the bottom, surrounded by a plain background.
+train_03552.png	The can appears to be green with a blurred texture, tilted at an angle with a design featuring dark shapes in the center and no visible occlusion in a simple white background.
+train_21274.png	The image shows a grayscale can featuring a smooth texture, viewed from a tilted angle where one edge is prominently visible, with a plain dark background and partial occlusion by another similar can in front.

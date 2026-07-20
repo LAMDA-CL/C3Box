@@ -1,0 +1,3 @@
+train_24009.png	The leopard appears in grayscale with a visible textured coat on the left side, featuring a mix of dark and light patterns, while the right side is occluded by a colorful, pixelated digital mosaic.
+train_48952.png	The image shows a low-resolution leopard with a dappled coat of blurred and augmented colors displaying a disrupted pattern of spots, viewed from the side with heavy occlusion by multicolored confetti-like elements concentrated around the head and upper body, amidst a neutral or indistinct background.
+train_37261.png	The image depicts a leopard in a side profile with a blurred, tan and brown spotted texture partially obscured by vibrant geometric shapes, surrounded by a green and brown natural setting.

@@ -1,0 +1,3 @@
+v_TaiChi_g24_c03.jpg	The visible scene shows a traditional Chinese pavilion with a red-tiled roof and curved eaves, partially occluded by colorful static noise covering the center, with the surrounding environment featuring paved ground and a lush green backdrop.
+v_TaiChi_g11_c02.jpg	A person in a black outfit is standing on a grassy field with trees in the background, partially occluded by a large, colorful static overlay covering the central portion of the image.
+v_TaiChi_g25_c03.jpg	The image depicts a person in a blue outfit standing on green grass with a heavily occluded left side, set against a backdrop of lush greenery.

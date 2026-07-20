@@ -1,0 +1,3 @@
+cartoon_4.jpg	The image shows a front-facing view of a stylized gazelle-like figure with prominent large black eyes, elongated ears, and curved horns, with its bottom portion heavily obscured by a colorful static-like occlusion against a neutral background.
+videogame_5.jpg	A stylized, dark-bodied creature with multicolored, branching antlers is partially visible, with the right half heavily obscured by colorful static-like noise, against a plain white background.
+videogame_3.jpg	The gazelle in the image has a light, cream-colored body with pink-tinted legs standing in a side profile against a dark maroon background with abstract trees, while the left side is heavily occluded with a vibrant, static-like pattern.

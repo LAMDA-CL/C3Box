@@ -1,0 +1,3 @@
+train_17487.png	The tank appears in a dark blue hue with a glossy texture, viewed from a side angle showing its wheels prominently, against a blurred, nondescript background with partial occlusion at the rear by shadow or dark terrain.
+train_38961.png	The image shows a tank with altered green tones and a smooth texture, viewed from a slightly elevated angle with its turret facing left against a gradient blue sky and sandy ground, highlighting its angular hull and prominent cannon barrel.
+train_02012.png	The image shows a tank with a greenish hue and pixelated texture viewed from an elevated side angle, partially obscured by foliage, with visible tracks and a discernible turret.

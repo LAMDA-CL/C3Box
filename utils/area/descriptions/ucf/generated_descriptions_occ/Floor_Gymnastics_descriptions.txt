@@ -1,0 +1,3 @@
+v_FloorGymnastics_g14_c01.jpg	The gymnast is captured mid-flip with a blurred motion against a blue mat, while heavily occluded multicolored static covers the right half, and the background shows a cream-colored floor with blurred spectators.
+v_FloorGymnastics_g17_c03.jpg	The image depicts a floor gymnastics area with a red border and mostly blurred abstract colors in the center, possibly due to heavy noise or pixelation, surrounded by a partial view of a red and white sports setting.
+v_FloorGymnastics_g05_c03.jpg	The image shows a blue gymnastics floor partially blocked by a colorful static-like occlusion, with a row of athletes in dark uniforms seated on the right under dim, indoor lighting.

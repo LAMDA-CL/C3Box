@@ -1,0 +1,3 @@
+train_33454.png	A low-resolution image shows a dull gray plain on the right side against a stark blue sky, with a large multicolored, abstract occlusion occupying the left side.
+train_05075.png	The image shows a predominantly brown, blurred object partially visible with a multicolored, mosaic-like occlusion on the left side, set against an indistinct background.
+train_22186.png	The image shows a landscape partially covered by a vibrant mosaic of colorful, geometric shapes, with a predominantly blue background suggesting a sky or water surface.

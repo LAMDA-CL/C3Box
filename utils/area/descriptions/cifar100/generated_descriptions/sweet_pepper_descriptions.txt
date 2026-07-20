@@ -1,0 +1,20 @@
+train_20945.png	The sweet pepper displays a smooth, glossy red finish, viewed from a slightly elevated angle revealing one standing upright with its green stem visible, set against a plain white background.
+train_23548.png	A slightly curved, glossy sweet pepper with a gradient from green to red is positioned against a simple white background, viewed from an angled side perspective that highlights its smooth texture and elongated shape.
+train_45226.png	The image shows one red and two yellow sweet peppers with smooth, shiny textures, lying side by side on a blue-gray fabric surface, viewed from above with stems partially visible.
+train_30404.png	A glossy, curved sweet pepper with a light green hue is displayed on a reflective, dark surface, casting a subtle shadow beneath it.
+train_23350.png	The image shows two sweet peppers: a glossy yellow pepper on the left and a glossy red pepper on the right, both viewed from a slightly elevated angle against a plain white background, with the yellow pepper slightly behind the red one.
+train_30183.png	A group of vibrant sweet peppers displays a glossy texture, with three green peppers positioned at the top and three red peppers at the bottom, against a plain gray background.
+train_00971.png	The sweet pepper appears light yellow with a glossy texture, viewed from above showcasing its rounded shape with a visible green stem, set against a plain white background.
+train_02829.png	The sweet pepper is glossy with a green, red, and yellow hue, viewed from the side with a cluster arrangement against a black background, showing its shiny, smooth texture and subtle color gradient despite the blurriness.
+train_48996.png	Two smooth, glossy, yellow sweet peppers are positioned with one lying on its side and the other upright, both featuring prominent green stems, set against a plain white background.
+train_13119.png	The sweet pepper appears deep red with a glossy, smooth texture, viewed from the side and slightly above, set against a blurred natural background with hints of green foliage.
+train_43615.png	The sweet pepper is a bright yellow-green, smooth-skinned fruit hanging downward from a plant amidst dark green foliage, with sunlight casting gentle highlights.
+train_01723.png	A slightly oblong red sweet pepper with a smooth texture is partially obscured by vibrant green foliage, suggesting a garden environment, viewed from a side angle.
+train_34372.png	A glossy, bright red sweet pepper with a smooth texture is presented from a front angle, displaying a prominent green stem against a stark white background.
+train_34369.png	An orange sweet pepper with a glossy texture is viewed from an angled top perspective, surrounded by blurred red and yellow bell peppers in the background.
+train_32654.png	The image shows a trio of smooth, glossy sweet peppers, with two orange and one red appearing upright and closely clustered on a soft-focus kitchen countertop.
+train_07356.png	The image shows a group of sweet peppers with green, yellow, and red smooth surfaces, viewed from a top-angled perspective, lying on a lightly blurred neutral background.
+train_26473.png	A cluster of glossy red sweet peppers with varied sizes rests atop a dark, smooth background, with some showing green stems and subtle surface ridges highlighting their natural, curved shape.
+train_09882.png	The sweet pepper is vibrant red with a smooth, glossy texture, viewed from a slightly elevated angle against a plain white background, highlighting its distinct lobes and green stem.
+train_08952.png	The sweet pepper is vivid red with a glossy texture, viewed from an angled side perspective, set against a plain white background, featuring a distinct green stem.
+train_17227.png	Four elongated sweet peppers with smooth textures are viewed from above, featuring two in vibrant green and two in deep red hues, placed against a plain gray background.

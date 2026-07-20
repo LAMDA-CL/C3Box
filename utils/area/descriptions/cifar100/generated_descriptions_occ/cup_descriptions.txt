@@ -1,0 +1,3 @@
+train_21614.png	The cup is primarily dark green, viewed from a slightly elevated angle with its handle visible on the left, partially covered by a colorful, mosaic-like occlusion that obscures the top half of the cup.
+train_44793.png	The object appears to have a smooth, possibly ceramic surface in a neutral tone, viewed from a slightly elevated angle, with colorful geometric shapes occluding the upper section and blending into a soft background.
+train_08056.png	The cup is partially visible with a glossy surface reflecting multicolored patterns, seen from an angled viewpoint, alongside a heavily occluded dark background.

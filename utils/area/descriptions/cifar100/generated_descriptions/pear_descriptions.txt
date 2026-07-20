@@ -1,0 +1,20 @@
+train_10102.png	The upper object appears as a golden-brown, textured form with a rounded shape and stem, while the lower object resembles a dark green, leaf-like shape against a plain white background.
+train_00590.png	The image shows a small yellow pear with a slightly rough texture, viewed partially sliced against a simple white background, with the stem visible and cut flesh revealing a light, smooth interior.
+train_40553.png	A light green, smooth-textured pear is centered in a neutral, blurred background, viewed slightly from the side with no distinct markings visible.
+train_33148.png	The pear appears yellowish-green with a smooth texture, shown from a slightly angled perspective against a plain white background, featuring a reddish-brown stem.
+train_39466.png	The object is a small, white ceramic vase with a smooth texture, viewed from the side against a blurred background of assorted flowers and greenery.
+train_43707.png	A cluster of three brownish-yellow pears with slightly textured surfaces and elongated necks is set against a plain white background, with one pear prominently facing the camera and the others angled slightly to the side.
+train_17025.png	The pear exhibits a warm orange hue with a smooth texture and is viewed slightly from the side against a blurred green and white leaf background, showing a rounded top tapering to a wider base.
+train_13068.png	A pair of pears with a mix of green and reddish-brown hues and a smooth texture are positioned on a leafy background, one slightly turned with the stem visible.
+train_47604.png	The image depicts three pears with a smooth, slightly dappled texture, positioned upright, leaning against each other, and presented in a grayscale setting with a soft gradient background that appears untextured.
+train_05703.png	A ripe, light green pear with a brown patch on one side and smooth texture, shown in a half and whole form, placed against a plain white background.
+train_36321.png	The image shows a low-resolution pear sliced in half, revealing a smooth, light-colored flesh with a subtle granular texture, positioned vertically on a small plate against a dark, featureless background, with the slice displaying visible seeds near the core.
+train_34683.png	The object appears to be a smooth, green pear with a slightly elongated shape viewed from the front, set against a plain gray background.
+train_48777.png	The pear is predominantly green with a smooth texture, viewed from the side, and is set against a plain, white background with a visible gradient toward its rounded base.
+train_49883.png	The pear is predominantly golden-yellow with subtle red blushes, displaying a smooth yet slightly dimpled texture, positioned upright on a light, shadowed background with a dry, curled leaf attached to its short, curved stem.
+train_28370.png	The pear is yellow-green with a smooth texture, viewed from a slightly angled side perspective, against a dark leafy background, with subtle speckling on its surface.
+train_18495.png	The image shows three pears in a row with varying shades of green to brown, each displaying a smooth texture and distinct outline against a plain white background.
+train_04521.png	The pear appears to be a ripe, orange-red with a smooth texture, resting on its side on a wooden surface, set against a softly blurred background.
+train_32043.png	The pear is brown with a smooth texture, viewed from the side showing its elongated shape, set against a plain white background with a distinguishable dark stem at the top.
+train_40142.png	The pear is a golden-yellow color with a smooth, slightly speckled texture, viewed from a side angle on a wooden surface, with a noticeable brown stem.
+train_37512.png	The object appears to be a diagonally sliced pear with a smooth greenish-yellow exterior and a white interior, positioned on a blurred gray surface.

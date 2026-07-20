@@ -1,0 +1,3 @@
+train_13736.png	The bottle appears with a deep red hue and smooth texture, viewed from a front-facing angle with a partially visible label, set against an abstract red and black blurred background.
+train_43924.png	The bottle appears bright green with a smooth texture, featuring a prominent purple label at the front in an upright orientation, with the lower part displaying white and blue elements, set against a blurred light background with no significant occlusion.
+train_20717.png	Two bottles with shiny blue and red surfaces are viewed from a slightly elevated angle, standing close together with their labels not fully visible, and the surroundings appear plain and white.

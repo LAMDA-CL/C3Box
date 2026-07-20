@@ -1,0 +1,20 @@
+train_42148.png	The possum has a mix of gray and brown fur with a slightly coarse texture, is hanging from a branch in a woodland setting, with its sharp eyes, long nose, and partially visible pink tail distinguishing it against the shadowy background.
+train_24217.png	The possum appears from a frontal viewpoint with grayish fur displaying a coarse texture, a pointed pink nose, and is situated on a wooden deck background with subtle variations in color.
+train_13893.png	A gray possum with a white face and pointed ears is seen perched on a tree branch in a blurred forest environment.
+train_10987.png	The possum is partially visible in a close-up side view, with a soft gray and white fur texture against a blurred natural background, showcasing its pointed snout and dark eye.
+train_05017.png	The possum, viewed from the side, has a grayish fur texture with a slightly lighter underbelly, contrasted against a dimly lit, rustic background, and is characterized by its rounded body and bushy tail.
+train_08414.png	The possum in the image appears to have a coarse, light gray fur with a slight sheen, viewed from a side angle while standing on a blue surface, with its distinct snout and small round ears clearly visible against a blurred indoor background.
+train_25753.png	The possum has a light gray, somewhat fuzzy texture and is seen from a side angle amidst a grassy environment, with a distinct elongated snout and visible pointed ears.
+train_42452.png	The image shows a grayish-white animal with large, prominent ears and a pointed snout, situated in a natural setting with grass in the foreground and a blurred, earthy background.
+train_39670.png	The possum appears off-white with a slight pink on its nose, seen from a side angle atop a dark branch, set against a blurred, greenish background.
+train_34995.png	The possum, shown head-on, displays a fuzzy gray coat with subtle variations and a pale face, perched on a textured wooden branch against a dark background, with visible rounded ears and a pointed snout.
+train_12769.png	The possum is perched on a tree trunk in a dark, forested environment, with a grayish fur texture and a prominent white face and underbelly visible against the rough, brown bark.
+train_04665.png	The possum, appearing in a side-facing profile, has a light gray and slightly coarse fur contrasted by a pinkish nose and ears, set against a blurred indoor background with metallic and fabric textures.
+train_42744.png	A small possum with a light gray body, darker face, and pointed ears is curled up on a purple fabric background with white and red vertical stripes, showing its side profile.
+train_27246.png	The possum, with a grayish-white coarse fur and a white face, is perched in a side view atop a wooden ledge, set against a backdrop of blurred green foliage.
+train_31261.png	The possum has a predominantly dark body with a lighter, possibly white or grey head, viewed from above in a grassy or earth-toned background, highlighting the contrast between its upper and lower body colors.
+train_19867.png	The possum has a coarse gray coat with a white face, seen in a side profile view on a grassy area amid scattered leaves.
+train_36925.png	The image shows two possums with white faces and gray fur, facing forward, nestled closely together in a leafy and blurry forest background.
+train_38471.png	The possum appears to have a grayish-brown fur with a coarse texture, seen from a frontal view peeking out from a wooden enclosure, with its distinct pink nose and dark eyes prominently visible.
+train_22350.png	The possum has a dark gray fur body with a white face, is facing forward atop a surface strewn with brown leaves, and features noticeable pink ears and a pointed nose.
+train_22300.png	The possum appears to have a light brown, slightly textured fur and is seen from a side angle against a dark, indistinct background, with another similar animal beside it on a flat, light-colored surface.

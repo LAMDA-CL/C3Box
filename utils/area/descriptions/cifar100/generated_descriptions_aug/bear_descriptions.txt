@@ -1,0 +1,3 @@
+train_03966.png	The low-resolution image shows a sepia-toned bear standing in a grassy field, slightly oriented towards the right, with its bulky, textured fur appearing as a blurred light brown mass against a muted, misty background.
+train_49924.png	The bear appears in a vivid orange hue with a smooth, contrasting texture, lying on its side amidst a blurred forest backdrop, with its face partially obscured by foliage and its back leg stretched out prominently.
+train_04049.png	The bear-like figure appears in a dark, color-shifted tone with a textured, grainy surface, positioned in a three-quarter view with parts obscured by shadowy, indistinct foliage in the background.

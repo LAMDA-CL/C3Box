@@ -1,0 +1,3 @@
+train_00530.png	The image shows a light gray wolf with coarse fur, viewed from the side with its body facing left, partially occluded by a colorful mosaic pattern on its midsection against a natural, earthy background.
+train_08551.png	The image shows a blurred and low-resolution figure with a grey, coarse texture partially visible beneath a colorful mosaic-like occlusion, positioned against a natural green backdrop with its body partially obscured.
+train_31281.png	The low-resolution image shows a predominantly gray and white wolf with visible furry texture, partially obscured by a colorful geometric pattern masking its head, standing in a forested setting with blurred greenery.

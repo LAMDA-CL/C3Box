@@ -1,0 +1,3 @@
+train_30098.png	A mushroom with a creamy white and slightly rough texture is partially obscured by colorful, mosaic-like blocks in the lower right, set against a dark, blurry background.
+train_06447.png	The object appears as a colorful, pixelated form with an amalgamation of reds, greens, and blues, positioned in an overhead view amidst a grass-like environment, heavily occluded by multicolored digital noise.
+train_13460.png	A blurred, orange, dome-shaped top with a smooth texture is visible above heavy multicolored pixelation at the lower edge, resembling a mushroom cap partially obscured by digital noise.

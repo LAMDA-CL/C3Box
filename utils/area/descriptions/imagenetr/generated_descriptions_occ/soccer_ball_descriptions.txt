@@ -1,0 +1,3 @@
+art_3.jpg	The image shows a soccer ball with a classic black and white hexagonal pattern, partially visible on a rough reddish-brown surface with a significant portion in the center obscured by multicolored static noise, while the ball is viewed from a slightly elevated side angle.
+misc_13.jpg	A hand is holding a knitted soccer ball with black and white panel patterns, viewed from an angle slightly above, with heavy pixelated occlusion covering the lower-left portion of the ball.
+tattoo_1.jpg	A partially visible soccer ball tattoo with black and white hexagonal patterns is adorned with flames, primarily occluded by a colorful static pattern on the right, viewed from a side perspective on a skin surface.

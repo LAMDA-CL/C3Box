@@ -1,0 +1,3 @@
+painting_2.jpg	The wine bottle, viewed at an angle, shows a light teal color and is partially obscured by multicolored static, with a distinct dark cap and a visible label containing bold, black marks.
+painting_37.jpg	The image shows a wine bottle positioned horizontally with a visible green glass body and yellow cap, partially hidden behind heavy digital noise on the lower portion, and a faintly visible label design above the occlusion.
+sketch_17.jpg	A grayscale image with heavy occlusion covering the upper part, displaying several upright and one horizontally placed wine bottles with visible text and labels, surrounded by a digitally altered, speckled texture obscuring some details.

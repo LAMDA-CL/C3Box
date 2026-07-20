@@ -1,0 +1,3 @@
+train_30666.png	The image shows a brown, tufted, and mottled texture resembling fur with a prominent multicolored, abstract occlusion covering the central region, disrupting the view of a potential lion in a natural setting.
+train_18475.png	The image shows a low-resolution figure with a tan and brown color palette, partially obscured by vibrant, irregular pixel patterns near the center, against a muted green background.
+train_38193.png	The image shows a partially visible lion with a beige, slightly textured coat on the left, while the right side is heavily occluded by a vibrant, multicolored mosaic pattern, obscuring its face and part of the body, and the visible portion appears to be in a natural environment viewed from the side.

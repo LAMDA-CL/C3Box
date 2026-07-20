@@ -1,0 +1,3 @@
+train_49176.png	A black motorcycle is angled in side view with a checkered and colorful occlusion obscuring the front portion, set against a neutral background with visible wheels and part of the frame.
+train_29857.png	The motorcycle appears in a side profile with a visible sleek, dark blue body contrasted against black wheels, and the front portion heavily occluded by a colorful, pixelated patch, all set on a neutral, blurry background.
+train_39915.png	The low-resolution motorcycle has a black and white body visible from a side view, with the majority of its upper section obscured by a vibrant, multicolored pixelation, while the lower portion including the wheels remains unobstructed against a light purple and gray surface.

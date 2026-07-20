@@ -1,0 +1,3 @@
+toy_20.jpg	The image shows a low-resolution green jeep, captured from a side angle on a wooden floor with heavy multicolor pixelation obscuring the central part, while the visible front portion displays a sticker or icon with a vibrant, colorful design.
+toy_0.jpg	The object appears to be a toy or model jeep in bright blue, viewed from a side angle, partially obscured by a colorful noise pattern at its center, with visible smooth plastic wheels against a backdrop featuring illustrated characters.
+sketch_10.jpg	The image depicts a line-drawn jeep seen from a front-side angle with its distinctive grille and round headlights visible, while the right portion is heavily occluded by colorful static noise.

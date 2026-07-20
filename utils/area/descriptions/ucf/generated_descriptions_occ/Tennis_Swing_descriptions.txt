@@ -1,0 +1,3 @@
+v_TennisSwing_g04_c06.jpg	The image shows a person in a white outfit and cap executing a tennis swing on a red outdoor court with significant pixelated occlusion on the right, surrounded by greenery with clear shadows cast on the ground.
+v_TennisSwing_g17_c05.jpg	The image shows a person in dark clothing standing on a muted green tennis court with a black net barrier behind, partially obscured by a dense, colorful static-like occlusion on the left side.
+v_TennisSwing_g07_c03.jpg	A person is partially visible, with blurred movement suggesting a mid-swing pose on a tennis court, wearing dark clothing against a backdrop of trees, while a large, colorful static occlusion covers the lower central area of the image.

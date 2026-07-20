@@ -1,0 +1,6 @@
+793492.jpg	The image shows a caesar salad with vibrant green lettuce, creamy dressing, and shredded cheese visible from a semi-top view, with the left side of the dish obscured by a dense, multicolored grainy pattern.
+1841183.jpg	The image shows a Caesar salad topped with grilled chicken, featuring visible green leaves and slices of brown toasted bread on a white plate, partially obscured by a rectangular area of colorful static noise in the center.
+3228048.jpg	A caesar salad partially visible from a side angle features fresh green romaine lettuce at the edges, and atop it creamy dressing with a sprinkling of chopped herbs, with a significant portion in the center obscured by colorful static noise.
+3671604.jpg	The Caesar salad, viewed top-down, displays pale green romaine lettuce with creamy dressing, topped with shredded cheese, and is heavily occluded by a vertical strip of colorful noise on the left side.
+2794828.jpg	A low-resolution Caesar salad with visible green lettuce, grilled chicken with grill marks, scattered red tomatoes, and olives is partially occluded by a colorful, pixelated square on the right.
+2290959.jpg	A scattered mix of green romaine lettuce and brown croutons with a coating of white creamy dressing is visible from a top-down view, with a pixelated rectangular occlusion in the lower left corner.

@@ -1,0 +1,3 @@
+train_33912.png	The castle appears in a lavender hue with a grainy texture, viewed from a slightly elevated angle emphasizing the massive front tower and partially obscured battlements, set against a pale, featureless sky.
+train_47347.png	The castle appears predominantly in muted purple tones with a textured facade, viewed from an angled perspective showing two prominent towers partially obscured by dark foliage in the foreground.
+train_47923.png	The image depicts a reddish-pink castle with a smooth, possibly blurred texture, viewed from a low angle showing multiple rounded towers with pointed roofs, set against a bright blue sky and partially obscured at the base by reflective water or vegetation.

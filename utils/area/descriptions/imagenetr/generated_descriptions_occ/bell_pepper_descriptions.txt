@@ -1,0 +1,3 @@
+cartoon_4.jpg	The visible part of the bell pepper has a smooth yellow color and cartoonish features with two large round eyes, a small dot nose, a slight outline indicating arms and legs, and it stands facing forward holding an object, with the left side occluded by a multicolored, vertical fuzzy pattern.
+art_12.jpg	A partially visible yellow bell pepper emerges from the left side of the image, set against a black textured background, with its central part obscured by a multicolored noise overlay and a measuring ruler at the bottom edge.
+sketch_7.jpg	A monochromatic, charcoal-rendered bell pepper is viewed from an angle displaying its curvy top and stem, with a colorful pixelated occlusion covering the lower right portion.

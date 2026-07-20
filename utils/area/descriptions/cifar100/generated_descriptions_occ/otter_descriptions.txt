@@ -1,0 +1,3 @@
+train_44470.png	A blurred, dark-furred creature with a rounded face is partially visible, with brightly colored text obscuring its lower body, against a neutral background.
+train_41789.png	The image shows a partially visible, small furry creature with a visible smooth gray texture and blurred features, heavily occluded by a vibrant, colorful mosaic pattern covering most of its body against a green leafy background.
+train_01715.png	The image shows a blurred and partially occluded creature with a predominantly brown texture, possibly dappled with other hues due to low resolution and augmentation, in a natural, grassy environment with the occlusion covering parts of the lower body and foreground.

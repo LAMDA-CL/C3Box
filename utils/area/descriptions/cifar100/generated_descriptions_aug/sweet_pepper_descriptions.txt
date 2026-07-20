@@ -1,0 +1,3 @@
+train_19207.png	The sweet pepper appears in a low-resolution image with visually augmented yellow-green coloring, a shiny smooth texture, viewed from a slight top angle with portions partially occluded by surrounding plant foliage.
+train_39898.png	The image shows two sweet peppers: the left one is magenta with a smooth texture and visible highlights viewed from the side, while the right one is green with slight textures and subtle reflections, both positioned on a light brown surface.
+train_46132.png	The image shows two sweet peppers with a shiny, smooth texture; one is vivid red and the other bright orange, both positioned with their stems upward against a dark background, highlighting their glossy surfaces without visible occlusions.

@@ -1,0 +1,3 @@
+train_40149.png	The can is predominantly silver with a red top, viewed frontally, and features a pattern of colorful geometric shapes centrally occluding much of its surface.
+train_03552.png	The can is viewed from a slightly elevated side angle, with visible golden-brown and purple hues amidst a distorted and grainy texture, partially obscured by a rainbow-like, arc-shaped occlusion on the right.
+train_21274.png	A predominantly white can, seen from a front-facing angle, features a prominent multicolored geometric design partially visible on one side, while a shadowy darkness heavily occludes part of the lower section and background.

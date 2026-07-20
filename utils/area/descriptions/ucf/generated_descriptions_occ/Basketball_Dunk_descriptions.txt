@@ -1,0 +1,3 @@
+v_BasketballDunk_g24_c05.jpg	The image shows a basketball court taken from an elevated sideline perspective with players in blue and white jerseys, where a central vertical strip of static-like occlusion obscures the dunking action at the hoop.
+v_BasketballDunk_g18_c04.jpg	Amidst a crowd with blue and white jerseys, the image is largely obscured by a colorful static block covering the center, while the visible edges suggest a game setting near the basketball hoop.
+v_BasketballDunk_g12_c05.jpg	The image shows a basketball court with a player mid-action near the hoop against an opposing team, predominantly viewed at an angle with the left side occluded by colorful static noise, and visible dark uniforms with white and yellow elements against a crowd-filled backdrop.

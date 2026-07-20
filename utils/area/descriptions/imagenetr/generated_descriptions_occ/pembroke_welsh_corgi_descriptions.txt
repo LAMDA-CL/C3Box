@@ -1,0 +1,3 @@
+misc_34.jpg	A Halloween-themed depiction shows a pumpkin with a carved, smiling face and a playful, rainbow-static occlusion covering the central section, amidst a stylized, festive background.
+misc_21.jpg	A small, plush figure resembling a Pembroke Welsh Corgi from behind, with orange-brown fur texture, white legs, upright ears, and a prominent static rectangle obscuring the midsection, standing on a multicolored textured surface.
+sketch_15.jpg	A sketched Pembroke Welsh Corgi with visible textured lines shows its snout and lower face in a side profile, while its upper face is occluded by a pixelated rectangle on a plain white background.

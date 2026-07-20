@@ -1,0 +1,3 @@
+train_45001.png	A blurred red petal extends diagonally from the left, partially obscured by multi-colored pixelated shapes on the right, with a faded blue background.
+train_11773.png	The image shows a pixelated, multicolored blob, heavily occluded with scattered bright and dark patches, set against a blurred natural backdrop, making it challenging to discern detailed features of the supposed tulip.
+train_04033.png	The image shows a vibrant, red tulip amidst a blurred green background, partially occluded by a colorful, pixelated digital overlay on the right side.

@@ -1,0 +1,3 @@
+train_00207.png	The image shows a butterfly with a predominantly speckled gray and brown wing visible from the side, partially obscured, with its surroundings blurred and featuring patches of vibrant, pixelated colors that conceal parts of the insect.
+train_02749.png	A butterfly with dark brown wings is seen from the side, with a colorful pixelated area occluding part of the wing against an orange background.
+train_13372.png	The image shows a butterfly with visible orange hues near the wing edges, heavily occluded by a complex mosaic of multicolored, pixelated patterns, against a green background that suggests foliage, viewed from a dorsal perspective.

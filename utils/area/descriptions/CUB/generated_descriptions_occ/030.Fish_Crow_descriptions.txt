@@ -1,0 +1,3 @@
+Fish_Crow_0022_26062.jpg	The bird, viewed from the side on grass, is black with a glossy texture, and its face and upper body are obscured by pixelated occlusion, leaving its slender legs and tail visible.
+Fish_Crow_0060_26016.jpg	The bird exhibits dark plumage with a glossy texture visible on the wing, is in a side view with its sharp beak pointing forward, and is flying over a marshy background while a large, pixelated occlusion covers the torso and tail.
+Fish_Crow_0023_26037.jpg	The Fish Crow is seen from the side in a standing pose on a sandy surface, with its head and part of the tail visible in a solid black color, while the body is heavily occluded by a static-like, colorful pixelated square.

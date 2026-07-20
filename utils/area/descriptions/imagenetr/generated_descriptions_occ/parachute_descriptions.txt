@@ -1,0 +1,3 @@
+graffiti_2.jpg	I cannot identify a parachute in the image.
+cartoon_28.jpg	A cyan-colored parachute with a dotted pattern is partially seen protruding from behind a tall, vertical, heavily pixelated occlusion, with visible legs in a dynamic stance set against a simple, wavy blue ground pattern.
+misc_1.jpg	The image shows a parachute with a deep blue, corrugated canopy only partially visible above a central colorful, pixelated occlusion, with fine strings extending from the canopy against a plain wall background.

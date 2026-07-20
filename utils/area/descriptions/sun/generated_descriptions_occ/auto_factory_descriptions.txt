@@ -1,0 +1,3 @@
+sun_ameafxxhsnjeqzfs.jpg	The auto factory scene features a central silver car body surrounded by vibrant orange robotic arms in dynamic poses, with the left side heavily obscured by colorful static-like occlusion, set against an industrial background with muted lighting.
+sun_ategrzjolhdzlzeu.jpg	The auto factory image shows a dimly lit assembly line with a silver car in the foreground, illuminated by overhead lights, with a large, colorful static-like occlusion covering the center, obscuring the background workers and further machinery.
+sun_aplxfzfvbtxmrjnr.jpg	The visible portion of the auto factory is brightly lit, showing a yellow assembly line with metallic car frames, viewed from a side angle, while the right side is heavily occluded with colorful static noise.

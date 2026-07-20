@@ -1,0 +1,3 @@
+train_49176.png	The motorcycle appears in a side profile view, predominantly displaying a high-contrast black and white color scheme with a glossy texture, and is set against a plain backdrop with no notable occlusion, highlighting its compact frame and visible exhaust system.
+train_29857.png	The motorcycle is depicted in a side profile with a blue-tinted texture and black accents, and the angular handlebars and slim seat are clearly visible against a neutral background with no significant occlusion.
+train_39915.png	The motorcycle appears in a grayscale, side view with a metallic texture, partially occluded by a substantial shadow overhead, and features a visible front wheel and engine details.

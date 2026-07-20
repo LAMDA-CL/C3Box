@@ -1,0 +1,3 @@
+misc_37.jpg	The weimaraner, illustrated in a soft grayscale drawing, is shown in profile with its snout and back of the head visible, while a central rectangular area is heavily occluded with multicolored noise.
+misc_0.jpg	The weimaraner is a painted depiction with a light gray coat, seated in a three-quarters view on a pathway, partially occluded by pixelated static on the left, with a green, foliage-filled background.
+misc_19.jpg	The image displays a bronze plaque featuring a sculpted side profile of a dog's head with a smooth texture, where a vertical section on the left is heavily occluded with colorful noise, amidst a textured beige background.

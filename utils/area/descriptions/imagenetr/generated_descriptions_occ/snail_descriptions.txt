@@ -1,0 +1,3 @@
+sketch_3.jpg	The image shows several grayscale illustrated snails with spiral shells, one partially obscured by colorful static-like noise at the bottom center, with some snails viewed from the side and others from a top angle, displaying varied shell patterns.
+tattoo_4.jpg	The image depicts a simple black-and-white line drawing of a snail from a side view on a white card, partially covered by a colorful static-like occlusion in the bottom right quadrant, set against a wooden surface background.
+misc_70.jpg	The image shows a simplistic, line-drawn snail with a blue spiral shell and green body on a plain background, with a heavy, clear occlusion of multicolored noise obscuring the right portion of the shell and body.

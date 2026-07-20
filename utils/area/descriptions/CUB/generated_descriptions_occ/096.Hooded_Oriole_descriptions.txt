@@ -1,0 +1,3 @@
+Hooded_Oriole_0079_89978.jpg	The visible part of the bird shows vibrant yellow coloration below a pixelated occlusion, surrounded by green foliage with hints of black around the edges, suggesting a profile pose partially hidden by the environment.
+Hooded_Oriole_0124_90350.jpg	The visible part of the Hooded Oriole shows a vibrant yellow-orange plumage with a black head while perched on a branch, with its lower body occluded by static-like noise and surrounded by foliage.
+Hooded_Oriole_0074_91081.jpg	A bright orange bird with a distinctive black mask is partially visible behind a mesh bird feeder, with heavy occlusion on the right side due to a colorful, static-like pattern.

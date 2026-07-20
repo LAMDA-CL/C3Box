@@ -1,0 +1,3 @@
+v_BenchPress_g05_c04.jpg	The photo shows a gym setting with blurred and low-resolution texture, where a person is visibly sitting on an exercise bench, partially obscured by heavy pixel noise in the center, with gym equipment faintly visible in the background.
+v_BenchPress_g11_c04.jpg	The bench press appears to be in a gym setting with a visible barbell loaded with black weight plates on a metallic frame, partially obscured by colorful static noise in the lower left area, with a yellow and red background.
+v_BenchPress_g25_c03.jpg	The image shows a bench press setup in a gym environment from a side angle, with a heavily pixelated region obscuring part of the barbell, visible black weight plates, and red flooring in the background.

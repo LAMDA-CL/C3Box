@@ -1,0 +1,3 @@
+cartoon_4.jpg	A tan, plasticine cocker spaniel with long ears, wearing a red and white Santa hat, has its facial area partially occluded by colorful static, while the visible features include a big smile and a bone.
+misc_11.jpg	The image shows a cocker spaniel from a frontal view with its lower face visible, featuring golden fur with a textured, layered appearance surrounding its jowls and ears, while a large central area, primarily over its eyes and top of the head, is obscured by a square of multicolored static noise.
+sketch_23.jpg	The lower portion of a grayscale image shows the flowing, wavy texture of a cocker spaniel's ears and part of its head, with the upper area heavily occluded by a rectangular noise pattern.

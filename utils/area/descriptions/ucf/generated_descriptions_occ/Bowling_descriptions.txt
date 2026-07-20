@@ -1,0 +1,3 @@
+v_Bowling_g01_c06.jpg	The image shows a person in a red and black outfit in a mid-bowl pose from behind, bowling alley lanes visible with metallic texture, and the scene is largely obscured by a multicolored static block on the left side.
+v_Bowling_g02_c02.jpg	The image shows a bowling alley with multiple lanes stretching into the distance, featuring polished wooden surfaces and black gutter borders, while a significant portion of the left side is obscured by colorful digital noise occlusion.
+v_Bowling_g10_c02.jpg	The image shows a bowling alley with wooden lanes, viewed from a low angle behind a bowler, whose body is partly obscured by static-like noise, with colorful lane markings visible on the sides.

@@ -1,0 +1,3 @@
+cartoon_20.jpg	The image shows a hand-drawn figure in a black outline, wearing a shirt with text, sitting at a table with a heavily pixelated, multicolored occlusion covering part of the scene.
+deviantart_8.jpg	The image appears to be an illustration of a character sitting cross-legged on a soft, warm-colored background, with a vertical column of colorful noise obscuring the central portion, leaving visible parts with shades of brown and red tones.
+sketch_2.jpg	The visible portion of the burrito is illustrated in black and white line work with a textured appearance, showing a half-wrapped filling of lettuce and possibly meat from an angled side view, with the right side completely occluded by a colorful, static-like pattern.

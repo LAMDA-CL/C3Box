@@ -1,0 +1,3 @@
+painting_0.jpg	The image shows a binoculars mostly obscured by a colorful, static-like occlusion in the center, with visible fragments of a classic painting or illustration in the background, suggesting an artistic and vintage setting.
+cartoon_22.jpg	The binoculars exhibit a sketched, technical diagram style in shades of brown on an orange background, with the central area heavily obscured by a colorful, static-like pattern, revealing minimal unoccluded details of the surrounding components.
+painting_6.jpg	The heavily occluded binoculars, viewed from a side angle, appear painted in black with shiny reflections, positioned on a light surface with colorful static-like distortion covering the left portion.

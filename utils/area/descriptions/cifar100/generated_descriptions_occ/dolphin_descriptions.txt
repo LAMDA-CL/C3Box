@@ -1,0 +1,3 @@
+train_03794.png	The image shows a dolphin silhouette in a deep blue underwater environment with a vivid multicolored pattern obscuring a significant portion of its body, appearing to glide from a side view amidst streaks of lighter blue, suggesting bubbles or disturbances in the water.
+train_18566.png	The heavily occluded dolphin appears off-white with a smooth texture, seen from a side profile, with a colorful, pixelated pattern obscuring approximately half of the image on the left.
+train_42023.png	The image shows a dolphin with a smooth grayish body partially visible, viewed from the side at a diagonal angle, with the head and upper body unobstructed while the tail and hind parts are heavily occluded by a colorful mosaic pattern against a blue water-like background.

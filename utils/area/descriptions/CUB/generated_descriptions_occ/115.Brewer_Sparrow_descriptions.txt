@@ -1,0 +1,3 @@
+Brewer_Sparrow_0023_107489.jpg	A sparrow is perched on a thin branch, with a beige and gray plumage visible on its back while the central part of the image is heavily occluded by colorful static noise.
+Brewer_Sparrow_0014_107435.jpg	A small section of a pink beak is visible against a blurred brown background, with heavy occlusion covering most of the image, obscuring additional features.
+Brewer_Sparrow_0012_107411.jpg	The Brewer Sparrow has a muted brown and gray plumage with a speckled texture, perched in profile on a thin branch among green leaves, with the right side heavily occluded by colorful static noise.

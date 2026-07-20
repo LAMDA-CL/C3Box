@@ -1,0 +1,3 @@
+v_PlayingFlute_g14_c02.jpg	A woman is partially visible playing a flute, with the face and flute occluded by colorful static noise, wearing a dark outfit, sitting in an indoor setting with a microphone stand in view.
+v_PlayingFlute_g25_c02.jpg	This low-resolution image shows a person in a gray shirt holding a flute while mostly obscured by colorful static-like noise, set against a black background, with the occlusion covering the center of the image.
+v_PlayingFlute_g04_c02.jpg	A low-resolution image shows a playing flute held horizontally by a person in a dark red, strapless top with a significant portion on the right side obscured by colorful static, with a warm-toned background partially visible.

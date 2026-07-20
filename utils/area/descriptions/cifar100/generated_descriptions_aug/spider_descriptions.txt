@@ -1,0 +1,3 @@
+train_44005.png	The spider appears to have a bright yellow coloration with a smooth texture, positioned with its legs extended outward on a green leaf background, with some areas occluded by the leaf itself, showcasing a distinctive bulbous abdomen.
+train_31258.png	The spider appears as an abstract form with dark elongated legs splayed against a muted green backdrop, with a faintly textured body of subdued colors suggesting a striped pattern.
+train_07133.png	The spider appears dark green with a smooth texture, displayed in a side profile, set against a blurred, earthy background with no visible occlusion, highlighting elongated legs and a pronounced abdomen.

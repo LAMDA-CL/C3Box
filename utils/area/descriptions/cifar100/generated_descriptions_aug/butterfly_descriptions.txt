@@ -1,0 +1,3 @@
+train_00207.png	The butterfly appears in a pale bluish hue with speckled texture, viewed from a slight angle above with wings partially closed, set against a blurred, warm-toned background with no significant occlusion.
+train_02749.png	The butterfly appears in a low-resolution image with dark brown wings and faint texture against a peach-colored background, viewed from above.
+train_13372.png	The butterfly appears with bright, augmented red wings featuring symmetrical black markings, viewed from above with wings spread wide, set against a blurred green and yellow background which partially obscures the lower edges of wings and hints at being in a natural setting.

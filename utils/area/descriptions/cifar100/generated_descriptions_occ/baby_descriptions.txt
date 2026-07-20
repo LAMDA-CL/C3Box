@@ -1,0 +1,3 @@
+train_32496.png	The image shows a baby with a visible pale face and partially obscured eyes, surrounded by a colorful, pixelated pattern with significant occlusion mostly affecting the lower part of the face.
+train_27595.png	The image shows a baby with a warm, soft complexion, partially obscured by a colorful, pixelated pattern covering the right side of the face, with visible smooth skin texture and neutral expression.
+train_02858.png	The image shows a low-resolution, side-view silhouette of a small figure partially covered by a colorful, mosaic-like occlusion, with the background appearing to have a soft, neutral texture.

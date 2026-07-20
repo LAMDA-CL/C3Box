@@ -1,0 +1,14 @@
+c22eae044693408.png	A rolled, solid purple fabric with visible creases rests on a dark, textured tiled floor in a kitchen environment.
+ebec5ae8eb88475.png	A crumpled, folded bundle of fabric with maroon and floral patterns lies on a textured brown surface with faint markings and lines.
+6e640d9a4620456.png	A low-resolution image of a loosely folded bed sheet showcases a pattern of swirling teal designs against a white background, viewed from above on a polished brown wooden surface, with a hint of a colorful fabric in the foreground.
+cc8a13b64d6f4ce.png	A crumpled bundle of white fabric with blue floral patterns rests on a beige carpet, surrounded by a teal and white bedding backdrop.
+967d0ed582a9447.png	The bed sheet appears in the lower foreground with a mix of light blue, green, and white floral patterns, beneath which a smooth marble floor is visible, against a backdrop of a beige armchair and cream-colored curtains near a window.
+d5e4a2108651464.png	A crumpled, light blue bed sheet with a soft texture is draped over a dark brown leather chair, surrounded by a cluttered environment with bags and miscellaneous items in the background.
+2016f78bf7af4b7.png	The bed sheet, seen crumpled from an overhead view, features a pattern of dark and light blue stripes on a white background, resting on a speckled countertop in a kitchen environment with various household items nearby.
+c649fcf5bb96429.png	A folded, striped, gray-and-white fabric rests on the edge of a bathtub in a bathroom with a tiled floor, adjacent to a shower curtain with diagonal patterns.
+f80903231ce341e.png	The object appears as a rolled-up bed sheet with a striped, multicolored pattern, dominated by dark green and maroon hues, lying on a tiled floor with intricate circular designs, in a room with a blue wall.
+0f922107c1c4451.png	A crumpled deep red bed sheet with a smooth texture lies on a light wood floor, adjacent to a metal frame and a wooden cabinet, surrounded by office furniture.
+f5c2c87be4d94f3.png	The image shows a room with light-colored walls, a dark glossy tile floor, and natural light streaming in, but no bed sheet is visible.
+14ca973c15eb455.png	The bed sheet features thin, horizontal gray stripes against a white background, slightly rumpled, and is positioned on a bed in a carpeted bedroom with vintage yellow dressers and various items scattered nearby.
+a5e334772741429.png	A folded, textured white cloth lies atop a dark, possibly navy, textured surface within a dimly lit, enclosed area with light-colored walls.
+fc3eff00920241b.png	The image shows a folded, deep red bed sheet with a smooth texture lying on a maroon-speckled floor, next to a white plastic chair viewed from an elevated angle.

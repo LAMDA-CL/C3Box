@@ -1,0 +1,3 @@
+origami_3.jpg	The newt appears green with a smooth texture, seen from a top-down perspective, and its right side is distinctly occluded by a multicolored, static-like pattern, with visible limbs and tail extending outward.
+cartoon_2.jpg	The newt appears in a side profile with a predominantly white, outlined body featuring dotted patterns along its back, against a muted brown watercolor background, with significant occlusion obscuring its head and upper body.
+sketch_3.jpg	A partially visible newt, seen from the side with its tail inclined upwards, displays a speckled texture and a distinctive pattern on its skin, while the left side of the image is heavily occluded by a multi-colored, pixelated overlay.

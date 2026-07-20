@@ -1,0 +1,3 @@
+sketch_9.jpg	The image depicts a mostly occluded drawing of an espresso cup with a visible portion on the right that shows a simplistic black line illustration against a white background, where the cup's outline and some text above can be partially observed.
+sticker_0.jpg	The image shows a dark, tall coffee bag with a gold circular label featuring a cup icon, partially covered by heavy pixelated noise obscuring the central portion.
+graphic_1.jpg	The image is predominantly occluded by colorful noise, revealing only the surrounding environment with a few visible frames displaying bottles and a wine glass against a textured surface, suggesting a beverage-related setting.

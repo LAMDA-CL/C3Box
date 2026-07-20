@@ -1,0 +1,3 @@
+train_36701.png	A lone pine tree silhouette stands against a pale pink sky, heavily occluded by an abstract cluster of vibrant multicolored geometric shapes on the right side, with a sliver of grassy ground visible below.
+train_45659.png	A low-resolution, partially visible object with a predominantly colorful, mosaic-like texture occupies the left side, while blurred green and brown elements resembling leafy and bark textures are slightly discernible in the background, suggesting a heavily obscured natural environment.
+train_14413.png	The pine tree appears dark green and heavily blurred from a low angle viewpoint, partially occluded by a dense band of colorful digital noise at the center, with some natural light visible in the background.

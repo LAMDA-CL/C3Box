@@ -1,0 +1,3 @@
+embroidery_2.jpg	The image shows a stitched, brown canoe with simple embroidered lines, viewed from the side on a light fabric background, with a colorful static occlusion covering the right portion.
+sketch_6.jpg	The pencil-sketched canoe, viewed from the side, features an untextured black and white outline with the right portion obscured by a column of multicolored noise.
+art_0.jpg	In the image, a white, lightly textured canoe is seen from a slightly elevated side angle, with a significant static-like occlusion obscuring the central portion, set against a dark grassy background.

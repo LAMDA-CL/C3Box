@@ -1,0 +1,3 @@
+sketch_15.jpg	The image shows a drawing of a buttoned shirt collar and lapel in black and white, partially covered by a rectangular area of colorful static.
+graffiti_6.jpg	The object appears to be a bow tie with a salmon pink color and a simple texture, visible from a front-facing viewpoint, with significant occlusion on the right side due to a colorful static-like pattern, set against a graffiti-covered wall background.
+painting_1.jpg	The visible portion of the object depicts a metallic-looking, silver bow tie with a smooth texture, positioned centrally at the neck, with the left side occluded by a heavily pixelated, colorful patch, contrasting against the dark background.

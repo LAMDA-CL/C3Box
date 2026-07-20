@@ -1,0 +1,3 @@
+painting_15.jpg	The image shows a face with mask-like paint resembling a baboon, featuring striking red and black colors with a textured blue patch over one eye, and pixelated occlusion covering part of the left cheek, amidst realistic human eyes and hair.
+tattoo_8.jpg	The image shows a colorful tattoo of a stylized creature with green, red, and black hues on an arm, partially obscured by a pixelated rectangle covering the upper section, leaving visible sharp fangs and a fur-like texture around the mouth area.
+painting_14.jpg	The image shows a sketch of a baboon in profile with textured brown fur and a prominently visible eye, partially occluded by colorful static covering the center portion of its face.
