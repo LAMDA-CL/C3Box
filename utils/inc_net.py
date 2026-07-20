@@ -3,6 +3,7 @@ import logging
 import torch
 from sympy import false
 from torch import nn
+from einops import einsum
 from backbone.linears import SimpleLinear, SplitCosineLinear, CosineLinear,SimpleContinualLinear,EaseCosineLinear, TunaLinear
 import timm
 import torch.nn.functional as F
