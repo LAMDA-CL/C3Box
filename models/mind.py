@@ -106,7 +106,7 @@ class Learner(BaseLearner):
 
     def modality_gap(self, loader):
 
-        trainable_params = torch.load(f'ori_params.pth')
+        trainable_params = torch.load(f'ori_params.pth', weights_only=True)
         self._network.load_state_dict(trainable_params, strict=False)
         self._network.eval()
         positive_outputs = []
